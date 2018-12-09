@@ -1,0 +1,111 @@
+
+Log DateTime: Sun May 13 22:53:28 EDT 2018
+LOGIN: USER has Logged in
+Log DateTime: Sun May 13 22:53:33 EDT 2018
+FOUND - Data Searched: All of Database
+Log DateTime: Sun May 13 22:54:19 EDT 2018
+EDIT: The old data was replaced with a new one 
+Created By: USER
+Date Created: Sun May 13 22:54:19 EDT 2018
+Key: 4
+ID: 2081853
+URL: https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/
+https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1753acfe
+Title: Facebook Just Tapped the Next Mark Zuckerberg 
+Author: Jessi Hempel 
+Category: business 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af5fbf8bd60ef5132936fd9/master/pass/zuck_18121749645852.jpg 
+URL Links: 
+https://www.wired.com/tag/facebook/
+https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/
+https://www.wired.com/2014/11/on-david-marcus-and-facebook/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?mbid=BottomRelatedStories
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/?mbid=BottomRelatedStories
+https://www.wired.com/story/heres-what-facebook-wont-let-you-post/?mbid=BottomRelatedStories
+
+Data: 
+	Earlier this week, Facebook announced a grand reshuffle of its leadership. First reported by Recode, the new structure includes 
+teams for the company’s apps, new platforms and infrastructure, and central product services. Most of the people moving into new 
+roles have been with the company for close to a decade or longer, and many have proven themselves adept at 
+the skill Facebook appears to value over all others: growth.Chris Cox Is the New Mark ZuckerbergIf there were ever a 
+question as to who would step in to fill Zuckerberg’s shoes should something happen to him, it has been resolved. 
+With his new role as head of the company’s family of apps—Instagram, WhatsApp, Messenger and the tried and true Big 
+Blue (aka Facebook)—Facebook’s chief product officer is stepping out as the leader he has long been internally. Anyone paying close 
+attention knows this already.Cox, who is very close friends with Zuckerberg, dropped out of a Stanford graduate program to join 
+Facebook in 2005. He’s done a lot of jobs since. When I first met him in 2008, he was the 
+25-year-old head of resources who zipped around the office on a ripstik. An engineer by training, he helped invent news 
+feed and was the star of the video Facebook showed investors in the run-up to its initial public offering. Cox 
+is a brilliant public face for the company because he pairs engineering rigor and Facebook history with an emotive voice 
+that Zuckerberg sometimes lacks. (Check out his F8 keynote from 2011 to see this in action.)Cox’s new role also suggests 
+Facebook will integrate Instagram and WhatsApp more deeply into the company, now that they’re organizationally closer to Messenger and Facebook. 
+This may have contributed to WhatsApp cofounder Jan Koum’s departure last month.Javier Olivan Just Got a Lot More ImportantOf Zuckerberg’s 
+three direct reports on the product side of the business, Olivan is the only one not currently on Facebook’s leadership 
+page. The Spanish native arrived at Facebook after finishing his Stanford MBA in 2007 to run international growth, when the 
+company had just 40 million users, most in the United States. The growth team is Facebook’s Navy SEALs, a special-operations 
+force brought in when the company sees potential for a feature to take off and the stakes are high. Historically, 
+most teams at Facebook have included one of Olivan’s direct reports.Olivan’s responsibilities now include ad products, analytics, and a group 
+called “integrity, growth, and product management.�? One could also read this as one way Zuckerberg is demoting ad products. Mark 
+Rabkin, who is in charge, now reports to Olivan.Controversy Wont Stop WhatsApp’s New BossUnlike its Instagram acquisition, Facebook’s acquisition of 
+WhatsApp was never a great culture fit. Koum promised to keep WhatsApp ad-free, then sold it to an ad company. 
+In March, cofounder Brian Acton, who’d already left Facebook to start a foundation, advised his 35,000 Twitter followers to #Deletefacebook. 
+Then last month, Koum announced he was leaving his post as WhatsApp’s CEO and stepping off Facebook’s board.Now Chris Daniels, 
+a seven-year Facebook veteran, steps in to replace Koum, eschewing the title as CEO of WhatsApp for a vice president 
+title. It will be on Daniels, who will report to Cox, to sort out a business for the messaging service. 
+He’s got the experience to take on the challenge. Until recently, Daniels ran Facebook’s internet.org initiatives around expanding access in 
+developing countries. The largest of these projects is Free Basics, an app that offers access to free web services. Although 
+telecom companies rejected the idea of partnering with Facebook to provide the Free Basics app early on—and India banned it 
+in 2016—more than 80 carriers partner with Facebook to offer the service.Facebook Probably Has a Blockchain PlanDavid Marcus, who ran 
+Facebook’s Messenger app, will now lead a team of fewer than a dozen people dedicated to blockchain technology. Kevin Weil, 
+who was in charge of product at Instagram, is joining him along with James Everingham, who was in charge of 
+engineering there. (WIRED’s Erin Griffith and Sandra Upson have some thoughts on what this means.)A board member of cryptocurrency wallet 
+Coinbase with a lot of payments experience, Marcus has a history of leaving large posts to take up seemingly small 
+projects. He was CEO of PayPal in 2014 when he left to run Messenger. The move was a head-scratcher: At 
+the time, Messenger was a tiny messaging app that had failed to take off as an email replacement. But Zuckerberg 
+had a plan to transform Messenger into a better version of WhatsApp (which, it should be said, he’d just bought), 
+one that businesses could harness to reach users in new ways.Messenger’s Chief is a Growth ExpertReplacing Marcus at Messenger is 
+Stan Chudnovsky. He’s one of the newer members of the leadership bench, having arrived at Facebook in 2014. Like Marcus, 
+Chudnovsky is a serial entrepreneur; he sold his last company, the software startup IronPearl, to PayPal before it was a 
+year old. Chudnovsky’s nascent startup had been building growth tools for companies, and at PayPal he was head of growth. 
+At Messenger, Chudnovsky worked closely with Marcus to grow Messenger into a service with more than 1.3 billion monthly active 
+users.There Are Almost No Women HereA shamefully obvious aspect of the image of the org chart that Recode pieced together 
+earlier this week is the paucity of female faces. In fact, there’s only one: Naomi Gleit, who now runs “integrity, 
+growth and product management.�? Gleit, who is Facebook’s longest tenured employee (she was #29), has long been part of the 
+growth team at Facebook and was until recently the company’s “vice president of social good.�? Gleit is a force to 
+be reckoned with, no doubt. But this new structure raises questions about Zuckerberg’s commitment to building an inclusive workforce. For 
+as much as the company has benefitted from the work its chief operating officer, Sheryl Sandberg, has done personally to 
+promote women, it should be unacceptable for Zuckerberg to fill 13 of the company’s 14 most critical technical positions with 
+men.A New Face(book)What the deal with Facebook and the blockchain?House Democrats recently released 3,500 Russia-linked Facebook ads.Here what Facebook wont 
+let you post. Related VideoBusinessMark Zuckerberg House Testimony HighlightsHighlights from Facebook CEO Mark Zuckerbergs appearance before the House Energy and 
+Commerce Committee. 
+
+Log DateTime: Sun May 13 22:54:35 EDT 2018
+Find - Searching to find data ID: 5070845
+Log DateTime: Sun May 13 23:10:40 EDT 2018
+FOUND - Data Searched: All of Database
+Log DateTime: Sun May 13 23:10:40 EDT 2018
+-f ALL Flag command
+Log DateTime: Sun May 13 23:12:06 EDT 2018
+-i Flag command with https://www.wired.com/story/hey-alexa-what-are-you-doing-to-my-kids-brain/
+Log DateTime: Sun May 13 23:13:30 EDT 2018
+-i Flag command with https://www.wired.com/story/internet-week-170/
+Log DateTime: Sun May 13 23:16:59 EDT 2018
+-i Flag command with https://www.wired.com/story/vehicle-future-bike/
+Log DateTime: Sun May 13 23:17:36 EDT 2018
+-o Flag command with newdataout
+Log DateTime: Sun May 13 23:17:41 EDT 2018
+-i Flag command with https://www.wired.com/story/vehicle-future-bike/
+Log DateTime: Sun May 13 23:17:47 EDT 2018
+ADD: Advance Search of car and searched through 1 pages.
+Log DateTime: Sun May 13 23:17:57 EDT 2018
+ADD - Data was not added to the database!
+Log DateTime: Sun May 13 23:17:57 EDT 2018
+-i Flag command with car
+Log DateTime: Sun May 13 23:33:56 EDT 2018
+EXIT: USER has Exited Out

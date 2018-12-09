@@ -1,0 +1,10 @@
+Instructions and Commands
+Note: Commands are not case sensitve but Flags commands are!
+Logout  Exit from current user
+Save    Saves the Work done into the table
+Exit    Shuts the program done
+Add	Add data to the database
+Find	Find the data in the database
+Delete	Delete data from the database
+Edit	Modify data from the database
+

@@ -1,0 +1,1529 @@
+
+Log DateTime: Mon May 14 01:30:59 EDT 2018
+Searched for tesla
+Log DateTime: Mon May 14 01:31:00 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1364614
+URL: https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/
+https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@675d3402
+Title: This Week in the Future of Cars: Touch and Go 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af48a7a2906f277bf4645b7/master/pass/Rolls-Royce-SUV_Aerial-View.jpg 
+URL Links: 
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/tag/flying-cars
+https://www.wired.com/story/uber-unveils-flying-taxi/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/
+https://www.wired.com/story/waymo-crash-self-driving-google-arizona/
+https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/
+https://www.wired.com/story/aston-martin-db-11-volante-convertible-roof-engineering/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/2012/07/ff_stevejobs/
+
+Data: 
+	Transportation is a world full of visionaries: big ideas gone even bigger. It attracts world shakers (and breakers) like 
+Grimes’ Boyfriend, Travis Kalanick, and Mark Moore, a 30-year NASA veteran who decamped last year for Uber’s new flying car 
+project. There are lots of fanciful renderings and prototypes, lots of pulled-off covers and pointing of spotlights. But there’s a 
+lot of busted dreams too. Plans that run out of money, petering out and puttering toward death. Collectors who come 
+calling. Cars that crash and kill.Which is all to say: It was a mixed bag of a week. Senior writer 
+Jack Stewart covered the two-day bonanza that was Uber’s second-annual, and completely serious, flying car summit. Editor Alex Davies took 
+a close look at startup Drive.ai’s upcoming self-driving shuttle launch in unlikely Frisco, Texas. Fun stuff! But ugly stuff too: 
+Tesla’s investor insurrection, thanks (in part) to Grimes’ Boyfriend’s indelicate earnings call comments. A Waymo crash in Arizona that doesn’t 
+appear to have anything to do with self-driving tech but had really unfortunate timing anyway. And a jump in pedestrian 
+deaths—which we’ll need much more than autonomous vehicles to prevent.Let’s get you caught up.HeadlinesStories you might have missed from WIRED 
+this weekUber wants to play middleman in the flying car future, slinging app-ordered rides that take riders smoothly from A 
+to B as the fools in ground-bound vehicles sit in traffic below. But that doesn’t mean it won’t have a 
+hand in the flying car design. This week, the ride-hailing giant turned transportation-everything unveiled an all-electric VTOL concept, and reiterated 
+its commitment to an ambitious timeline: commercial flights by 2022.Last week’s Tesla fireworks continue, with an activist investor now pushing 
+the electric carmaker’s shareholders to banish three of its nine board members in favor of folks with relevant manufacturing expertise. 
+One way Grimes’ Boyfriend could kill the insurrection? By making more cars.In more Tesla news: The National Highway Traffic Safety 
+Administration clarified that the carmaker, and not the federal agency, came up with a much-cited Autopilot safety statistic. Which meant 
+it was a good time for me to ask: How much do we know about Autopilot safety record, anyway?Late last 
+week, a Waymo minivan being driven by a human got seriously banged up by an out-of-control Honda driver. Police in 
+Chandler, Arizona, determined the Waymo vehicle wasn’t at fault, but the scary photos of the banged-up Chrysler Pacifica were spookily 
+reminiscent of this spring’s fatal Uber crash.Yeehaw! Alex explores Drive.ai’s plans to launch a self-driving shuttle service in the Lone 
+Star State, and why geofenced and limited shuttle routes just might be lots of Americans’ first experiences with autonomous vehicles.Heck 
+naw! Contributor Nick Stockton tries to get to the bottom of why Nashville, Tennessee, voters soundly rejected an ambitious transit 
+revamp meant to improve transportation in the traffic-choked city.The Insurance Institute for Highway Safety released a disturbing study on pedestrian 
+deaths, finding fatalities jumped by 46 percent between 2009 and 2016. Some say autonomous vehicles will solve all our road 
+safety problems, but the tech has a ways to go. I explore another option: getting much smarter about road design. 
+ADDLINKAlex finds out everything (really, everything) you have ever wanted to know about engineering a luxury convertible roof.You should read 
+contributor Eric Adams’ spec analysis before plopping down $325,000 and spitting in the face of the proletariat to buy Rolls-Royce’s 
+Cullinan SUV.Glorious Chrome Extension of the WeekI love a good celebrity gossip-automotive crossover story, and we got one in spades 
+when Tesla’s CEO showed up to the Met Gala with Canadian musician and artist Grimes. The meme-ers went wild, I 
+went wild, and someone created a Chrome browser extension that replaces “Grimes’ Boyfriend�? with “Grimes’ Boyfriend�?. OK, maybe I’ve had 
+it turned on all day.Required ReadingNews from elsewhere on the internetThe Information reports Uber has found that its self-driving software—not 
+its sensors—are responsible for March’s deadly Arizona collision. Two sources say the software identified but “filtered out�? the pedestrian as 
+a “false positive�?.Uber says it will resume testing autonomous vehicles in a few months.The NTSB is investigating a Florida Tesla 
+Model S crash that killed two teenagers this week. The panel will primarily explore the emergency response to the electric 
+vehicle battery fire, and says it does not expect to focus on Autopilot.Way back in October 2017, GM said it 
+would start testing AVs in New York City by 2018. But Jalopnik reports the automaker still doesn’t have the necessary 
+permitsHere’s a helpful breakdown of the complicated, crowded, and very technical lidar space.College-age nerds, rejoice. Carnegie Mellon University is launching 
+an undergraduate AI degree in the fall.Lime, which today runs dockless bike-, e-bike-, and e-scooter-share programs across the country, wants 
+to get into… electric-pod-share? The world is moving so quickly.In the RearviewEssential stories from WIRED’s canonRogue CEOs: good or bad? 
+Once you’ve gotten your fill of Grimes’ Boyfriend, check out this 2012 WIRED meditation on the granddaddy of polarizing tech 
+leaders, Steve Jobs. Related VideoScienceGo Inside the Aerodrome, Where the Future of Flight Takes ShapeWelcome to the Aerodrome, where engineers 
+are simulating wind conditions to teach drones to fly safely. 
+
+Log DateTime: Mon May 14 01:31:01 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 2015601
+URL: https://www.wired.com/story/pedestrian-deaths-street-design/
+https://www.wired.com/story/pedestrian-deaths-street-design/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1b604f19
+Title: Save Lives With Smarter, Slower Streets&#8212;Not Self-Driving Cars 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af4b8189c9c3672736890d8/master/pass/Road-Design-GettyImages-85654895.jpg 
+URL Links: 
+https://www.wired.com/tag/self-driving-cars
+https://www.wired.com/story/self-driving-cars-challenges/
+https://www.wired.com/2016/07/better-ways-kill-traffic-lying-waze/
+https://www.wired.com/story/uber-self-driving-crash-video-arizona/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/story/pedestrian-death-rates-climb/
+https://www.wired.com/story/uber-nacto-data-sharing/?mbid=BottomRelatedStories
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/?mbid=BottomRelatedStories
+https://www.wired.com/story/dodger-gondola-bust-traffic/?mbid=BottomRelatedStories
+
+Data: 
+	No, you’re not imagining things. The timelines for autonomous vehicles keep shifting. Electric carmaker Tesla began selling a $3,000 
+“full self-driving�? add-on to its Autopilot feature in 2016—everything you need to drive without driving!—but still hasn’t turned it on. 
+In 2012, Google’s Sergey Brin said “ordinary people�? would have access to self-driving cars by 2017; the company is still 
+gearing up for a very limited driverless taxi service this year. Volvo quietly delayed a project that was supposed to 
+put 100 Swedish families into autonomous vehicles by 2017.No one wants unready tech on public roads, but for anyone who 
+has bought into the technology’s promise to save lives, the delay is a bummer. To put it very lightly. Almost 
+40,000 Americans died on the road last year. And a new study from the Insurance Institute for Highway Safety finds 
+ugly driving trends have hit one group particularly hard: pedestrians. Nearly 6,000 pedestrian died in 2016, a 46 percent jump 
+over 2009. And if robots won’t save the bipeds, who will?Your friendly carbon-based neighborhood traffic engineer can—and they don’t even 
+need artificial intelligence or $75,000 laser sensors to do it.“If there is too much emphasis on autonomous vehicles solving the 
+problem, when widespread deployability is decades in the future and not next year, I think it increases the temptation to 
+hope that the technology is going to save us,�? says Liisa Ecola, a transportation planner and senior policy analyst with 
+the Rand Corporation. “Traffic safety is a big problem now and to ignore the things we can do, I think, 
+is a disservice to the tens of thousands of people who are killed every year in crashes.�?So forget robots. Engineers 
+and the public officials who dole out their paychecks can start redesigning streets to make them safer. They can zoom 
+in on their problem areas—is there a section of road where people keep getting hurt?—and start fixing roads today.The IIHS 
+study points to the walking pain points, the issues to be solved. Between 2009 and 2016, deaths on arterials—the high-capacity, 
+wide, multilane roads that feed into freeways or highways—jumped 67 percent. Deaths at sections of roads that weren’t intersections went 
+up 50 percent. Deaths in the dark rose by more than half.The good news is that road engineers have access 
+to a suite of “traffic-calming�? measures, which would slow down cars on otherwise fast-paced roads and could prevent many crashes. 
+In fact, Scandinavian-inspired Vision Zero programs, which seek to totally eliminate road deaths and have been adopted by hundreds of 
+places in the US, lay out basic principles for preventing deaths.Let’s take a particular example of a terrible and tragic 
+road death. In March, Arizona resident Elaine Herzberg died when she was struck by a self-driving Uber on a wide, 
+multilane road in Tempe, Arizona. The crash made clear the fallibility not just of robots—we dont know why the Uber 
+didn’t hit the brakes or swerve—but of humans. The Uber employee sitting behind the wheel, charged with grabbing the wheel 
+to prevent crashes, was looking away from the road when the SUV hit Herzberg.A better robot could have saved Herzberg’s 
+life, but so might have better road design. Tempe is pretty typical for a middling-density place. Engineers built its arterials 
+to transport cars, and quickly. Their long, straight lines are easy for drivers to navigate but induce a slow, lazy 
+“zoning out,�? and a level of comfort that makes it easier to glance away from the road.Deaths like Herzeberg’s, on 
+streets like Tempe’s, might have been prevented with more frequent and shorter crosswalks. Herzberg, wheeling a bicycle weighed down with 
+plastic bags, was about 100 yards from the nearest crosswalk when she died. That’s not too far, but given how 
+many crosswalks on urban arterials are miles away from each other, it’s not hard to comprehend why a walker like 
+Herzberg might risk a run across the road.Another option is to put a street on what engineers call a “road 
+diet,�? narrowing or even eliminating lanes of traffic. Reducing the margin of error makes drivers more likely to pay attention—research 
+evaluated by the Federal Highway Administration suggests road diets can cut crashes by more than 30 percent, and pedestrian deaths 
+or injuries by more than 20.Safety-minded engineers suggest that even simply adding trees or landscaping to the sides of roads 
+adds eye-catching elements that can force drivers to focus. Things like “bulb outs,�? which jut into the street at intersections 
+and shorten distances between corners for pedestrians, work too. Any way engineers can get drivers to slow the heck down 
+is helpful. The faster a car is moving, the more likely it is to kill someone in a collision. You’re 
+as much as 5.5 times more likely to kill someone hitting them at 40 mph than 30 mph.(Oh, and drive 
+smaller cars too. The IIHS study notes a spike in deaths among those hit by the larger trucks and SUVs 
+Americans cannot stop buying.)Implementing these fixes should be far easier than teaching a robot to interpret a traffic cop’s hand 
+signals. Most transportation engineers now joining the workforce should be well-acquainted with these strategies, and ready to emphasize safety over 
+speed. And compared to the economic impact of crashes—not to mention the loss of lives—Vision Zero–type interventions cost pennies.But that’s 
+not always the way it turns out in city hall. Infrastructure funding is scarce. Drivers can get hostile when you 
+suggest slowing their commutes for the sake of, well, anything. And scientists are still struggling to pin rising pedestrian deaths 
+on any one factor. “Traffic safety is really a very multidisciplinary problem,�? says Ecola. “It’s not something we can fix 
+just with engineering solutions or just with campaigns to get people to wear their seatbelts more often. It’s all of 
+those things.�?Still, if tragic crashes don’t get politicians’ attention, what will? Hopefully not just the robo-cars that always seem a 
+horizon away.On the Road AgainUber makes peace with cities by spilling its secretsWhy traffic-choked Nashville said nope to public transitA 
+Dodger stadium gondola is just LA latest wild bid to bust traffic Related VideoTransportationSee How an Insane 7-Circle Roundabout Actually 
+WorksYour first thought upon seeing Swindons magic roundabout might be: man, the Brits have really lost the plot lately. But 
+this thing&#8212;which is actually seven roundabouts in one&#8212;has been working for 60 years. 
+
+Log DateTime: Mon May 14 01:31:01 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1551870
+URL: https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/
+https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@457e2f02
+Title: Who Pays the Most, and Least, in Silicon Valley? 
+Author: Scott Thurm 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af36ac697bc147d4a0254b4/master/pass/Amazon-874679068.jpg 
+URL Links: 
+https://www.wired.com/story/elon-musk-salary/?mbid=BottomRelatedStories
+https://www.wired.com/story/how-amazon-jeff-bezos-spends-his-money/?mbid=BottomRelatedStories
+https://www.wired.com/story/raising-wages-to-help-workers-could-actually-help-robots-replace-them/?mbid=BottomRelatedStories
+
+Data: 
+	How much do workers at tech firms make?The answer varies a lot, depending on the employer. The median employee 
+at Amazon made $28,446 last year, according to new disclosures required by the Securities and Exchange Commission. At Facebook, the 
+median employee made $240,430, more than eight times as much.There are reasons for the big disparity, of course: Facebook’s 25,000 
+employees include many software engineers, which it must recruit in the expensive and competitive San Francisco Bay Area. Most of 
+Amazon’s 566,000 employees work in its distribution centers, including many overseas; in the US, Amazon says the average hourly wage 
+in its distribution centers is more than $15 an hour, which translates to slightly more than $30,000 a year, before 
+overtime.Other disparities reflect differences in companies’ businesses, and business models. As a car maker, Tesla says 26 percent of its 
+employees are production workers and 18 percent are outside the US. The company reported median employee pay of $54,816. Tesla 
+says its employees also have benefited from increases in the company’s share price. IBM, which has aggressively moved jobs overseas 
+in recent years, reported median pay of $54,491. The New York Times reported in September that IBM now has more 
+employees in India than in the US. An IBM spokesperson did not respond to requests for comment.Even within the same 
+tech sector, median pay can vary significantly based on a company’s business model. Intel, the largest US maker of semiconductors 
+by revenue, makes its own chips. Three of its six manufacturing sites are in the US, as are half of 
+its 102,000 employees. The company reported median pay of $102,100. Nvidia, whose graphics chips are used widely for machine learning 
+and artificial intelligence, reported median pay of $147,640. The company contracts out the manufacturing of its chips and has only 
+about 8,200 employees. A spokesperson says half of Nvidia’s employees are in the “highly competitive�? Silicon Valley market and that 
+its employees are “highly skilled, college educated, and have deep expertise–all of which command a premium in the market.�?The median 
+pay figures underscore that intense competition for tech talent in the Bay Area. Nationally, the average pay for software developers 
+and programmers is $102,470, according to the US Labor Department. Bay Area tech firms are paying considerably more: The median 
+pay at Workday, which makes software that helps businesses manage finances and people, is $178,903, according to its proxy statement. 
+At Salesforce, another business-software maker, it’s $155,284; and at payments processor Square, it’s $152,265.Companies are disclosing the median pay of 
+employees for the first time this year under a new SEC rule intended to shine a light on the high 
+pay of CEOs. The rule took effect for fiscal years ending December 31, 2017, or later, so companies on different 
+fiscal calendars, including Apple, Microsoft, and Oracle, won’t report their median-pay figures until later this year.Companies have to report the 
+ratio of the pay of their CEOs to the median pay of their employees. The Wall Street Journal reported that 
+Marathon Petroleum CEO Gary Heminger was paid $19.7 million last year, or 935 times the $21,034 salary of the company’s 
+median worker.The ratios are less meaningful for big tech companies because many of their CEOs are founders who own large 
+chunks of the company and receive only nominal compensation. Twitter CEO Jack Dorsey received no compensation, according to the company’s 
+proxy statement. Facebook’s Mark Zuckerberg and Google parent Alphabet’s Larry Page each were paid $1. Zuckerberg’s reported compensation also included 
+$8.8 million for company-provided security services and travel on company planes. Amazon’s Jeff Bezos was paid a salary of $81,840, 
+as he has been annually since 1998; his compensation included $1.6 million for security services paid by the company.Money, Money, 
+MoneyElon Musk $0 salary encapsulates the legend of Tesla.How Jeff Bezos spends his cash.Raising wages to help workers could actually 
+help robots replace them. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon 
+Echo. Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Mon May 14 01:31:02 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 7035042
+URL: https://www.wired.com/story/watch-the-new-spacex-reusable-rocket-make-its-debut/
+https://www.wired.com/story/watch-the-new-spacex-reusable-rocket-make-its-debut/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6767c1fc
+Title: Watch the New SpaceX Reusable Rocket Make Its Debut 
+Author: Amy Thompson 
+Category: science 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af396110b975d475fa7b00a/master/pass/16510243060_48d6a9b1f6_o.jpg 
+URL Links: 
+https://www.wired.com/tag/spacex/
+https://www.wired.com/story/spacex-successfully-launches-the-falcon-heavyand-elon-musks-roadster/
+https://www.wired.com/story/spacex-gears-up-to-finally-actually-launch-the-falcon-heavy/
+https://www.wired.com/story/musks-new-mars-plan/
+https://www.wired.com/story/watch-spacex-launch-the-first-of-its-global-internet-satellites/
+https://www.wired.com/story/why-is-nasas-insight-mars-mission-launching-from-california/?mbid=BottomRelatedStories
+https://www.wired.com/2017/11/behind-the-scenes-nasa-tests-most-powerful-rocket-ever/?mbid=BottomRelatedStories
+https://www.wired.com/story/spacex-tess-nasa/?mbid=BottomRelatedStories
+
+Data: 
+	Update: SpaceX scrubbed Thursday launch after an abort during the countdown sequence. The next window opened Friday at 4:14pm 
+Eastern. The Falcon 9 successfully launched and its first stage landed on the drone ship off the coast of Florida, 
+which marks the company 25th landing.SpaceX is set to launch the Block 5 version of its flagship rocket, the Falcon 
+9, at 4:12 pm Eastern on Thursday, an event that signals that reusable rockets are here to stay—or, rather, to 
+boldly go. This upgraded version of the Falcon is expected to launch, land, and re-launch multiple times with little down 
+time in between flights.Today mission marks the first time SpaceX has returned to Pad 39A at Kennedy Space Center following 
+the epic maiden flight of its massive rocket, the Falcon Heavy. That highly anticipated launch captivated crowds across the world 
+on February 6, as it ascended through the atmosphere, carrying Elon Musk’s cherry red Tesla roadster (and a dummy driver, 
+Starman) into space.LoadingView on InstagramNow, SpaceX will make its long-awaited transition to the Block 5—which may not look incredibly different 
+than previous versions, but packs a much bigger punch: 1.8 million pounds of thrust, which amounts to a 7 percent 
+increase in power. The rocket will lift off sometime during a planned two-hour and 25-minute window and ferry the Bangabandhu-1 
+satellite to space. Then the first stage booster will return to Earth, where it’ll try to stick a landing on 
+the company drone ship, Of Course I Still Love You, waiting in the Atlantic Ocean.(The nearly 8,000-pound Bangabandhu-1 satellite will 
+bring commercial communications capabilities to a rural region of Asia for up to 15 years after being placed into orbit. 
+It’s the first satellite for Bangladesh, making it the 58th country to operate its own satellite in geostationary orbit.)Amy ThompsonSpaceX’s 
+philosophy has always been that a fully (and rapidly) reusable rocket is the key to dramatically reducing the cost of 
+spaceflight. Currently, a Falcon 9 rocket costs around $62 million, and while SpaceX is currently successfully reusing first-stage boosters—the most 
+expensive portion of the rocket—Elon Musk would like to get to the point where much more is reused, essentially ensuring 
+that fuel becomes the only major expense. To that end, SpaceX is also attempting to recover and reuse the payload 
+fairings—the protective nose cone that shields the rocket’s cargo as it travels through the atmosphere—with the help of a new 
+West Coast based recovery vehicle dubbed Mr. Steven.The vessel, outfitted with a claw-like catcher’s mitt was first employed earlier this 
+year during a mission to launch the Paz satellite. The fairing is an expensive piece of hardware, which historically has 
+been discarded, costs about 10 percent of the overall price tag of the Falcon 9, so being able to recover 
+and reuse it would be a win for SpaceX. Currently, after separation from the rocket’s upper stage, the two halves 
+of the fairing navigate back to Earth before a parachute deploys and they land in the ocean.So far Mr. Steven 
+has been unsuccessful in its attempts to snag the fairings, but SpaceX gathers data from each attempt, and will ideally 
+make a successful catch in the near future.The previous version of the Falcon 9, dubbed the full thrust variant, was 
+only capable of flying two or three times at most. If SpaceX is to meet its ultimate goal of flying 
+daily, a rocket that can only fly twice is not practical. Here’s where the Block 5 is crucial.The Block 5, 
+a culmination of more than 10 years of development, marks the final design iteration for the Falcon 9 and will 
+be the version the company relies on as its workhorse for the foreseeable future. It designed to re-fly as soon 
+as 48 hours after landing—a dramatic reduction in the downtime SpaceX rockets currently require.The Block 5 accomplishes this thanks to 
+a set of upgrades including improved engines, a more durable interstage, titanium grid fins, and an improved thermal protection system, 
+which hold up better to the stresses of launch. And gone are the days of the all-white Falcon—the spiffy new 
+interstage, along with a set of new, retractable landing legs are painted black. According to SpaceX, the Block 5 is 
+capable of flying 10 times or more, needing only light refurbishments, and up to 100 times before the booster is 
+retired.SpaceX plans to use the Block 5 to launch astronauts to the space station as early as 2019. In order 
+to achieve that goal, it has to fly the Block 5 at least seven times without making any alterations to 
+the design, and there are around 20 launches left on the schedule this year. This is shaping up to be 
+one slick-looking space taxi.3, 2, 1, Blastoff: More Rocket LaunchesWhy NASAs latest Mars mission launched from CaliforniaPHOTO ESSAY: Behind the 
+scenes as NASA tests its most powerful rocket everInside the TESS exoplanet launch Related VideoCultureSpace X By The NumbersSpace X 
+became the first company to launch a recycled rocket. Here’s what makes the company so cool. 
+
+Log DateTime: Mon May 14 01:31:02 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1442045
+URL: https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@cc285f4
+Title: Struggling Tesla Faces an Investor Insurrection 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af348a341f2a64a30dd46d1/master/pass/TeslaShareholders_17210438795527.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+
+Data: 
+	For a company working its way into an industry that specializes in annihilating newcomers, Tesla has proven remarkably persistent. 
+It has dodged bankruptcy, built an enormous fan base, and rolled out a series of terrific automobiles that made electric 
+cars cool. But the secret to the company’s endurance is that someone up there likes it—up there being top floor 
+corner offices occupied by the investors who have kept Tesla running through 15 profitless years.Now that Tesla is facing a 
+series of crises—a variety of lawsuits, interrogations over the safety of its Autopilot feature, and, most of all, lagging Model 
+3 production—some of those up on high are revealing themselves as Old Testament–style gods: displeased with what they see happening 
+on the ground, and ready to smite.This morning, an activist investor published a letter calling for Tesla shareholders to kick 
+three of its nine board members off the board and replace them with people with more relevant experience who will 
+be less likely to defer to defiant demigod CEO Elon Musk.The problem is the reality is starting to stack up, 
+and that’s a reality of accidents the cars have had, quality issues, and massive misses on Model 3 production numbers,�? 
+writes that investor, Dieter Waizenegger, executive director of the CtW investment group. “You add all that up and there’s a 
+real question about whether this company can deliver what it promises.Now that Tesla is mass producing cars, running an energy 
+business, and has some 40,000 employees, Waizenegger says it needs board members with experience in manufacturing, utilities, and management, and 
+who’ll be willing to help Musk through various hiccups. “They need to change the composition of the board to reflect 
+the evolving business strategy,�? he says. Tesla expanded its board last year, adding 21st Century Fox CEO James Murdoch and 
+Johnson Publishing Company CEO Linda Johnson Rice—hardly the expertise Waizenegger hoped for, he says. “We needed to do something more 
+dramatic.�?Musk’s refusal to answer analyst queries about Model 3 orders and capital requirements during an investor call last month (he 
+dismissed them as “boring, bonehead questions�?) didn’t assuage any concerns. “We want the company to survive,�? Waizenegger says. “It is 
+therefore concerning if you’re not able to have a serious conversation with analysts.�?So, at Tesla’s annual meeting on June 5, 
+CtW wants its fellow shareholders to vote against the reelection to the board of venture capitalist Antonio Gracias, Elon’s brother 
+Kimbal Musk, and Murdoch. (Like in the Senate, only third of Tesla board members come up for reelection at a 
+time.) It’s another way of saying: Musk should keep the top spot, but he needs more oversight. Tesla declined to 
+comment.Waizenegger has long voiced his concerns about Tesla’s board, which has hardly changed since the company went public in 2010, 
+and most of whose members have close personal ties to Musk.CtW may be right, but that doesn’t make it mighty. 
+And volubility does not mean anybody will join the cause. The firm, which runs pension funds sponsored by Change to 
+Win, a federation of unions, holds about 260,000 Tesla shares. By comparison, the automaker’s largest shareholder, Fidelity, holds more than 
+16 million. And despite Musk’s concerning performance on that investor call, Tesla seems to be headed in the right direction, 
+saying it should hit its target of building 5,000 Model 3 sedans a week in the next few months, and 
+reach profitability soon after. Just the sort of thing that should soothe anxious investors.“I’m betting almost all of these problems 
+would be fine if Model 3 production went to 5,000 plus, starting relatively soon,�? says Karl Brauer, an auto industry 
+analyst with Kelley Blue Book. “You can point to plenty of automakers that have had plenty of controversial issues crop 
+up. But if they’re overall profitable, people rightly assume they’ll get through it.�?Waizenegger maintains that experienced board members willing to 
+help Musk manage the company are crucial to Tesla’s future. The automaker is in a particularly tough spot right now, 
+fighting a series of crises as it tries to roll out the Model 3, the car that’s supposed to bring 
+electric driving to the masses and profits to investors. So the doubters may be more numerous and audible than usual. 
+But if Musk has proven anything, it’s that he can sell people on a vision and deliver—even if it takes 
+a Hail Mary.All About ElonTesla favorite Autopilot safety stat just doesnt stand upMusk ire reveals a Wall Street-Silicon Valley divideTesla 
+wild fight with the feds investigating its latest Autopilot death Related VideoTransportationTeslas Electric Model 3 Will Be a Great Everyday 
+Car ... Some DayNearly half a million people have put down a thousand dollar deposit for a Tesla Model 3 
+they may not get for years. But once the early production bugs are ironed out, the Model 3 feels like 
+its going to be a great everyday car. 
+
+Log DateTime: Mon May 14 01:31:02 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1332637
+URL: https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/
+https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@18be83e4
+Title: Texas Gets Its First Self-Driving Car Service 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.07.18 
+PicInfo: https://media.wired.com/photos/5aecc06841f2a64a30dd464c/master/pass/Van-2.jpg 
+URL Links: 
+https://www.wired.com/tag/self-driving-cars/
+https://www.wired.com/story/mobileye-self-driving-cars-arizona/
+https://www.wired.com/story/uber-self-driving-crash-arizona-suspend-testing-ducey-governor/
+https://www.wired.com/story/guide-self-driving-cars/?mbid=GuideCarveLeft
+https://www.wired.com/story/andrew-ngs-new-online-school/
+https://www.wired.com/story/phantom-teleops/
+https://www.wired.com/story/phantom-teleops/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+https://www.wired.com/story/gm-cruise-self-driving-car-launch-2019/?mbid=BottomRelatedStories
+
+Data: 
+	In the evolving geographic distribution of self-driving cars, the go-to getaway is Arizona, where good weather and minimal government 
+interference make testing two-ton robots something like fun in the sun. But as with all such places, the more crowded 
+it gets, the less people want to go there any more. Maybe that’s why Mountain View–based startup Drive.ai isn’t taking 
+its robo-cars to the land of the Grand Canyon, but to the wilds of the Lone Star State.Starting in July, 
+the company will run a fleet of driverless vehicles around Frisco, Texas, a city of 164,000 people on the northern 
+edge of the Dallas-Fort Worth metro area. Announced today, the six-month pilot—which will keep human safety operators behind the wheel, 
+ready to grab control if the car gets confused or misbehaves—marks Drive.ai’s first large-scale effort to put people in its 
+cars, and the first such deployment in Texas. Waymo has done some testing in Austin, but this service will provide 
+regular rides to the public.LEARN MOREThe WIRED Guide to Self-Driving CarsThe Drive.ai setup will look like more like an airport 
+shuttle than a taxi service. The company’s easily recognizable orange and blue Nissan NV200 vans will run only in a 
+tightly geofenced area, along fixed routes.Drive.ai hasn’t divulged much in the way of details, but says one such route will 
+serve employees at an office park in the southern bit of the city, taking them between buildings and to a 
+nearby stadium and apartment complex, at no charge. It will use fixed pickup and drop-off locations, so the cars don’t 
+have to worry about finding a safe space to pull over.“By choosing geofenced regions and working with partners, we can 
+take advantage of self-driving cars’ strengths while diminishing their weaknesses,�? says Andrew Ng, a member of Drive.ai’s board, and a 
+leading artificial intelligence expert.For the foreseeable future, this is how everyone will manage their fleets. Making a car that can 
+handle any conceivable situation is just too hard; the world is too complex. By limiting a vehicle to fixed routes, 
+or at least a limited area, you can be sure you’ve got fully updated maps, you can keep track of 
+conditions like construction that might make things tricky, and you can stick to the simplest situations. As your technology proves 
+itself and everyone starts to feel more confident, you can expand.Drive.ais vans will use exterior screens to communicate with people 
+on the street.Drive.aiIndeed, in later stages of this project, Drive.ai hopes to dump the human backup driver and fill the 
+passenger seat with a human “chaperone,�? to help guide passengers through the service. And, like just about every company working 
+on autonomous operations, it will have ready-to-help humans sitting in a remote location, monitoring the vehicles and issuing instructions as 
+needed.Drive.ai stands out among the host of companies in this space for its consideration of how its vehicles talk to 
+the world around them. Because, when you put a computer in charge, you lose the human ability to wave a 
+pedestrian ahead, or make the eye contact that lets that cyclist know you see her.“We need to be able to 
+communicate in all directions, and we need to be able to show intention and have a conversation with the other 
+players on the road,�? Drive.ai co-founder and president Carol Reiley told WIRED back in 2016, when the company was starting 
+to test with roof-mounted “billboards�? that could display messages. For the Frisco pilot, the Nissan vans will have panels mounted 
+on all sides to say things like “Waiting for you to cross,�? “pulling over,�? and “passengers entering.�?And now, maybe, “Welcome 
+to Texas, home of the robo-revolution.�?Robo-RevolutionSelf-driving cars have a secret weapon: humans in call centersTesla favorite Autopilot safety stat just 
+doesnt hold upGeneral Motors will launch robo-cars without steering wheels next year Related VideoScienceNASAs New Mars Lander Will Give Insight 
+Into the Planets Make-UpThe Insight Lander, developed by NASAs Jet Propulsion Laboratory, will probe deep beneath the surface of the 
+Red Planet to measure temperatures and allow study of its seismic activity. Its name is short for Interior Exploration using 
+Seismic Investigations, Geodesy and Heat Transport. 
+
+Log DateTime: Mon May 14 01:31:03 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1196765
+URL: https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/
+https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@2b98378d
+Title: Elon Musks Ire Reveals a Wall Street-Silicon Valley Divide 
+Author: Zachary Karabell 
+Category: business 
+Date: 05.05.18 
+PicInfo: https://media.wired.com/photos/5aecf9de923fd24d3f22a289/master/pass/ElonWallStreet-631093314.jpg 
+URL Links: 
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-model-3-production-profitability/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+
+Data: 
+	Wall Street and Silicon Valley have never been happy bedfellows, and that was on full display this week during 
+Tesla’s quarterly earnings call. These calls are usually dull affairs, with CEOs or CFOs reading a prepared script summarizing the 
+already-released financial results and articulating the main goals of the company that have, presumably, been stated before. Then Wall Street 
+analysts ask a series of questions about the results, tactics, and strategy that executives artfully dodge or dutifully answer. Much 
+like press conferences, the format does not lend itself to spontaneity.WIRED OpinionAboutZachary Karabell is a WIRED Contributor. Karabell is the 
+head of Global Strategies Envestnet and the president of River Twice Research.Except when the company is Tesla and the CEO 
+is Elon Musk. The press after this week’s call was intensely critical of Musk for dismissing questions, refusing to delve 
+into financial details, and musing about robo-Ubers and autonomous electric trucks cutting into rail transport. More than most, the call 
+exposed the starkly different perspectives of Wall Street and the valley. Musk clearly is avoiding some hard questions about Tesla’s 
+financial viability. But it’s equally true that the call exposed how limited Wall Street can be about visions for the 
+future and what it takes to create new templates for doing old things.Musk is not your normal CEO, of course, 
+with his multiple interlocking companies and his ability—so far—to convince investors to go along for a ride that promises the 
+moon (or Mars in the case of his SpaceX) and delivers no earnings while taking on huge amounts of debt. 
+But even by those standards, his refusal to answer basic questions about, say, how much cash Tesla is burning through 
+and whether the company has a plan to continue subsidizing and capitalizing its expenses struck Wall Street as odd and 
+a sign of deep problems.What made this call peculiar was the way Musk dismissed sober questions by respected Wall Street 
+analysts such as Toni Sacconaghi of Bernstein, who pressed Musk about costs and cash. Musk brushed him off, sniping that 
+“bonehead, boring questions are not cool.�? To add insult to that injury, Musk then fielded questions from a YouTube user, 
+who proceeded to dominate a call normally open only to significant Wall Street analysts. That did not sit well with 
+the Street, and Sacconaghi lambasted Musk the next day on CNBC with the rather clever jab, “This is a financial 
+analyst call, this is not a TED talk.�? Friday, Musk returned fire, with tweets asserting that the question was boneheaded 
+because the analyst already knew the answer and was asking purely to advocate a negative thesis about the company.Musk’s sparring 
+with analysts recalls similar tensions between Wall Street analysts and Jeff Bezos of Amazon, Reed Hastings of Netflix, Mark Zuckerberg 
+of Facebook and other arrogant, aggressive, and visionary technology CEOs. The analysts consistently press for metrics including revenue, margins, cash 
+burn, and earnings projections. The CEOs routinely try to emphasize growth, users, experience, and long-term vision. The analysts press on 
+expenses, competitors, cost of capital; the CEOs dodge and weave and point to strategy, new models, breaking old molds, and 
+creating new marketplaces. And so the dance goes.The power has shifted back and forth since the real explosion of tech 
+companies on Wall Street during the 1990s. During the dot-com euphoria of the late 1990s, the concerns of traditional Wall 
+Street analysts were seen as quaint, stodgy, and hopelessly backward. Who cares about traditionally viable business models, the techies essentially 
+said; we are creating entirely new channels. After the Nasdaq bubble burst in 2000, the momentum shifted to Wall Street; 
+actually, cash matters, and having a real business with real revenue has to be part of the equation sooner rather 
+than later. In recent years, there has been more convergence, with a handful of tech companies growing into potent businesses 
+respected by Wall Street and attracting massive investor interest.The Tesla conundrum again crystallizes this conflict. Analysts demand a sense of 
+when, and how, the company will generate cash and stop accumulating debt; Musk finds such concerns secondary to building out 
+an ecosystem of battery production, propulsion and motor systems, renewable-powered robotic factories, and new modes of production meant to revolutionize 
+how heavy stuff is made as surely as Henry Ford and Frederick Winslow Taylor did in the early 20th century.Ideally, 
+one wouldn’t pick sides. After all, even Musk knows that at some point, his businesses will have to generate earnings 
+and cash. Debt, however raised, isn’t endless—unless you are a sovereign government. But he also believes that unless the entire 
+ecosystem is built out, it will fail. Hence the focus on massive capital spending and plowing into new business lines. 
+Bezos had a similar ethos with Amazon, and essentially told Wall Street that he was going to follow his own 
+vision and that investors were welcome to come along for the ride but not to drive. Those investors have been 
+rewarded and then some. Of course, investors in Jawbone and Webvan were also promised transformation and ended up with nothing.Musk 
+is telling investors that they can choose whether to buy in to his vision, but that they can’t challenge it. 
+Given that almost no one in the analyst and investor community has ever built or run a mold-breaking business, telling 
+them that they can accept or reject the vision isn’t unreasonable.Wall Street is often extremely good at what it does. 
+Bankers and analysts understand how to price debt and equities while assessing the potential of loss, which they do diligently 
+and conservatively (except when they fail spectacularly). But Wall Street is not, for the most part, the playground of those 
+who define the future. That requires tolerating extreme risk and conceiving how things could be done differently. Most visionaries will 
+be utterly wrong about their vision, because they are early, or overreach, or miscalculate. Buying Tesla stock is immensely risky, 
+perhaps even ill-advised. That does not mean Musk should alter what he does or how he does it. In fact, 
+managing his enterprises to please Wall Street is an almost certain path to failure; the numbers don’t add up—and won’t—unless 
+everything works almost perfectly. Whether you go along for the investing ride is up to you, but Tesla’s fate should 
+not be up to Wall Street analysts.Baby You Can Drive My CarWith his recent outburst, has Elon Musk gone from 
+Tesla greatest asset to a liability?Tesla is ramping up production of its Model 3 and predicting profitability.Tesla favorite statistic about 
+the safety of its Autopilot feature doesnt hold up. Related VideoTransportationElon Musks Master Plan Culminates in the Tesla Model 3The 
+Tesla Model 3 isn’t just a new electric car, it’s the culmination of over a decade of careful strategic planning 
+to achieve Elon Musk’s goal: to accelerate humanity’s transition to sustainable energy. 
+
+Log DateTime: Mon May 14 01:31:04 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1282473
+URL: https://www.wired.com/story/tesla-musk-model-3-uber-vw-roundup/
+https://www.wired.com/story/tesla-musk-model-3-uber-vw-roundup/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@26be92ad
+Title: This Week in the Future of Cars: All About Elon 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.04.18 
+PicInfo: https://media.wired.com/photos/5aeb6b628b234e623179fcaf/master/pass/TESLA-model3-FINAL.jpg 
+URL Links: 
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/
+https://www.wired.com/story/americans-falling-in-love-bike-share/
+https://www.wired.com/story/shared-electric-scooters-rolling/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/daimler-mercedes-case-wilko-stark-interview/
+https://www.wired.com/story/a-california-ruling-threatens-the-gig-economy/
+https://www.wired.com/story/dodger-gondola-bust-traffic/
+https://www.wired.com/story/shared-electric-scooters-rolling/
+https://www.wired.com/story/americans-falling-in-love-bike-share/
+https://www.wired.com/story/why-are-new-york-taxi-drivers-committing-suicide/
+https://www.wired.com/2010/09/ff_tesla/
+
+Data: 
+	What do you think about Elon Musk? Tell me and I’ll know a lot about your attitudes toward, well, 
+most things. Take this week’s first quarter earnings call. Executives at your average carmaker—your average public company, even—would bore to 
+numbness all but the most invested investors. But Elon has no time for “boring, bonehead�? calls. So he got rather 
+saucy on his, cutting off those tedious penny pinchers. Either you see him as a maverick—a boy gone delightfully big 
+money, saving the world as he swings—or as an irresponsible leader who sent his company’s stock (which, reminder, many of 
+his employees own) shuddering down the y-axis.No matter what you think of Musk, it was his week. Transportation editor Alex 
+Davies tackled what Tesla’s first quarter numbers and that exceedingly interesting earnings call means for the electric carmaker. Meanwhile, senior 
+writer Jack Stewart reminded savvy buyers Tesla will soon run out of the government’s generous EV tax credits. Plus: bike-share, 
+e-scooters, and an Autopilot statistic gone awry.It was a (Tesla) week. Let’s get you caught up.HeadlinesStories you might have missed 
+from WIRED this weekTesla will make its 200,000th electric car sometime this year, and General Motors may not be far 
+behind. That’s an impressive milestone with an unfortunate side effect: The carmakers will lose access to the federal government’s $7,500 
+purchase credit. Jack explores the strategy around selling EVs in a slightly more expensive world.The doom and gloom crowd had 
+predicted dismal first quarter numbers from Tesla. But when the electric carmaker released its figures on Wednesday, they contained a 
+bit of a surprise: production is up, and profitability might be in sight. The company just has to stick to 
+the schedule—and defy history doing it.Then Elon got on the phone and mucked it up a bit, cutting off “dry�? 
+analyst questions in favor of expansive, future-looking queries. You know, the fun stuff. The stock market was displeased, and Alex 
+wondered whether the 46-year-old boy wonder is becoming more liability than asset.Musk isn’t the only auto head prepping for the 
+future. Contributor Nicholas Stecher spoke to Wilko Stark, the guy in charge of Daimler’s connected, autonomous, shared, and electric strategies. 
+One big takeaway: the company that owns Mercedes-Benz ain’t scared of Waymo, Apple, or Uber.Business reporter Klint Finley takes a 
+close look at what could be a game-changing ruling by the California Supreme Court, which found one company’s drivers are 
+in fact employees. That’s a bad precedent for Uber, Lyft, and the rest of the gig economy.If your vision of 
+the future of cars doesn’t involve cars at all, some excellent news—people are definitely still working on ways to get 
+you around the city. I explore the Los Angeles Metro’s pathbreaking approach to collaborate with the private sector (there might 
+be gondolas involved?), the spectacular growth of electric scooter-share market, and why Americans are going ga-ga for bike-share.The Enduring Mystery 
+of the WeekIf you happen to know how or why an empty Honda Civic ended up hanging from a utility 
+pole beneath a Toronto bridge, please send me a note.https://twitter.com/madmal99/status/991696988327493632Required ReadingNews from elsewhere on the internetBloomberg breaks down Tesla’s financials 
+and kills the GIF game.A Michigan grand jury indicated ex-Volkswagen CEO Martin Winterkorn and five other former company execs on 
+felony charges related to the automaker’s plot to game US emissions standards with its diesel cars.A CNN investigations uncovers 103 
+accusations of sexual assault or abuse against Uber drivers. A senator is now getting involved with the push to allow 
+victims to take their cases against Uber out of forced arbitration and into open court.In the midst of a spate 
+of taxi driver suicides, New York mayor Bill de Blasio signals he might be ready to revisit the idea of 
+capping the number of ride-hail vehicles in the city.The Information uncovers how Lyft’s missteps doomed its ambitions to catch up 
+to Uber. Highlights include: How Lyft mucked up the rollout of Lyft Line, why the guy now running e-scooter-share company 
+Bird left the company, and what dog hung out in Travis Kalanick’s house as the ride-hail companies discussed a merger.Forget 
+Waymo. The Pentagon might beat everyone to autonomous vehicles.Volkswagen and ride-hailing giant Didi are hooking up in China.A coalition of 
+states led by California sues President Donald Trump’s EPA over fuel emissions standards. Play ball! (Also, the future of the 
+planet is at risk?)In the RearviewEssential stories from WIRED’s canonIn its 15-year history, Tesla has dodged death more times than 
+James Bond or Indiana Jones. In 2010, WIRED’s Josh Davis chronicled how Elon Musk led the automaker through its early 
+days, then its darkest days, and made it the car company of the future. Related VideoCultureThese Star Wars Fans Are 
+Building a Full-Size Millennium Falcon CockpitFor the past six years Greg Dietrich, Jake Polatty, and a group of fellow Star 
+Wars fans have been building a blinking, bleeping, insanely detailed full size version of the Millennium Falcons cockpit. 
+
+Log DateTime: Mon May 14 01:31:05 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1188392
+URL: https://www.wired.com/story/tesla-autopilot-safety-statistics/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@14acaea5
+Title: Teslas Favorite Autopilot Safety Stat Just Doesnt Hold Up 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.04.18 
+PicInfo: https://media.wired.com/photos/5aeb90ced3434f6bc9572f1c/master/pass/GettyImages-177205743.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/self-driving-cars
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/
+https://www.wired.com/story/guide-self-driving-cars/?mbid=GuideCarveLeft
+https://www.wired.com/2016/06/teslas-autopilot-first-deadly-crash/
+https://www.wired.com/story/mit-humans-semiautonomous-car-study/
+https://www.wired.com/story/tesla-autopilot-crash-dui/
+https://www.wired.com/story/no-one-knows-self-driving-car/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+
+Data: 
+	For more than a year, Tesla has defended its semiautonomous Autopilot as a vital, life-saving feature. CEO Elon Musk 
+has lambasted journalists who write about crashes involving the system. “It really incredibly irresponsible of any journalists with integrity to 
+write an article that would lead people to believe that autonomy is less safe,�? he said during a tumultuous earnings 
+call this week. “Because people might actually turn it off, and then die.�?This wasn’t the first time Musk has made 
+this argument about Autopilot, which keeps the car in its lane and a safe distance from other vehicles but requires 
+constant human oversight, and has been involved in two fatal crashes in the US. “Writing an article that’s negative, you’re 
+effectively dissuading people from using autonomous vehicles, you’re killing people,�? he said on an October 2016 conference call.Wednesday’s haranguing, however, 
+came a few hours after the National Highway Traffic Safety Administration (NHTSA) indicated that Tesla has been misconstruing the key 
+statistic it uses to defend its technology. Over the past year and a half, Tesla spokespeople have repeatedly said that 
+the agency has found Autopilot to reduce crash rates by 40 percent. They repeated it most recently after the death 
+of a Northern California man whose Model X crashed into a highway safety barrier while in Autopilot mode in March.Now 
+NHTSA says that’s not exactly right—and there’s no clear evidence for how safe the pseudo-self-driving feature actually is.LEARN MOREThe WIRED 
+Guide to Self-Driving CarsThe remarkable stat comes from a January 2017 report that summarized NHTSA’s investigation into the death of 
+Joshua Brown, whose Model S crashed into a truck turning across its path while in Autopilot mode. According to its 
+data, model year 2014 through 2016 Teslas saw 1.3 airbag deployments per million miles, before Tesla made Autopilot available via 
+an over-the-air software update. Afterward, the rate was 0.8 per million miles. “The data show that the Tesla vehicles crash 
+rate dropped by almost 40 percent after Autosteer installation,�? the investigators concluded.Just a few problems. First, as reported by Reuters 
+and confirmed to WIRED, NHTSA has reiterated that its data came from Tesla, and has not been verified by an 
+independent party (as it noted in a footnote in the report). Second, it says its investigators did not consider whether 
+the driver was using Autopilot at the time of each crash. (Reminder: Drivers are only supposed to use Autopilot in 
+very specific contexts.) And third, airbag deployments are an inexact proxy for crashes. Especially considering that in the death that 
+triggered the investigation, the airbags did not deploy.Tesla declined to comment on NHTSA’s clarification.The statistic has been the subject of 
+controversy for some time. The research firm Quality Control Systems Corp. has filed a Freedom of Information Act lawsuit against 
+NHTSA for the underlying data in that 2017 report, which it hopes to use to determine whether the 40 percent 
+figure is valid. NHTSA has thus far denied its FOIA requests, saying it agreed to Tesla’s requests to keep the 
+data confidential, and that its release could threaten the carmakers’ competitiveness.Tesla’s oft-touted figure is flawed for another reason, experts say: 
+With this data set, you can’t separate the role of Autopilot from that of automatic emergency braking, which Tesla began 
+releasing just a few months before Autopilot. According to the Insurance Institute for Highway Safety, vehicles that can detect imminent 
+collisions and hit the brakes on their own suffer half as many rear-end crashes as those that can’t. (More than 
+99 percent of cars Tesla produced in 2017 came equipped with the feature standard, a higher proportion than any other 
+carmaker.)Which is all to say, determining whether a new feature like Autopilot is safe, especially if you don’t have access 
+to lots of replicable, third-party data, is super, super hard. Tesla’s beloved 40 percent figure comes with so many caveats, 
+it’s unreliable.Big Deal DataThe Insurance Institute for Highway Safety has tried to come at the question another way, by looking 
+at the frequency of insurance claims. When it tried to separate Model S sedan incidents after Autopilot was released, it 
+observed no changes in the frequency of property damage and bodily injury liability claims. That indicates that Autopilot drivers aren’t 
+more or less less likely to damage their cars or get hurt than others. But it did find a 13 
+percent reduction in collision claim frequency, indicating sedans with Autopilot enabled got into fewer crashes that resulted in collision claims 
+to insurers.Oh, but it gets more complicated. IIHS couldn’t tell which crashes actually involved the use Autopilot, and not just 
+sedans equipped with Autopilot. And it’s way too early for definitive answers. “Since other safety technologies are layered below Autopilot, 
+it is difficult to tease out results for Autopilot alone at this time,�? says Russ Rader, an IIHS spokesperson. “Data 
+on insurance claims for the Model S are still thin.�?Over at MIT, researchers frustrated with the dearth of good info 
+on Autopilot and other semiautonomous car features have launched their own lines of inquiry. Human guinea pigs are now driving 
+sensor- and camera-laden Teslas, Volvos, and Range Rovers around the Boston area. The researchers will use the data they generate 
+to understand how safely humans operate those vehicles.The upshot is that Autopilot might, in fact, be saving a ton of 
+lives. Or maybe not. We just don’t know. And Tesla hasn’t been transparent with its own numbers. “You would need 
+a rigorous statistical analysis with clear data indicating what vehicle has it and what vehicle doesn’t and whether it’s enabled 
+or whether it isn’t,�? says David Friedman, a former NHTSA official who now directs car policy at Consumers Union. Tesla 
+said this week that it would begin publishing quarterly Autopilot safety statistics, but did not indicate whether its data would 
+be verified by a third party.NHTSA, too, could be doing a better at holding innovative but opaque carmakers like Tesla 
+accountable for proving the safety of their new tech. “To me, they should be more transparent by asking Tesla for 
+disengagements of the system: How often the systems disengaged, how often the humans need to take over,�? Friedman says. California’s 
+Department of Motor Vehicles requires companies testing autonomous vehicles in the state to provide annual data on disengagements, to help 
+officials understand the limitations of the tech and its progress.Tesla is not alone among carmakers in trying to shield sensitive 
+info from the public. But today, humans are deeply bewildered about the semiautonomous features that have already made their way 
+into everyday drivers’ garages. Even Transportation Secretary Elaine Chao—you know, the public official charged with overseeing regulation on these things—is 
+confused by the terminology. If there’s a time to get honest about your numbers, this could be it. You might 
+save some lives. You’d definitely save a few headaches.Tesla TurmoilElon Musk attack on investors could make him a liabilityBuying a 
+Tesla? Dont count on that $7,500 tax creditTesla wild fight with the feds investigating its latest Autopilot death Related VideoAutoElon 
+Musk Says Every New Tesla Will Drive ItselfElon Musk wants you to take your hands off the wheel, foot off 
+the gas, and let him do the driving. Rather, let his cars take over. 
+
+Log DateTime: Mon May 14 01:31:06 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 6848741
+URL: https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@59fa1d9b
+Title: Elon Musks Attack on Tesla Investors Could Make Him a Liability 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.03.18 
+PicInfo: https://media.wired.com/photos/5aeb6303b5eca94045e286a9/master/pass/GettyImages-855377492.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.google.com/url?q=https://www.wired.com/story/how-is-spacex-doing-on-its-deep-space-ambitions/&amp;sa=D&amp;ust=1525390991422000&amp;usg=AFQjCNHdR_hBWt-fnh-SiSVXt6_6DpHzpA
+https://www.google.com/url?q=https://www.wired.com/story/elon-musk-salary/&amp;sa=D&amp;ust=1525393126556000&amp;usg=AFQjCNE5IdSaCOQ7cZ52ERCzAdDDgAXP7w
+https://www.wired.com/story/elon-musk-better-things-than-tesla/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-model-s-steering-bolt-recall/?mbid=BottomRelatedStories
+
+Data: 
+	The numbers, arranged on the paper like tea leaves in the fortune-teller’s cup, heralded a sunny future. Production rates 
+up. Market share impressive. Profitability in sight. Tesla had work left to do, but it was moving in the right 
+direction, and fast enough to assuage investors wondering when the young automaker would reel in its spending and find its 
+way into the black.Then Elon Musk took charge of his own fate. In a public earnings call with investors and 
+financial analysts Wednesday afternoon, the CEO attacked two analysts for asking what he called “bonehead�? and “dry�? questions, and refused 
+to offer answers. By the morning, Tesla’s stock had dropped nearly 10 percent.And so the question becomes unavoidable. Has Musk, 
+with his inimitable élon, gone from asset to liability?It’s a remarkable turn for a man who stands out, even in 
+this age of Silicon Valley leader worship, for his inextricable association with his company. He has never been a conventional 
+CEO, and that’s been more feature than bug over the past decade. He tweets about building cyborg dragons, jokes about 
+bankruptcy and mixing Ambien with red wine, and appears on talk shows and Page 6. He has launched Big Fucking 
+Rockets, promised traffic-obliterating mazes of tunnels, and conjured a hyperloop industry from nothing. He made electric cars really, really cool. 
+After his legions of fans bought 50,000 Boring Company hats for $20 a piece, Musk moved on to $500 flamethrowers. 
+He sold 20,000 in under a week.No wonder: Musk is the entrepreneur who ignores conventional wisdom, who silences haters and 
+doubters with acceleration records and cars rocketing around the solar system. He attacks the media and fights federal investigators. It’s 
+all part of a hugely popular personal brand that can’t be separated from Tesla’s knack for surviving in an industry 
+that kills just about all newcomers. Even when it delivers cars years behind schedule, when executives flee and scandals stack 
+up, Musk’s fans remain zealous, and his investors indulgent. Indeed, in March, a large majority of Tesla shareholders approved a 
+compensation package that could make Musk $55 billion if he delivers on extraordinary goals, and that effectively locks him in 
+the job for the next decade. (Musk discussed the idea of leaving Tesla in 2013, but now says he’s there 
+for the long haul.)The read-through is that potentially the CEO doesn’t care or isn’t focused about those financial metrics or 
+ultimately the numbers don’t tell a good story.Now, though, Musk has mocked some of the people who are most vital 
+to Tesla’s survival—the investors who have pushed it to valuation that surpasses Ford’s—and paid a price. Wednesday’s call went south 
+when analyst Toni Sacconaghi of Sanford C. Bernstein asked about Tesla’s ability to reach a gross margin target of 25 
+percent on the Model 3, then about its projected capital requirements. “Excuse me,�? Musk interrupted. “Next. Boring bonehead questions are 
+not cool. Next?�?Then came Joseph Spak from RBC Capital Markets, who asked how many Model 3 reservation holders are actually 
+buying the car. “Sorry. These questions are so dry. Theyre killing me,�? Musk said—after 10 seconds of silence. As Musk 
+turned to take a long series of questions from a YouTube financial blogger (some of them pointed), the stock started 
+dropping in after hours trading, ending up down close to 10 percent.Tesla’s stock has always been volatile, subject to vertigo-inducing 
+spikes and dives. On that serrated line, this drop doesn’t stand out for its size. What sets it apart is 
+the trigger. Tesla’s quarterly numbers were quite solid. Perhaps truthful, detailed answers to Sacconaghi and Spak’s questions would have been 
+unpleasant. But where the conventional CEO might dance around bad news, or hide it in a wooly nest of jargon 
+and non-answers, Musk attacked. And he made himself look bad.“Investor feedback to the call was shock that a CEO would 
+be dismissive and the general sentiment was that the defensiveness spoke volumes,�? Spak wrote in a note summarizing the call 
+and financial results.“There is incremental concern when, on an analyst financial quarterly call, the CEO doesn’t appear to want to 
+talk about important financial metrics,�? Sacconaghi, the other spurned analyst, said on Bloomberg Television. “The read-through is that potentially the 
+CEO doesn’t care or isn’t focused about those financial metrics or ultimately the numbers don’t tell a good story. But 
+either of those interpretations are not particularly comforting.�?It seems that while investors don’t mind Musk making wildly optimistic predictions or 
+mocking competitors, they’re troubled by having their own valid, relevant financial questions derided during a finance-focused call. Now, they are 
+not just concerned about Tesla’s financial health. Some, at least, are concerned about the man leading the company they jointly 
+own.The timing of this misbehavior is not good: The Model 3 is supposed to be the thing that takes Tesla 
+from VC-funded darling to a standalone, profitable automaker. It has struggled to make the transition, burning egregious amounts of money 
+and lagging badly on production goals in the nine months since it started building the $35,000 sedan in earnest. Musk 
+says he doesn’t want to raise money again in 2018, but Tesla might have to.The Silicon Valley automaker has always 
+been a long term bet. Musk never promised profits before the Model 3 entered mass production. But now the car 
+is here, the assembly line is in business, Musk promises the numbers with the dollar signs will go from red 
+to black by the fall. If they don’t—and history has not been kind to Musk’s self-imposed deadlines—he’ll need his investors’ 
+goodwill.Musk’s decision to attack, rather than help, his financial questioners hardly spells doom. But it gives the tea leaves a 
+good swirl—and the sunny forecast they once promised is looking a bit more like rain.Tesla in TroubleBuying a Model 3? 
+Dont count on that $7,500 tax creditTesla attacks the feds investigating its latest Autopilot deathThe worst thing about Tesla latest 
+recall? Crummy timing Related VideoTransportationTeslas Electric Model 3 Will Be a Great Everyday Car ... Some DayNearly half a million 
+people have put down a thousand dollar deposit for a Tesla Model 3 they may not get for years. But 
+once the early production bugs are ironed out, the Model 3 feels like its going to be a great everyday 
+car. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 1364614
+URL: https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/
+https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@675d3402
+Title: This Week in the Future of Cars: Touch and Go 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af48a7a2906f277bf4645b7/master/pass/Rolls-Royce-SUV_Aerial-View.jpg 
+URL Links: 
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/tag/flying-cars
+https://www.wired.com/story/uber-unveils-flying-taxi/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/
+https://www.wired.com/story/waymo-crash-self-driving-google-arizona/
+https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/
+https://www.wired.com/story/aston-martin-db-11-volante-convertible-roof-engineering/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/2012/07/ff_stevejobs/
+
+Data: 
+	Transportation is a world full of visionaries: big ideas gone even bigger. It attracts world shakers (and breakers) like 
+Grimes’ Boyfriend, Travis Kalanick, and Mark Moore, a 30-year NASA veteran who decamped last year for Uber’s new flying car 
+project. There are lots of fanciful renderings and prototypes, lots of pulled-off covers and pointing of spotlights. But there’s a 
+lot of busted dreams too. Plans that run out of money, petering out and puttering toward death. Collectors who come 
+calling. Cars that crash and kill.Which is all to say: It was a mixed bag of a week. Senior writer 
+Jack Stewart covered the two-day bonanza that was Uber’s second-annual, and completely serious, flying car summit. Editor Alex Davies took 
+a close look at startup Drive.ai’s upcoming self-driving shuttle launch in unlikely Frisco, Texas. Fun stuff! But ugly stuff too: 
+Tesla’s investor insurrection, thanks (in part) to Grimes’ Boyfriend’s indelicate earnings call comments. A Waymo crash in Arizona that doesn’t 
+appear to have anything to do with self-driving tech but had really unfortunate timing anyway. And a jump in pedestrian 
+deaths—which we’ll need much more than autonomous vehicles to prevent.Let’s get you caught up.HeadlinesStories you might have missed from WIRED 
+this weekUber wants to play middleman in the flying car future, slinging app-ordered rides that take riders smoothly from A 
+to B as the fools in ground-bound vehicles sit in traffic below. But that doesn’t mean it won’t have a 
+hand in the flying car design. This week, the ride-hailing giant turned transportation-everything unveiled an all-electric VTOL concept, and reiterated 
+its commitment to an ambitious timeline: commercial flights by 2022.Last week’s Tesla fireworks continue, with an activist investor now pushing 
+the electric carmaker’s shareholders to banish three of its nine board members in favor of folks with relevant manufacturing expertise. 
+One way Grimes’ Boyfriend could kill the insurrection? By making more cars.In more Tesla news: The National Highway Traffic Safety 
+Administration clarified that the carmaker, and not the federal agency, came up with a much-cited Autopilot safety statistic. Which meant 
+it was a good time for me to ask: How much do we know about Autopilot safety record, anyway?Late last 
+week, a Waymo minivan being driven by a human got seriously banged up by an out-of-control Honda driver. Police in 
+Chandler, Arizona, determined the Waymo vehicle wasn’t at fault, but the scary photos of the banged-up Chrysler Pacifica were spookily 
+reminiscent of this spring’s fatal Uber crash.Yeehaw! Alex explores Drive.ai’s plans to launch a self-driving shuttle service in the Lone 
+Star State, and why geofenced and limited shuttle routes just might be lots of Americans’ first experiences with autonomous vehicles.Heck 
+naw! Contributor Nick Stockton tries to get to the bottom of why Nashville, Tennessee, voters soundly rejected an ambitious transit 
+revamp meant to improve transportation in the traffic-choked city.The Insurance Institute for Highway Safety released a disturbing study on pedestrian 
+deaths, finding fatalities jumped by 46 percent between 2009 and 2016. Some say autonomous vehicles will solve all our road 
+safety problems, but the tech has a ways to go. I explore another option: getting much smarter about road design. 
+ADDLINKAlex finds out everything (really, everything) you have ever wanted to know about engineering a luxury convertible roof.You should read 
+contributor Eric Adams’ spec analysis before plopping down $325,000 and spitting in the face of the proletariat to buy Rolls-Royce’s 
+Cullinan SUV.Glorious Chrome Extension of the WeekI love a good celebrity gossip-automotive crossover story, and we got one in spades 
+when Tesla’s CEO showed up to the Met Gala with Canadian musician and artist Grimes. The meme-ers went wild, I 
+went wild, and someone created a Chrome browser extension that replaces “Grimes’ Boyfriend�? with “Grimes’ Boyfriend�?. OK, maybe I’ve had 
+it turned on all day.Required ReadingNews from elsewhere on the internetThe Information reports Uber has found that its self-driving software—not 
+its sensors—are responsible for March’s deadly Arizona collision. Two sources say the software identified but “filtered out�? the pedestrian as 
+a “false positive�?.Uber says it will resume testing autonomous vehicles in a few months.The NTSB is investigating a Florida Tesla 
+Model S crash that killed two teenagers this week. The panel will primarily explore the emergency response to the electric 
+vehicle battery fire, and says it does not expect to focus on Autopilot.Way back in October 2017, GM said it 
+would start testing AVs in New York City by 2018. But Jalopnik reports the automaker still doesn’t have the necessary 
+permitsHere’s a helpful breakdown of the complicated, crowded, and very technical lidar space.College-age nerds, rejoice. Carnegie Mellon University is launching 
+an undergraduate AI degree in the fall.Lime, which today runs dockless bike-, e-bike-, and e-scooter-share programs across the country, wants 
+to get into… electric-pod-share? The world is moving so quickly.In the RearviewEssential stories from WIRED’s canonRogue CEOs: good or bad? 
+Once you’ve gotten your fill of Grimes’ Boyfriend, check out this 2012 WIRED meditation on the granddaddy of polarizing tech 
+leaders, Steve Jobs. Related VideoScienceGo Inside the Aerodrome, Where the Future of Flight Takes ShapeWelcome to the Aerodrome, where engineers 
+are simulating wind conditions to teach drones to fly safely. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 2015601
+URL: https://www.wired.com/story/pedestrian-deaths-street-design/
+https://www.wired.com/story/pedestrian-deaths-street-design/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1b604f19
+Title: Save Lives With Smarter, Slower Streets&#8212;Not Self-Driving Cars 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af4b8189c9c3672736890d8/master/pass/Road-Design-GettyImages-85654895.jpg 
+URL Links: 
+https://www.wired.com/tag/self-driving-cars
+https://www.wired.com/story/self-driving-cars-challenges/
+https://www.wired.com/2016/07/better-ways-kill-traffic-lying-waze/
+https://www.wired.com/story/uber-self-driving-crash-video-arizona/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/story/pedestrian-death-rates-climb/
+https://www.wired.com/story/uber-nacto-data-sharing/?mbid=BottomRelatedStories
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/?mbid=BottomRelatedStories
+https://www.wired.com/story/dodger-gondola-bust-traffic/?mbid=BottomRelatedStories
+
+Data: 
+	No, you’re not imagining things. The timelines for autonomous vehicles keep shifting. Electric carmaker Tesla began selling a $3,000 
+“full self-driving�? add-on to its Autopilot feature in 2016—everything you need to drive without driving!—but still hasn’t turned it on. 
+In 2012, Google’s Sergey Brin said “ordinary people�? would have access to self-driving cars by 2017; the company is still 
+gearing up for a very limited driverless taxi service this year. Volvo quietly delayed a project that was supposed to 
+put 100 Swedish families into autonomous vehicles by 2017.No one wants unready tech on public roads, but for anyone who 
+has bought into the technology’s promise to save lives, the delay is a bummer. To put it very lightly. Almost 
+40,000 Americans died on the road last year. And a new study from the Insurance Institute for Highway Safety finds 
+ugly driving trends have hit one group particularly hard: pedestrians. Nearly 6,000 pedestrian died in 2016, a 46 percent jump 
+over 2009. And if robots won’t save the bipeds, who will?Your friendly carbon-based neighborhood traffic engineer can—and they don’t even 
+need artificial intelligence or $75,000 laser sensors to do it.“If there is too much emphasis on autonomous vehicles solving the 
+problem, when widespread deployability is decades in the future and not next year, I think it increases the temptation to 
+hope that the technology is going to save us,�? says Liisa Ecola, a transportation planner and senior policy analyst with 
+the Rand Corporation. “Traffic safety is a big problem now and to ignore the things we can do, I think, 
+is a disservice to the tens of thousands of people who are killed every year in crashes.�?So forget robots. Engineers 
+and the public officials who dole out their paychecks can start redesigning streets to make them safer. They can zoom 
+in on their problem areas—is there a section of road where people keep getting hurt?—and start fixing roads today.The IIHS 
+study points to the walking pain points, the issues to be solved. Between 2009 and 2016, deaths on arterials—the high-capacity, 
+wide, multilane roads that feed into freeways or highways—jumped 67 percent. Deaths at sections of roads that weren’t intersections went 
+up 50 percent. Deaths in the dark rose by more than half.The good news is that road engineers have access 
+to a suite of “traffic-calming�? measures, which would slow down cars on otherwise fast-paced roads and could prevent many crashes. 
+In fact, Scandinavian-inspired Vision Zero programs, which seek to totally eliminate road deaths and have been adopted by hundreds of 
+places in the US, lay out basic principles for preventing deaths.Let’s take a particular example of a terrible and tragic 
+road death. In March, Arizona resident Elaine Herzberg died when she was struck by a self-driving Uber on a wide, 
+multilane road in Tempe, Arizona. The crash made clear the fallibility not just of robots—we dont know why the Uber 
+didn’t hit the brakes or swerve—but of humans. The Uber employee sitting behind the wheel, charged with grabbing the wheel 
+to prevent crashes, was looking away from the road when the SUV hit Herzberg.A better robot could have saved Herzberg’s 
+life, but so might have better road design. Tempe is pretty typical for a middling-density place. Engineers built its arterials 
+to transport cars, and quickly. Their long, straight lines are easy for drivers to navigate but induce a slow, lazy 
+“zoning out,�? and a level of comfort that makes it easier to glance away from the road.Deaths like Herzeberg’s, on 
+streets like Tempe’s, might have been prevented with more frequent and shorter crosswalks. Herzberg, wheeling a bicycle weighed down with 
+plastic bags, was about 100 yards from the nearest crosswalk when she died. That’s not too far, but given how 
+many crosswalks on urban arterials are miles away from each other, it’s not hard to comprehend why a walker like 
+Herzberg might risk a run across the road.Another option is to put a street on what engineers call a “road 
+diet,�? narrowing or even eliminating lanes of traffic. Reducing the margin of error makes drivers more likely to pay attention—research 
+evaluated by the Federal Highway Administration suggests road diets can cut crashes by more than 30 percent, and pedestrian deaths 
+or injuries by more than 20.Safety-minded engineers suggest that even simply adding trees or landscaping to the sides of roads 
+adds eye-catching elements that can force drivers to focus. Things like “bulb outs,�? which jut into the street at intersections 
+and shorten distances between corners for pedestrians, work too. Any way engineers can get drivers to slow the heck down 
+is helpful. The faster a car is moving, the more likely it is to kill someone in a collision. You’re 
+as much as 5.5 times more likely to kill someone hitting them at 40 mph than 30 mph.(Oh, and drive 
+smaller cars too. The IIHS study notes a spike in deaths among those hit by the larger trucks and SUVs 
+Americans cannot stop buying.)Implementing these fixes should be far easier than teaching a robot to interpret a traffic cop’s hand 
+signals. Most transportation engineers now joining the workforce should be well-acquainted with these strategies, and ready to emphasize safety over 
+speed. And compared to the economic impact of crashes—not to mention the loss of lives—Vision Zero–type interventions cost pennies.But that’s 
+not always the way it turns out in city hall. Infrastructure funding is scarce. Drivers can get hostile when you 
+suggest slowing their commutes for the sake of, well, anything. And scientists are still struggling to pin rising pedestrian deaths 
+on any one factor. “Traffic safety is really a very multidisciplinary problem,�? says Ecola. “It’s not something we can fix 
+just with engineering solutions or just with campaigns to get people to wear their seatbelts more often. It’s all of 
+those things.�?Still, if tragic crashes don’t get politicians’ attention, what will? Hopefully not just the robo-cars that always seem a 
+horizon away.On the Road AgainUber makes peace with cities by spilling its secretsWhy traffic-choked Nashville said nope to public transitA 
+Dodger stadium gondola is just LA latest wild bid to bust traffic Related VideoTransportationSee How an Insane 7-Circle Roundabout Actually 
+WorksYour first thought upon seeing Swindons magic roundabout might be: man, the Brits have really lost the plot lately. But 
+this thing&#8212;which is actually seven roundabouts in one&#8212;has been working for 60 years. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 4
+ID: 1551870
+URL: https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/
+https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@457e2f02
+Title: Who Pays the Most, and Least, in Silicon Valley? 
+Author: Scott Thurm 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af36ac697bc147d4a0254b4/master/pass/Amazon-874679068.jpg 
+URL Links: 
+https://www.wired.com/story/elon-musk-salary/?mbid=BottomRelatedStories
+https://www.wired.com/story/how-amazon-jeff-bezos-spends-his-money/?mbid=BottomRelatedStories
+https://www.wired.com/story/raising-wages-to-help-workers-could-actually-help-robots-replace-them/?mbid=BottomRelatedStories
+
+Data: 
+	How much do workers at tech firms make?The answer varies a lot, depending on the employer. The median employee 
+at Amazon made $28,446 last year, according to new disclosures required by the Securities and Exchange Commission. At Facebook, the 
+median employee made $240,430, more than eight times as much.There are reasons for the big disparity, of course: Facebook’s 25,000 
+employees include many software engineers, which it must recruit in the expensive and competitive San Francisco Bay Area. Most of 
+Amazon’s 566,000 employees work in its distribution centers, including many overseas; in the US, Amazon says the average hourly wage 
+in its distribution centers is more than $15 an hour, which translates to slightly more than $30,000 a year, before 
+overtime.Other disparities reflect differences in companies’ businesses, and business models. As a car maker, Tesla says 26 percent of its 
+employees are production workers and 18 percent are outside the US. The company reported median employee pay of $54,816. Tesla 
+says its employees also have benefited from increases in the company’s share price. IBM, which has aggressively moved jobs overseas 
+in recent years, reported median pay of $54,491. The New York Times reported in September that IBM now has more 
+employees in India than in the US. An IBM spokesperson did not respond to requests for comment.Even within the same 
+tech sector, median pay can vary significantly based on a company’s business model. Intel, the largest US maker of semiconductors 
+by revenue, makes its own chips. Three of its six manufacturing sites are in the US, as are half of 
+its 102,000 employees. The company reported median pay of $102,100. Nvidia, whose graphics chips are used widely for machine learning 
+and artificial intelligence, reported median pay of $147,640. The company contracts out the manufacturing of its chips and has only 
+about 8,200 employees. A spokesperson says half of Nvidia’s employees are in the “highly competitive�? Silicon Valley market and that 
+its employees are “highly skilled, college educated, and have deep expertise–all of which command a premium in the market.�?The median 
+pay figures underscore that intense competition for tech talent in the Bay Area. Nationally, the average pay for software developers 
+and programmers is $102,470, according to the US Labor Department. Bay Area tech firms are paying considerably more: The median 
+pay at Workday, which makes software that helps businesses manage finances and people, is $178,903, according to its proxy statement. 
+At Salesforce, another business-software maker, it’s $155,284; and at payments processor Square, it’s $152,265.Companies are disclosing the median pay of 
+employees for the first time this year under a new SEC rule intended to shine a light on the high 
+pay of CEOs. The rule took effect for fiscal years ending December 31, 2017, or later, so companies on different 
+fiscal calendars, including Apple, Microsoft, and Oracle, won’t report their median-pay figures until later this year.Companies have to report the 
+ratio of the pay of their CEOs to the median pay of their employees. The Wall Street Journal reported that 
+Marathon Petroleum CEO Gary Heminger was paid $19.7 million last year, or 935 times the $21,034 salary of the company’s 
+median worker.The ratios are less meaningful for big tech companies because many of their CEOs are founders who own large 
+chunks of the company and receive only nominal compensation. Twitter CEO Jack Dorsey received no compensation, according to the company’s 
+proxy statement. Facebook’s Mark Zuckerberg and Google parent Alphabet’s Larry Page each were paid $1. Zuckerberg’s reported compensation also included 
+$8.8 million for company-provided security services and travel on company planes. Amazon’s Jeff Bezos was paid a salary of $81,840, 
+as he has been annually since 1998; his compensation included $1.6 million for security services paid by the company.Money, Money, 
+MoneyElon Musk $0 salary encapsulates the legend of Tesla.How Jeff Bezos spends his cash.Raising wages to help workers could actually 
+help robots replace them. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon 
+Echo. Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 52
+ID: 7035042
+URL: https://www.wired.com/story/watch-the-new-spacex-reusable-rocket-make-its-debut/
+https://www.wired.com/story/watch-the-new-spacex-reusable-rocket-make-its-debut/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6767c1fc
+Title: Watch the New SpaceX Reusable Rocket Make Its Debut 
+Author: Amy Thompson 
+Category: science 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af396110b975d475fa7b00a/master/pass/16510243060_48d6a9b1f6_o.jpg 
+URL Links: 
+https://www.wired.com/tag/spacex/
+https://www.wired.com/story/spacex-successfully-launches-the-falcon-heavyand-elon-musks-roadster/
+https://www.wired.com/story/spacex-gears-up-to-finally-actually-launch-the-falcon-heavy/
+https://www.wired.com/story/musks-new-mars-plan/
+https://www.wired.com/story/watch-spacex-launch-the-first-of-its-global-internet-satellites/
+https://www.wired.com/story/why-is-nasas-insight-mars-mission-launching-from-california/?mbid=BottomRelatedStories
+https://www.wired.com/2017/11/behind-the-scenes-nasa-tests-most-powerful-rocket-ever/?mbid=BottomRelatedStories
+https://www.wired.com/story/spacex-tess-nasa/?mbid=BottomRelatedStories
+
+Data: 
+	Update: SpaceX scrubbed Thursday launch after an abort during the countdown sequence. The next window opened Friday at 4:14pm 
+Eastern. The Falcon 9 successfully launched and its first stage landed on the drone ship off the coast of Florida, 
+which marks the company 25th landing.SpaceX is set to launch the Block 5 version of its flagship rocket, the Falcon 
+9, at 4:12 pm Eastern on Thursday, an event that signals that reusable rockets are here to stay—or, rather, to 
+boldly go. This upgraded version of the Falcon is expected to launch, land, and re-launch multiple times with little down 
+time in between flights.Today mission marks the first time SpaceX has returned to Pad 39A at Kennedy Space Center following 
+the epic maiden flight of its massive rocket, the Falcon Heavy. That highly anticipated launch captivated crowds across the world 
+on February 6, as it ascended through the atmosphere, carrying Elon Musk’s cherry red Tesla roadster (and a dummy driver, 
+Starman) into space.LoadingView on InstagramNow, SpaceX will make its long-awaited transition to the Block 5—which may not look incredibly different 
+than previous versions, but packs a much bigger punch: 1.8 million pounds of thrust, which amounts to a 7 percent 
+increase in power. The rocket will lift off sometime during a planned two-hour and 25-minute window and ferry the Bangabandhu-1 
+satellite to space. Then the first stage booster will return to Earth, where it’ll try to stick a landing on 
+the company drone ship, Of Course I Still Love You, waiting in the Atlantic Ocean.(The nearly 8,000-pound Bangabandhu-1 satellite will 
+bring commercial communications capabilities to a rural region of Asia for up to 15 years after being placed into orbit. 
+It’s the first satellite for Bangladesh, making it the 58th country to operate its own satellite in geostationary orbit.)Amy ThompsonSpaceX’s 
+philosophy has always been that a fully (and rapidly) reusable rocket is the key to dramatically reducing the cost of 
+spaceflight. Currently, a Falcon 9 rocket costs around $62 million, and while SpaceX is currently successfully reusing first-stage boosters—the most 
+expensive portion of the rocket—Elon Musk would like to get to the point where much more is reused, essentially ensuring 
+that fuel becomes the only major expense. To that end, SpaceX is also attempting to recover and reuse the payload 
+fairings—the protective nose cone that shields the rocket’s cargo as it travels through the atmosphere—with the help of a new 
+West Coast based recovery vehicle dubbed Mr. Steven.The vessel, outfitted with a claw-like catcher’s mitt was first employed earlier this 
+year during a mission to launch the Paz satellite. The fairing is an expensive piece of hardware, which historically has 
+been discarded, costs about 10 percent of the overall price tag of the Falcon 9, so being able to recover 
+and reuse it would be a win for SpaceX. Currently, after separation from the rocket’s upper stage, the two halves 
+of the fairing navigate back to Earth before a parachute deploys and they land in the ocean.So far Mr. Steven 
+has been unsuccessful in its attempts to snag the fairings, but SpaceX gathers data from each attempt, and will ideally 
+make a successful catch in the near future.The previous version of the Falcon 9, dubbed the full thrust variant, was 
+only capable of flying two or three times at most. If SpaceX is to meet its ultimate goal of flying 
+daily, a rocket that can only fly twice is not practical. Here’s where the Block 5 is crucial.The Block 5, 
+a culmination of more than 10 years of development, marks the final design iteration for the Falcon 9 and will 
+be the version the company relies on as its workhorse for the foreseeable future. It designed to re-fly as soon 
+as 48 hours after landing—a dramatic reduction in the downtime SpaceX rockets currently require.The Block 5 accomplishes this thanks to 
+a set of upgrades including improved engines, a more durable interstage, titanium grid fins, and an improved thermal protection system, 
+which hold up better to the stresses of launch. And gone are the days of the all-white Falcon—the spiffy new 
+interstage, along with a set of new, retractable landing legs are painted black. According to SpaceX, the Block 5 is 
+capable of flying 10 times or more, needing only light refurbishments, and up to 100 times before the booster is 
+retired.SpaceX plans to use the Block 5 to launch astronauts to the space station as early as 2019. In order 
+to achieve that goal, it has to fly the Block 5 at least seven times without making any alterations to 
+the design, and there are around 20 launches left on the schedule this year. This is shaping up to be 
+one slick-looking space taxi.3, 2, 1, Blastoff: More Rocket LaunchesWhy NASAs latest Mars mission launched from CaliforniaPHOTO ESSAY: Behind the 
+scenes as NASA tests its most powerful rocket everInside the TESS exoplanet launch Related VideoCultureSpace X By The NumbersSpace X 
+became the first company to launch a recycled rocket. Here’s what makes the company so cool. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 1442045
+URL: https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@cc285f4
+Title: Struggling Tesla Faces an Investor Insurrection 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af348a341f2a64a30dd46d1/master/pass/TeslaShareholders_17210438795527.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+
+Data: 
+	For a company working its way into an industry that specializes in annihilating newcomers, Tesla has proven remarkably persistent. 
+It has dodged bankruptcy, built an enormous fan base, and rolled out a series of terrific automobiles that made electric 
+cars cool. But the secret to the company’s endurance is that someone up there likes it—up there being top floor 
+corner offices occupied by the investors who have kept Tesla running through 15 profitless years.Now that Tesla is facing a 
+series of crises—a variety of lawsuits, interrogations over the safety of its Autopilot feature, and, most of all, lagging Model 
+3 production—some of those up on high are revealing themselves as Old Testament–style gods: displeased with what they see happening 
+on the ground, and ready to smite.This morning, an activist investor published a letter calling for Tesla shareholders to kick 
+three of its nine board members off the board and replace them with people with more relevant experience who will 
+be less likely to defer to defiant demigod CEO Elon Musk.The problem is the reality is starting to stack up, 
+and that’s a reality of accidents the cars have had, quality issues, and massive misses on Model 3 production numbers,�? 
+writes that investor, Dieter Waizenegger, executive director of the CtW investment group. “You add all that up and there’s a 
+real question about whether this company can deliver what it promises.Now that Tesla is mass producing cars, running an energy 
+business, and has some 40,000 employees, Waizenegger says it needs board members with experience in manufacturing, utilities, and management, and 
+who’ll be willing to help Musk through various hiccups. “They need to change the composition of the board to reflect 
+the evolving business strategy,�? he says. Tesla expanded its board last year, adding 21st Century Fox CEO James Murdoch and 
+Johnson Publishing Company CEO Linda Johnson Rice—hardly the expertise Waizenegger hoped for, he says. “We needed to do something more 
+dramatic.�?Musk’s refusal to answer analyst queries about Model 3 orders and capital requirements during an investor call last month (he 
+dismissed them as “boring, bonehead questions�?) didn’t assuage any concerns. “We want the company to survive,�? Waizenegger says. “It is 
+therefore concerning if you’re not able to have a serious conversation with analysts.�?So, at Tesla’s annual meeting on June 5, 
+CtW wants its fellow shareholders to vote against the reelection to the board of venture capitalist Antonio Gracias, Elon’s brother 
+Kimbal Musk, and Murdoch. (Like in the Senate, only third of Tesla board members come up for reelection at a 
+time.) It’s another way of saying: Musk should keep the top spot, but he needs more oversight. Tesla declined to 
+comment.Waizenegger has long voiced his concerns about Tesla’s board, which has hardly changed since the company went public in 2010, 
+and most of whose members have close personal ties to Musk.CtW may be right, but that doesn’t make it mighty. 
+And volubility does not mean anybody will join the cause. The firm, which runs pension funds sponsored by Change to 
+Win, a federation of unions, holds about 260,000 Tesla shares. By comparison, the automaker’s largest shareholder, Fidelity, holds more than 
+16 million. And despite Musk’s concerning performance on that investor call, Tesla seems to be headed in the right direction, 
+saying it should hit its target of building 5,000 Model 3 sedans a week in the next few months, and 
+reach profitability soon after. Just the sort of thing that should soothe anxious investors.“I’m betting almost all of these problems 
+would be fine if Model 3 production went to 5,000 plus, starting relatively soon,�? says Karl Brauer, an auto industry 
+analyst with Kelley Blue Book. “You can point to plenty of automakers that have had plenty of controversial issues crop 
+up. But if they’re overall profitable, people rightly assume they’ll get through it.�?Waizenegger maintains that experienced board members willing to 
+help Musk manage the company are crucial to Tesla’s future. The automaker is in a particularly tough spot right now, 
+fighting a series of crises as it tries to roll out the Model 3, the car that’s supposed to bring 
+electric driving to the masses and profits to investors. So the doubters may be more numerous and audible than usual. 
+But if Musk has proven anything, it’s that he can sell people on a vision and deliver—even if it takes 
+a Hail Mary.All About ElonTesla favorite Autopilot safety stat just doesnt stand upMusk ire reveals a Wall Street-Silicon Valley divideTesla 
+wild fight with the feds investigating its latest Autopilot death Related VideoTransportationTeslas Electric Model 3 Will Be a Great Everyday 
+Car ... Some DayNearly half a million people have put down a thousand dollar deposit for a Tesla Model 3 
+they may not get for years. But once the early production bugs are ironed out, the Model 3 feels like 
+its going to be a great everyday car. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 1332637
+URL: https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/
+https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@18be83e4
+Title: Texas Gets Its First Self-Driving Car Service 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.07.18 
+PicInfo: https://media.wired.com/photos/5aecc06841f2a64a30dd464c/master/pass/Van-2.jpg 
+URL Links: 
+https://www.wired.com/tag/self-driving-cars/
+https://www.wired.com/story/mobileye-self-driving-cars-arizona/
+https://www.wired.com/story/uber-self-driving-crash-arizona-suspend-testing-ducey-governor/
+https://www.wired.com/story/guide-self-driving-cars/?mbid=GuideCarveLeft
+https://www.wired.com/story/andrew-ngs-new-online-school/
+https://www.wired.com/story/phantom-teleops/
+https://www.wired.com/story/phantom-teleops/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+https://www.wired.com/story/gm-cruise-self-driving-car-launch-2019/?mbid=BottomRelatedStories
+
+Data: 
+	In the evolving geographic distribution of self-driving cars, the go-to getaway is Arizona, where good weather and minimal government 
+interference make testing two-ton robots something like fun in the sun. But as with all such places, the more crowded 
+it gets, the less people want to go there any more. Maybe that’s why Mountain View–based startup Drive.ai isn’t taking 
+its robo-cars to the land of the Grand Canyon, but to the wilds of the Lone Star State.Starting in July, 
+the company will run a fleet of driverless vehicles around Frisco, Texas, a city of 164,000 people on the northern 
+edge of the Dallas-Fort Worth metro area. Announced today, the six-month pilot—which will keep human safety operators behind the wheel, 
+ready to grab control if the car gets confused or misbehaves—marks Drive.ai’s first large-scale effort to put people in its 
+cars, and the first such deployment in Texas. Waymo has done some testing in Austin, but this service will provide 
+regular rides to the public.LEARN MOREThe WIRED Guide to Self-Driving CarsThe Drive.ai setup will look like more like an airport 
+shuttle than a taxi service. The company’s easily recognizable orange and blue Nissan NV200 vans will run only in a 
+tightly geofenced area, along fixed routes.Drive.ai hasn’t divulged much in the way of details, but says one such route will 
+serve employees at an office park in the southern bit of the city, taking them between buildings and to a 
+nearby stadium and apartment complex, at no charge. It will use fixed pickup and drop-off locations, so the cars don’t 
+have to worry about finding a safe space to pull over.“By choosing geofenced regions and working with partners, we can 
+take advantage of self-driving cars’ strengths while diminishing their weaknesses,�? says Andrew Ng, a member of Drive.ai’s board, and a 
+leading artificial intelligence expert.For the foreseeable future, this is how everyone will manage their fleets. Making a car that can 
+handle any conceivable situation is just too hard; the world is too complex. By limiting a vehicle to fixed routes, 
+or at least a limited area, you can be sure you’ve got fully updated maps, you can keep track of 
+conditions like construction that might make things tricky, and you can stick to the simplest situations. As your technology proves 
+itself and everyone starts to feel more confident, you can expand.Drive.ais vans will use exterior screens to communicate with people 
+on the street.Drive.aiIndeed, in later stages of this project, Drive.ai hopes to dump the human backup driver and fill the 
+passenger seat with a human “chaperone,�? to help guide passengers through the service. And, like just about every company working 
+on autonomous operations, it will have ready-to-help humans sitting in a remote location, monitoring the vehicles and issuing instructions as 
+needed.Drive.ai stands out among the host of companies in this space for its consideration of how its vehicles talk to 
+the world around them. Because, when you put a computer in charge, you lose the human ability to wave a 
+pedestrian ahead, or make the eye contact that lets that cyclist know you see her.“We need to be able to 
+communicate in all directions, and we need to be able to show intention and have a conversation with the other 
+players on the road,�? Drive.ai co-founder and president Carol Reiley told WIRED back in 2016, when the company was starting 
+to test with roof-mounted “billboards�? that could display messages. For the Frisco pilot, the Nissan vans will have panels mounted 
+on all sides to say things like “Waiting for you to cross,�? “pulling over,�? and “passengers entering.�?And now, maybe, “Welcome 
+to Texas, home of the robo-revolution.�?Robo-RevolutionSelf-driving cars have a secret weapon: humans in call centersTesla favorite Autopilot safety stat just 
+doesnt hold upGeneral Motors will launch robo-cars without steering wheels next year Related VideoScienceNASAs New Mars Lander Will Give Insight 
+Into the Planets Make-UpThe Insight Lander, developed by NASAs Jet Propulsion Laboratory, will probe deep beneath the surface of the 
+Red Planet to measure temperatures and allow study of its seismic activity. Its name is short for Interior Exploration using 
+Seismic Investigations, Geodesy and Heat Transport. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 4
+ID: 1196765
+URL: https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/
+https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@2b98378d
+Title: Elon Musks Ire Reveals a Wall Street-Silicon Valley Divide 
+Author: Zachary Karabell 
+Category: business 
+Date: 05.05.18 
+PicInfo: https://media.wired.com/photos/5aecf9de923fd24d3f22a289/master/pass/ElonWallStreet-631093314.jpg 
+URL Links: 
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-model-3-production-profitability/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+
+Data: 
+	Wall Street and Silicon Valley have never been happy bedfellows, and that was on full display this week during 
+Tesla’s quarterly earnings call. These calls are usually dull affairs, with CEOs or CFOs reading a prepared script summarizing the 
+already-released financial results and articulating the main goals of the company that have, presumably, been stated before. Then Wall Street 
+analysts ask a series of questions about the results, tactics, and strategy that executives artfully dodge or dutifully answer. Much 
+like press conferences, the format does not lend itself to spontaneity.WIRED OpinionAboutZachary Karabell is a WIRED Contributor. Karabell is the 
+head of Global Strategies Envestnet and the president of River Twice Research.Except when the company is Tesla and the CEO 
+is Elon Musk. The press after this week’s call was intensely critical of Musk for dismissing questions, refusing to delve 
+into financial details, and musing about robo-Ubers and autonomous electric trucks cutting into rail transport. More than most, the call 
+exposed the starkly different perspectives of Wall Street and the valley. Musk clearly is avoiding some hard questions about Tesla’s 
+financial viability. But it’s equally true that the call exposed how limited Wall Street can be about visions for the 
+future and what it takes to create new templates for doing old things.Musk is not your normal CEO, of course, 
+with his multiple interlocking companies and his ability—so far—to convince investors to go along for a ride that promises the 
+moon (or Mars in the case of his SpaceX) and delivers no earnings while taking on huge amounts of debt. 
+But even by those standards, his refusal to answer basic questions about, say, how much cash Tesla is burning through 
+and whether the company has a plan to continue subsidizing and capitalizing its expenses struck Wall Street as odd and 
+a sign of deep problems.What made this call peculiar was the way Musk dismissed sober questions by respected Wall Street 
+analysts such as Toni Sacconaghi of Bernstein, who pressed Musk about costs and cash. Musk brushed him off, sniping that 
+“bonehead, boring questions are not cool.�? To add insult to that injury, Musk then fielded questions from a YouTube user, 
+who proceeded to dominate a call normally open only to significant Wall Street analysts. That did not sit well with 
+the Street, and Sacconaghi lambasted Musk the next day on CNBC with the rather clever jab, “This is a financial 
+analyst call, this is not a TED talk.�? Friday, Musk returned fire, with tweets asserting that the question was boneheaded 
+because the analyst already knew the answer and was asking purely to advocate a negative thesis about the company.Musk’s sparring 
+with analysts recalls similar tensions between Wall Street analysts and Jeff Bezos of Amazon, Reed Hastings of Netflix, Mark Zuckerberg 
+of Facebook and other arrogant, aggressive, and visionary technology CEOs. The analysts consistently press for metrics including revenue, margins, cash 
+burn, and earnings projections. The CEOs routinely try to emphasize growth, users, experience, and long-term vision. The analysts press on 
+expenses, competitors, cost of capital; the CEOs dodge and weave and point to strategy, new models, breaking old molds, and 
+creating new marketplaces. And so the dance goes.The power has shifted back and forth since the real explosion of tech 
+companies on Wall Street during the 1990s. During the dot-com euphoria of the late 1990s, the concerns of traditional Wall 
+Street analysts were seen as quaint, stodgy, and hopelessly backward. Who cares about traditionally viable business models, the techies essentially 
+said; we are creating entirely new channels. After the Nasdaq bubble burst in 2000, the momentum shifted to Wall Street; 
+actually, cash matters, and having a real business with real revenue has to be part of the equation sooner rather 
+than later. In recent years, there has been more convergence, with a handful of tech companies growing into potent businesses 
+respected by Wall Street and attracting massive investor interest.The Tesla conundrum again crystallizes this conflict. Analysts demand a sense of 
+when, and how, the company will generate cash and stop accumulating debt; Musk finds such concerns secondary to building out 
+an ecosystem of battery production, propulsion and motor systems, renewable-powered robotic factories, and new modes of production meant to revolutionize 
+how heavy stuff is made as surely as Henry Ford and Frederick Winslow Taylor did in the early 20th century.Ideally, 
+one wouldn’t pick sides. After all, even Musk knows that at some point, his businesses will have to generate earnings 
+and cash. Debt, however raised, isn’t endless—unless you are a sovereign government. But he also believes that unless the entire 
+ecosystem is built out, it will fail. Hence the focus on massive capital spending and plowing into new business lines. 
+Bezos had a similar ethos with Amazon, and essentially told Wall Street that he was going to follow his own 
+vision and that investors were welcome to come along for the ride but not to drive. Those investors have been 
+rewarded and then some. Of course, investors in Jawbone and Webvan were also promised transformation and ended up with nothing.Musk 
+is telling investors that they can choose whether to buy in to his vision, but that they can’t challenge it. 
+Given that almost no one in the analyst and investor community has ever built or run a mold-breaking business, telling 
+them that they can accept or reject the vision isn’t unreasonable.Wall Street is often extremely good at what it does. 
+Bankers and analysts understand how to price debt and equities while assessing the potential of loss, which they do diligently 
+and conservatively (except when they fail spectacularly). But Wall Street is not, for the most part, the playground of those 
+who define the future. That requires tolerating extreme risk and conceiving how things could be done differently. Most visionaries will 
+be utterly wrong about their vision, because they are early, or overreach, or miscalculate. Buying Tesla stock is immensely risky, 
+perhaps even ill-advised. That does not mean Musk should alter what he does or how he does it. In fact, 
+managing his enterprises to please Wall Street is an almost certain path to failure; the numbers don’t add up—and won’t—unless 
+everything works almost perfectly. Whether you go along for the investing ride is up to you, but Tesla’s fate should 
+not be up to Wall Street analysts.Baby You Can Drive My CarWith his recent outburst, has Elon Musk gone from 
+Tesla greatest asset to a liability?Tesla is ramping up production of its Model 3 and predicting profitability.Tesla favorite statistic about 
+the safety of its Autopilot feature doesnt hold up. Related VideoTransportationElon Musks Master Plan Culminates in the Tesla Model 3The 
+Tesla Model 3 isn’t just a new electric car, it’s the culmination of over a decade of careful strategic planning 
+to achieve Elon Musk’s goal: to accelerate humanity’s transition to sustainable energy. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 1282473
+URL: https://www.wired.com/story/tesla-musk-model-3-uber-vw-roundup/
+https://www.wired.com/story/tesla-musk-model-3-uber-vw-roundup/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@26be92ad
+Title: This Week in the Future of Cars: All About Elon 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.04.18 
+PicInfo: https://media.wired.com/photos/5aeb6b628b234e623179fcaf/master/pass/TESLA-model3-FINAL.jpg 
+URL Links: 
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/
+https://www.wired.com/story/americans-falling-in-love-bike-share/
+https://www.wired.com/story/shared-electric-scooters-rolling/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/daimler-mercedes-case-wilko-stark-interview/
+https://www.wired.com/story/a-california-ruling-threatens-the-gig-economy/
+https://www.wired.com/story/dodger-gondola-bust-traffic/
+https://www.wired.com/story/shared-electric-scooters-rolling/
+https://www.wired.com/story/americans-falling-in-love-bike-share/
+https://www.wired.com/story/why-are-new-york-taxi-drivers-committing-suicide/
+https://www.wired.com/2010/09/ff_tesla/
+
+Data: 
+	What do you think about Elon Musk? Tell me and I’ll know a lot about your attitudes toward, well, 
+most things. Take this week’s first quarter earnings call. Executives at your average carmaker—your average public company, even—would bore to 
+numbness all but the most invested investors. But Elon has no time for “boring, bonehead�? calls. So he got rather 
+saucy on his, cutting off those tedious penny pinchers. Either you see him as a maverick—a boy gone delightfully big 
+money, saving the world as he swings—or as an irresponsible leader who sent his company’s stock (which, reminder, many of 
+his employees own) shuddering down the y-axis.No matter what you think of Musk, it was his week. Transportation editor Alex 
+Davies tackled what Tesla’s first quarter numbers and that exceedingly interesting earnings call means for the electric carmaker. Meanwhile, senior 
+writer Jack Stewart reminded savvy buyers Tesla will soon run out of the government’s generous EV tax credits. Plus: bike-share, 
+e-scooters, and an Autopilot statistic gone awry.It was a (Tesla) week. Let’s get you caught up.HeadlinesStories you might have missed 
+from WIRED this weekTesla will make its 200,000th electric car sometime this year, and General Motors may not be far 
+behind. That’s an impressive milestone with an unfortunate side effect: The carmakers will lose access to the federal government’s $7,500 
+purchase credit. Jack explores the strategy around selling EVs in a slightly more expensive world.The doom and gloom crowd had 
+predicted dismal first quarter numbers from Tesla. But when the electric carmaker released its figures on Wednesday, they contained a 
+bit of a surprise: production is up, and profitability might be in sight. The company just has to stick to 
+the schedule—and defy history doing it.Then Elon got on the phone and mucked it up a bit, cutting off “dry�? 
+analyst questions in favor of expansive, future-looking queries. You know, the fun stuff. The stock market was displeased, and Alex 
+wondered whether the 46-year-old boy wonder is becoming more liability than asset.Musk isn’t the only auto head prepping for the 
+future. Contributor Nicholas Stecher spoke to Wilko Stark, the guy in charge of Daimler’s connected, autonomous, shared, and electric strategies. 
+One big takeaway: the company that owns Mercedes-Benz ain’t scared of Waymo, Apple, or Uber.Business reporter Klint Finley takes a 
+close look at what could be a game-changing ruling by the California Supreme Court, which found one company’s drivers are 
+in fact employees. That’s a bad precedent for Uber, Lyft, and the rest of the gig economy.If your vision of 
+the future of cars doesn’t involve cars at all, some excellent news—people are definitely still working on ways to get 
+you around the city. I explore the Los Angeles Metro’s pathbreaking approach to collaborate with the private sector (there might 
+be gondolas involved?), the spectacular growth of electric scooter-share market, and why Americans are going ga-ga for bike-share.The Enduring Mystery 
+of the WeekIf you happen to know how or why an empty Honda Civic ended up hanging from a utility 
+pole beneath a Toronto bridge, please send me a note.https://twitter.com/madmal99/status/991696988327493632Required ReadingNews from elsewhere on the internetBloomberg breaks down Tesla’s financials 
+and kills the GIF game.A Michigan grand jury indicated ex-Volkswagen CEO Martin Winterkorn and five other former company execs on 
+felony charges related to the automaker’s plot to game US emissions standards with its diesel cars.A CNN investigations uncovers 103 
+accusations of sexual assault or abuse against Uber drivers. A senator is now getting involved with the push to allow 
+victims to take their cases against Uber out of forced arbitration and into open court.In the midst of a spate 
+of taxi driver suicides, New York mayor Bill de Blasio signals he might be ready to revisit the idea of 
+capping the number of ride-hail vehicles in the city.The Information uncovers how Lyft’s missteps doomed its ambitions to catch up 
+to Uber. Highlights include: How Lyft mucked up the rollout of Lyft Line, why the guy now running e-scooter-share company 
+Bird left the company, and what dog hung out in Travis Kalanick’s house as the ride-hail companies discussed a merger.Forget 
+Waymo. The Pentagon might beat everyone to autonomous vehicles.Volkswagen and ride-hailing giant Didi are hooking up in China.A coalition of 
+states led by California sues President Donald Trump’s EPA over fuel emissions standards. Play ball! (Also, the future of the 
+planet is at risk?)In the RearviewEssential stories from WIRED’s canonIn its 15-year history, Tesla has dodged death more times than 
+James Bond or Indiana Jones. In 2010, WIRED’s Josh Davis chronicled how Elon Musk led the automaker through its early 
+days, then its darkest days, and made it the car company of the future. Related VideoCultureThese Star Wars Fans Are 
+Building a Full-Size Millennium Falcon CockpitFor the past six years Greg Dietrich, Jake Polatty, and a group of fellow Star 
+Wars fans have been building a blinking, bleeping, insanely detailed full size version of the Millennium Falcons cockpit. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 1188392
+URL: https://www.wired.com/story/tesla-autopilot-safety-statistics/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@14acaea5
+Title: Teslas Favorite Autopilot Safety Stat Just Doesnt Hold Up 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.04.18 
+PicInfo: https://media.wired.com/photos/5aeb90ced3434f6bc9572f1c/master/pass/GettyImages-177205743.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/self-driving-cars
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/
+https://www.wired.com/story/guide-self-driving-cars/?mbid=GuideCarveLeft
+https://www.wired.com/2016/06/teslas-autopilot-first-deadly-crash/
+https://www.wired.com/story/mit-humans-semiautonomous-car-study/
+https://www.wired.com/story/tesla-autopilot-crash-dui/
+https://www.wired.com/story/no-one-knows-self-driving-car/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+
+Data: 
+	For more than a year, Tesla has defended its semiautonomous Autopilot as a vital, life-saving feature. CEO Elon Musk 
+has lambasted journalists who write about crashes involving the system. “It really incredibly irresponsible of any journalists with integrity to 
+write an article that would lead people to believe that autonomy is less safe,�? he said during a tumultuous earnings 
+call this week. “Because people might actually turn it off, and then die.�?This wasn’t the first time Musk has made 
+this argument about Autopilot, which keeps the car in its lane and a safe distance from other vehicles but requires 
+constant human oversight, and has been involved in two fatal crashes in the US. “Writing an article that’s negative, you’re 
+effectively dissuading people from using autonomous vehicles, you’re killing people,�? he said on an October 2016 conference call.Wednesday’s haranguing, however, 
+came a few hours after the National Highway Traffic Safety Administration (NHTSA) indicated that Tesla has been misconstruing the key 
+statistic it uses to defend its technology. Over the past year and a half, Tesla spokespeople have repeatedly said that 
+the agency has found Autopilot to reduce crash rates by 40 percent. They repeated it most recently after the death 
+of a Northern California man whose Model X crashed into a highway safety barrier while in Autopilot mode in March.Now 
+NHTSA says that’s not exactly right—and there’s no clear evidence for how safe the pseudo-self-driving feature actually is.LEARN MOREThe WIRED 
+Guide to Self-Driving CarsThe remarkable stat comes from a January 2017 report that summarized NHTSA’s investigation into the death of 
+Joshua Brown, whose Model S crashed into a truck turning across its path while in Autopilot mode. According to its 
+data, model year 2014 through 2016 Teslas saw 1.3 airbag deployments per million miles, before Tesla made Autopilot available via 
+an over-the-air software update. Afterward, the rate was 0.8 per million miles. “The data show that the Tesla vehicles crash 
+rate dropped by almost 40 percent after Autosteer installation,�? the investigators concluded.Just a few problems. First, as reported by Reuters 
+and confirmed to WIRED, NHTSA has reiterated that its data came from Tesla, and has not been verified by an 
+independent party (as it noted in a footnote in the report). Second, it says its investigators did not consider whether 
+the driver was using Autopilot at the time of each crash. (Reminder: Drivers are only supposed to use Autopilot in 
+very specific contexts.) And third, airbag deployments are an inexact proxy for crashes. Especially considering that in the death that 
+triggered the investigation, the airbags did not deploy.Tesla declined to comment on NHTSA’s clarification.The statistic has been the subject of 
+controversy for some time. The research firm Quality Control Systems Corp. has filed a Freedom of Information Act lawsuit against 
+NHTSA for the underlying data in that 2017 report, which it hopes to use to determine whether the 40 percent 
+figure is valid. NHTSA has thus far denied its FOIA requests, saying it agreed to Tesla’s requests to keep the 
+data confidential, and that its release could threaten the carmakers’ competitiveness.Tesla’s oft-touted figure is flawed for another reason, experts say: 
+With this data set, you can’t separate the role of Autopilot from that of automatic emergency braking, which Tesla began 
+releasing just a few months before Autopilot. According to the Insurance Institute for Highway Safety, vehicles that can detect imminent 
+collisions and hit the brakes on their own suffer half as many rear-end crashes as those that can’t. (More than 
+99 percent of cars Tesla produced in 2017 came equipped with the feature standard, a higher proportion than any other 
+carmaker.)Which is all to say, determining whether a new feature like Autopilot is safe, especially if you don’t have access 
+to lots of replicable, third-party data, is super, super hard. Tesla’s beloved 40 percent figure comes with so many caveats, 
+it’s unreliable.Big Deal DataThe Insurance Institute for Highway Safety has tried to come at the question another way, by looking 
+at the frequency of insurance claims. When it tried to separate Model S sedan incidents after Autopilot was released, it 
+observed no changes in the frequency of property damage and bodily injury liability claims. That indicates that Autopilot drivers aren’t 
+more or less less likely to damage their cars or get hurt than others. But it did find a 13 
+percent reduction in collision claim frequency, indicating sedans with Autopilot enabled got into fewer crashes that resulted in collision claims 
+to insurers.Oh, but it gets more complicated. IIHS couldn’t tell which crashes actually involved the use Autopilot, and not just 
+sedans equipped with Autopilot. And it’s way too early for definitive answers. “Since other safety technologies are layered below Autopilot, 
+it is difficult to tease out results for Autopilot alone at this time,�? says Russ Rader, an IIHS spokesperson. “Data 
+on insurance claims for the Model S are still thin.�?Over at MIT, researchers frustrated with the dearth of good info 
+on Autopilot and other semiautonomous car features have launched their own lines of inquiry. Human guinea pigs are now driving 
+sensor- and camera-laden Teslas, Volvos, and Range Rovers around the Boston area. The researchers will use the data they generate 
+to understand how safely humans operate those vehicles.The upshot is that Autopilot might, in fact, be saving a ton of 
+lives. Or maybe not. We just don’t know. And Tesla hasn’t been transparent with its own numbers. “You would need 
+a rigorous statistical analysis with clear data indicating what vehicle has it and what vehicle doesn’t and whether it’s enabled 
+or whether it isn’t,�? says David Friedman, a former NHTSA official who now directs car policy at Consumers Union. Tesla 
+said this week that it would begin publishing quarterly Autopilot safety statistics, but did not indicate whether its data would 
+be verified by a third party.NHTSA, too, could be doing a better at holding innovative but opaque carmakers like Tesla 
+accountable for proving the safety of their new tech. “To me, they should be more transparent by asking Tesla for 
+disengagements of the system: How often the systems disengaged, how often the humans need to take over,�? Friedman says. California’s 
+Department of Motor Vehicles requires companies testing autonomous vehicles in the state to provide annual data on disengagements, to help 
+officials understand the limitations of the tech and its progress.Tesla is not alone among carmakers in trying to shield sensitive 
+info from the public. But today, humans are deeply bewildered about the semiautonomous features that have already made their way 
+into everyday drivers’ garages. Even Transportation Secretary Elaine Chao—you know, the public official charged with overseeing regulation on these things—is 
+confused by the terminology. If there’s a time to get honest about your numbers, this could be it. You might 
+save some lives. You’d definitely save a few headaches.Tesla TurmoilElon Musk attack on investors could make him a liabilityBuying a 
+Tesla? Dont count on that $7,500 tax creditTesla wild fight with the feds investigating its latest Autopilot death Related VideoAutoElon 
+Musk Says Every New Tesla Will Drive ItselfElon Musk wants you to take your hands off the wheel, foot off 
+the gas, and let him do the driving. Rather, let his cars take over. 
+
+Log DateTime: Mon May 14 01:31:19 EDT 2018
+Data Found : Created By: USER
+Date Created: Mon May 14 01:31:19 EDT 2018
+Key: 76
+ID: 6848741
+URL: https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@59fa1d9b
+Title: Elon Musks Attack on Tesla Investors Could Make Him a Liability 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.03.18 
+PicInfo: https://media.wired.com/photos/5aeb6303b5eca94045e286a9/master/pass/GettyImages-855377492.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/tesla-model-3-production-profitability/
+https://www.google.com/url?q=https://www.wired.com/story/how-is-spacex-doing-on-its-deep-space-ambitions/&amp;sa=D&amp;ust=1525390991422000&amp;usg=AFQjCNHdR_hBWt-fnh-SiSVXt6_6DpHzpA
+https://www.google.com/url?q=https://www.wired.com/story/elon-musk-salary/&amp;sa=D&amp;ust=1525393126556000&amp;usg=AFQjCNE5IdSaCOQ7cZ52ERCzAdDDgAXP7w
+https://www.wired.com/story/elon-musk-better-things-than-tesla/
+https://www.wired.com/story/tesla-federal-tax-credit-model-3/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-model-s-steering-bolt-recall/?mbid=BottomRelatedStories
+
+Data: 
+	The numbers, arranged on the paper like tea leaves in the fortune-teller’s cup, heralded a sunny future. Production rates 
+up. Market share impressive. Profitability in sight. Tesla had work left to do, but it was moving in the right 
+direction, and fast enough to assuage investors wondering when the young automaker would reel in its spending and find its 
+way into the black.Then Elon Musk took charge of his own fate. In a public earnings call with investors and 
+financial analysts Wednesday afternoon, the CEO attacked two analysts for asking what he called “bonehead�? and “dry�? questions, and refused 
+to offer answers. By the morning, Tesla’s stock had dropped nearly 10 percent.And so the question becomes unavoidable. Has Musk, 
+with his inimitable élon, gone from asset to liability?It’s a remarkable turn for a man who stands out, even in 
+this age of Silicon Valley leader worship, for his inextricable association with his company. He has never been a conventional 
+CEO, and that’s been more feature than bug over the past decade. He tweets about building cyborg dragons, jokes about 
+bankruptcy and mixing Ambien with red wine, and appears on talk shows and Page 6. He has launched Big Fucking 
+Rockets, promised traffic-obliterating mazes of tunnels, and conjured a hyperloop industry from nothing. He made electric cars really, really cool. 
+After his legions of fans bought 50,000 Boring Company hats for $20 a piece, Musk moved on to $500 flamethrowers. 
+He sold 20,000 in under a week.No wonder: Musk is the entrepreneur who ignores conventional wisdom, who silences haters and 
+doubters with acceleration records and cars rocketing around the solar system. He attacks the media and fights federal investigators. It’s 
+all part of a hugely popular personal brand that can’t be separated from Tesla’s knack for surviving in an industry 
+that kills just about all newcomers. Even when it delivers cars years behind schedule, when executives flee and scandals stack 
+up, Musk’s fans remain zealous, and his investors indulgent. Indeed, in March, a large majority of Tesla shareholders approved a 
+compensation package that could make Musk $55 billion if he delivers on extraordinary goals, and that effectively locks him in 
+the job for the next decade. (Musk discussed the idea of leaving Tesla in 2013, but now says he’s there 
+for the long haul.)The read-through is that potentially the CEO doesn’t care or isn’t focused about those financial metrics or 
+ultimately the numbers don’t tell a good story.Now, though, Musk has mocked some of the people who are most vital 
+to Tesla’s survival—the investors who have pushed it to valuation that surpasses Ford’s—and paid a price. Wednesday’s call went south 
+when analyst Toni Sacconaghi of Sanford C. Bernstein asked about Tesla’s ability to reach a gross margin target of 25 
+percent on the Model 3, then about its projected capital requirements. “Excuse me,�? Musk interrupted. “Next. Boring bonehead questions are 
+not cool. Next?�?Then came Joseph Spak from RBC Capital Markets, who asked how many Model 3 reservation holders are actually 
+buying the car. “Sorry. These questions are so dry. Theyre killing me,�? Musk said—after 10 seconds of silence. As Musk 
+turned to take a long series of questions from a YouTube financial blogger (some of them pointed), the stock started 
+dropping in after hours trading, ending up down close to 10 percent.Tesla’s stock has always been volatile, subject to vertigo-inducing 
+spikes and dives. On that serrated line, this drop doesn’t stand out for its size. What sets it apart is 
+the trigger. Tesla’s quarterly numbers were quite solid. Perhaps truthful, detailed answers to Sacconaghi and Spak’s questions would have been 
+unpleasant. But where the conventional CEO might dance around bad news, or hide it in a wooly nest of jargon 
+and non-answers, Musk attacked. And he made himself look bad.“Investor feedback to the call was shock that a CEO would 
+be dismissive and the general sentiment was that the defensiveness spoke volumes,�? Spak wrote in a note summarizing the call 
+and financial results.“There is incremental concern when, on an analyst financial quarterly call, the CEO doesn’t appear to want to 
+talk about important financial metrics,�? Sacconaghi, the other spurned analyst, said on Bloomberg Television. “The read-through is that potentially the 
+CEO doesn’t care or isn’t focused about those financial metrics or ultimately the numbers don’t tell a good story. But 
+either of those interpretations are not particularly comforting.�?It seems that while investors don’t mind Musk making wildly optimistic predictions or 
+mocking competitors, they’re troubled by having their own valid, relevant financial questions derided during a finance-focused call. Now, they are 
+not just concerned about Tesla’s financial health. Some, at least, are concerned about the man leading the company they jointly 
+own.The timing of this misbehavior is not good: The Model 3 is supposed to be the thing that takes Tesla 
+from VC-funded darling to a standalone, profitable automaker. It has struggled to make the transition, burning egregious amounts of money 
+and lagging badly on production goals in the nine months since it started building the $35,000 sedan in earnest. Musk 
+says he doesn’t want to raise money again in 2018, but Tesla might have to.The Silicon Valley automaker has always 
+been a long term bet. Musk never promised profits before the Model 3 entered mass production. But now the car 
+is here, the assembly line is in business, Musk promises the numbers with the dollar signs will go from red 
+to black by the fall. If they don’t—and history has not been kind to Musk’s self-imposed deadlines—he’ll need his investors’ 
+goodwill.Musk’s decision to attack, rather than help, his financial questioners hardly spells doom. But it gives the tea leaves a 
+good swirl—and the sunny forecast they once promised is looking a bit more like rain.Tesla in TroubleBuying a Model 3? 
+Dont count on that $7,500 tax creditTesla attacks the feds investigating its latest Autopilot deathThe worst thing about Tesla latest 
+recall? Crummy timing Related VideoTransportationTeslas Electric Model 3 Will Be a Great Everyday Car ... Some DayNearly half a million 
+people have put down a thousand dollar deposit for a Tesla Model 3 they may not get for years. But 
+once the early production bugs are ironed out, the Model 3 feels like its going to be a great everyday 
+car. 
+Number of Data Searched 20

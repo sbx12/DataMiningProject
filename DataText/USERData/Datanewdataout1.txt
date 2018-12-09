@@ -1,0 +1,66 @@
+
+Log DateTime: Sun May 13 23:17:37 EDT 2018
+Searched for: https://www.wired.com/story/vehicle-future-bike/
+Log DateTime: Sun May 13 23:17:37 EDT 2018
+Data Found: Created By: null
+Date Created: null
+Key: 0
+ID: 1827386
+URL: https://www.wired.com/story/vehicle-future-bike/
+https://www.wired.com/story/vehicle-future-bike/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@68c4039c
+Title: The Vehicle of the Future Has Two Wheels, Handlebars, and Is a Bike 
+Author: Clive Thompson 
+Category: transportation 
+Date: 05.13.18 
+PicInfo: https://media.wired.com/photos/5ac7cd5936164b75672aad3c/master/pass/WI050118_2605AP_thompson_01.jpg 
+URL Links: 
+https://www.wired.com/story/guide-self-driving-cars/
+https://www.wired.com/story/guide-drones/
+https://www.wired.com/story/guide-hyperloop/
+https://www.wired.com/tag/bikes/
+https://www.wired.com/tag/bike-sharing/
+https://www.wired.com/story/chinese-dockless-bikes-revolution/
+https://www.wired.com/story/shared-electric-bikes-take-on-everyone/
+https://subscribe.wired.com/subscribe/wired/113594?source=ENDOFARTICLE_MAGSTORIES
+
+Data: 
+	What’s the shiniest, most exciting new technology for transportation? Well, there are plenty of candidates! We’ve got the self-­driving 
+car and drones big enough to carry people. Elon Musk is getting ready to bore hyperloop tunnels. When it comes 
+to moving humans around, the future looks to be merging with sci-fi.But from where I stand, the most exciting form 
+of transportation technology is more than 100 years old—and it’s probably sitting in your garage. It’s the bicycle. The future 
+of transportation has two thin wheels and handlebars.Modern tech has transformed the humble two-­wheeler, making the bike-share model possible: You 
+check out a bike from a docking station, use it for an hour or so, then return to any other 
+docking station. The concept was tried back in the ’60s but failed miserably because no one could track where the 
+bikes went.Today, that’s been solved with smartphone-ized tech: GPS, Bluetooth, RFID, and mobile-payment systems. And bike sharing has unlocked a 
+ton of American interest in navigating cities on a bike: Usage has grown from 320,000 rides in 2010 to 28 
+million in 2016. In China, where gridlock in cities like Beijing is infamous, the trend has grown even faster.But cooler 
+tricks are possible. We’re now seeing dockless bike sharing, where all the tech is crammed into each bike, eliminating the 
+need for docking stations. When riders are done, they just park and lock the bike and walk away; the bike 
+simply awaits the next user. This makes the systems cheaper (those docks cost a lot), so dockless bikes can be 
+rented for as little as a buck an hour.“It’s personal mobility for the last mile,�? as Euwyn Poon, cofounder of 
+dockless bike-­sharing firm Spin, says.Related StoriesAarian MarshallElectric Bikes Want to Take On Everyone&#8212;Even UberFelix SalmonBring On the BikocalypseErin GriffithWhy Investors 
+Are Betting That Bike Sharing Is the Next UberDockless also creates something like self-governing internet logic, with bikes as packets 
+routed where they’re needed, rather than where docks will fit. This seems to make bike sharing more fair: Seattle city 
+council­member Mike O’Brien has observed anecdotally that dockless bike sharing is used by a broader demographic, in part because it’s 
+super cheap and the bikes can circulate outside the well-off downtown neighborhoods.Want even more inventiveness and innovation? Behold the next 
+phase arriving in a few years: dockless electric bikes. Batteries are cheaper and lighter than ever. One US firm, Jump 
+Bikes, has custom-­designed dockless ebikes sprinkled around San Francisco and Washington, DC. CEO Ryan Rzepecki suspects they’ll eclipse the appeal 
+of regular bike sharing, because you could arrive at work without being drenched in sweat. “The number of people who 
+are willing to ride electric bikes is probably 10X that of people who are willing to ride a regular one,�? 
+he says.Clearly the bike-share revolution has limits. It probably won’t work outside urban areas. And if too many bikes flood 
+a city, dockless systems can produce chaotic piles of bikes on certain sidewalks and streets, as has happened in China. 
+This is a pretty solvable problem, though, if cities decide to limit the number of dockless bikes.So sure, bring on 
+the self-driving cars. Dig those hyperloops! But for a world that’s rapidly urbanizing and heating, the truly cool tech is 
+bikes. And bike sharing has oodles of civic benefits too, says Elliot Fishman, director of Australia’s Institute for Sensible Transport: 
+It relieves pressure on public transit, produces vanishingly small emissions compared to cars, and, at least with nonelectric bikes, boosts 
+the overall exercise level (duh!).Best of all, the bike-tech revolution reminds us that innovation isn’t always about the totally new. 
+It’s often just as powerful to blend a robust, old tool that works well with a bit of new tech 
+to make it better. Sometimes you truly don’t need to reinvent the wheel.Write to clive@clivethompson.net.This article appears in the May 
+issue. Subscribe now. Related VideoGadgetsEasier Pedaling With the Faraday E-BikeMore people are using bikes for transportation and electric bikes can 
+make the trip a lot easier. While expensive, the Faraday Porteur is one of the most elegant and zippy e-bikes 
+we’ve tried. 

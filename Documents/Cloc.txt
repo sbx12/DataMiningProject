@@ -1,0 +1,24 @@
+      13 text files.
+      13 unique files.
+       0 files ignored.
+
+http://cloc.sourceforge.net v 1.64  T=0.08 s (158.0 files/s, 31905.1 lines/s)
+-------------------------------------------------------------------------------
+File                             blank        comment           code
+-------------------------------------------------------------------------------
+ConsoleCalls.java                   55            140            525
+GetURLInfo.java                     36            145            296
+Start.java                          25             48            188
+CommandFlag.java                    18             66            156
+DataNode.java                       38             14            136
+HashTable.java                       9             59            109
+LinkedList.java                     18             38            100
+Login.java                          12             33             83
+GUI.java                            14              9             59
+DataBucket.java                     10              7             38
+Documenter.java                      8             25             37
+GetURLImage.java                     8             10             34
+ScanOBJ.java                         4              5             10
+-------------------------------------------------------------------------------
+SUM:                               255            599           1771
+-------------------------------------------------------------------------------

@@ -1,0 +1,1659 @@
+
+Log DateTime: Sun May 13 21:41:15 EDT 2018
+Searched for facebook
+Log DateTime: Sun May 13 21:41:16 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1076496
+URL: https://www.wired.com/story/security-news-this-week-the-hidden-commands-only-alexa-can-year/
+https://www.wired.com/story/security-news-this-week-the-hidden-commands-only-alexa-can-year/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6500df86
+Title: Security News This Week: The Hidden Commands Only Alexa Can Hear 
+Author: Brian Barrett 
+Category: security 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af61d4bad57252165962653/master/pass/amazon-echo-hack.jpg 
+URL Links: 
+https://www.wired.com/story/iran-nuclear-deal-cyberattacks/
+https://www.wired.com/story/facial-recognition-tech-creepy-works-or-not/
+https://www.wired.com/story/microsoft-excel-javascript/
+https://www.wired.com/story/keep-hackers-out-of-facebook-and-twitter-accounts/
+https://www.wired.com/story/if-trump-is-laundering-russian-money-heres-how-it-works/
+
+Data: 
+	This week, the United States officially backed out of the Iran nuclear deal. The geopolitical reverberations should continue to 
+play out in a variety of fields, but make sure you count cybersecurity among them. Iran targeted the US frequently—particularly 
+financial institutions before the deal went into place. Security experts warn that with the agreement no longer in place, the 
+barrage could begin again. So, look out for that!We also took a look at facial recognition technology. Law enforcement around 
+the world uses it more than ever, but picking out a single face out of a crowd of 60,000 feels 
+downright dystopian—as does wrongly identifying several thousand people as potential criminals. It off-putting at either extreme, which seems like a 
+decent argument to slow down its deployment.Microsoft, meanwhile, has introduced JavaScript to Excel, which makes security researchers as anxious as 
+it delights hackers and phishers. Speaking of which, your Facebook and Twitter accounts are vulnerable. Here how to lock them 
+down once and for all.And this isnt security, specifically, but if, hypothetically, Donald Trump had bought up so many properties 
+in cash as part of an elaborate money laundering scheme? Here how that would work.And there more! As always, we’ve 
+rounded up all the news we didn’t break or cover in depth this week. Click on the headlines to read 
+the full stories. And stay safe out there.Researchers Send Secret Commands to Voice AssistantsYou know how dogs can hear noises 
+you cant? Guess what! So can Alexa and Google Assistant and Siri. And while research along those lines has been 
+fomenting for the last several years, a team from UC-Berkeley this month demonstrated that they can hide voice-assistant commands not 
+just in white noise, but behind actual voices or music. It not a hack that appears to have hit the 
+wild yet, but there every reason to expect that it will eventually. And given the amount that we offload to 
+voice assistants—purchases, door locks, and more—that could have serious consequences.Signal Disappearing Messages Dont Always Disappear on MacsSignal remains our pick 
+for the best encrypted messaging service. But those who use its desktop client with the default settings may have inadvertently 
+stored those messages indefinitely on their Mac notification bar, even if they had been set to self-destruct. Not ideal! On 
+Thursday, Signal pushed an update that should fix the issue, but just to be safe, any desktop Signal users should 
+do what they can to triple check that messages they thought were gone forever really are.The Ring Video Doorbell Had 
+a Major Security OversightOn the one hand, a video doorbell helps you increase your personal security, keeping close tabs on 
+who coming and who going. On the other hand, yikes! Popular model Ring, recently acquired by Amazon, until recently wouldnt 
+log users out of its app after the password changed. That meant that if you switched up your authentication to, 
+say, deny access to an ex, they could still essentially spy on your front door. (In fact, that precisely what 
+happened in an incident outlined by The Information.) Ring says it updated the app in January such that everyone has 
+to log back in now after a password reset, but even now it doesnt take effect for several hours.A Service 
+Can Track Nearly Any Cell Phone in the USAs if Facebook didnt give you enough surveillance hassles lately, The New 
+York Times takes a look at a company called Securus, which advertises the ability to track nearly any cell phone 
+in the US within seconds. Theyre able to do so because carriers regularly sell access to location services to third 
+parties with no customer consent and little oversight. Meanwhile, not every state even requires a warrant to gather location data, 
+which all adds up to a pretty nightmarish scenario of being snooped on without any knowledge—or any way to prevent 
+it. Related VideoSecurityHow to Control What Alexa and Google Assistant Do With Your Voice DataVirtual assistants like Google Home and 
+Amazon Alexa can be amazing but what are they doing with all of your questions? Heres how to control all 
+of that data. 
+
+Log DateTime: Sun May 13 21:41:17 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 7953728
+URL: https://www.wired.com/story/russia-facebook-ads-sketchy-chrome-extension/
+https://www.wired.com/story/russia-facebook-ads-sketchy-chrome-extension/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@4cf777e8
+Title: Russia-Linked Facebook Ads Targeted a Sketchy Chrome Extension at Teen Girls 
+Author: Issie Lapowsky 
+Category: security 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af614f7b6133764df488088/master/pass/russia_malware_facebook_chrome_extensions-FINAL.jpg 
+URL Links: 
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/reddit-russian-propaganda/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/best-chrome-extensions/
+
+Data: 
+	Earlier this week, the Democrats on the House Intelligence Committee released roughly 3,500 Facebook and Instagram ads purchased by 
+the Internet Research Agency, a notorious Russian troll farm. Among them: Ads purchased in May of 2016 that promoted a 
+suspicious Chrome extension that gained wide access to the Facebook accounts and web browsing behavior of those who installed it.The 
+ads, dozens in total, prompted users to install the extension, a music app called FaceMusic; when they did, some users 
+reported that it began messaging all of their Facebook friends. The landing page for the ads, musicfb.info, was registered in 
+April of 2016 in St. Petersburg, Russia, where the IRA is based.The most successful ad, which yielded 28 clicks, specifically 
+targeted American girls, ages 14 to 17, who Facebook classified as interested in free software and music. Other ads for 
+FaceMusic targeted interest categories like Shazam, Spotify, Apple Music, or Soundcloud.The ads containing the extension, purchased by the IRA phony 
+anti-immigrant Facebook page Stop All Invaders, were discovered by Jonathan Albright, director of research at Columbia University Tow Center for 
+Digital Journalism.Why would an anti-immigrant Russian Facebook Page be spending money to promote a music app? Albright says.HOUSE PERMANENT SELECT 
+COMMITTEE ON INTELLIGENCE MINORITYThe landing site that the ad directed to, musicfb.info, is no longer active, but an archived version 
+advertises a “unique browser extension, which allows you to play your favorite music on Facebook for free and share it 
+with your friends.�?The extension is no longer active in the Chrome Web Store, either, and a Google spokesperson confirmed the 
+company had also removed it from users devices. When we discover malicious extensions, we remove them from the Chrome Web 
+Store and from every user computer that has downloaded them, the spokesperson said. We suspend the developer and remove their 
+other extensions from the Store as well.Facebook could not confirm the number of people who signed into the extension through 
+Facebook. It also unclear how many installed the extension after seeing the IRA Facebook ads. In total, the ads received 
+just over 80 clicks, according to the metadata released by Facebook. Most of the ads received no clicks at all, 
+likely because they had nothing to do with the other content posted by the Stop All Invaders page, which included, 
+among other things, photoshopped memes calling President Obama a mere pawn in the hands of the Arabian Sheikhs.Facebook also wasn’t 
+the only platform where the IRA promoted FaceMusic. A Reddit user named Rubinjer, which Reddit has since identified as linked 
+to the IRA, also posted it to the subreddit r/UsefulWebsites.Though the extension has been removed from the Chrome Web Store, 
+Jérôme Segura, a researcher at the security firm Malwarebytes Labs, found an archived version of FaceMusic and installed it manually. 
+He found that the extension asked users for permission to read and change all your data on the websites you 
+visit, display notifications, and modify data you copy and paste.courtesy MalwarebytesIt also had permission to post to users’ Facebook timelines 
+and message their friends. It apparently took full advantage. In June of 2016, a month after the IRA’s ads went 
+live, one user took to the online photo-sharing site Imgur to complain that FaceMusic had spammed their friends with Facebook 
+messages. Facemusic sent a direct link to download their extension, to 100+ of my friends, the user wrote. PLEASE, DO 
+NOT GET Facemusic!!! If you have it, GET RID OF IT IMMEDIATELY, change your FB password, and [perform] a virus 
+scan. Several other users responded that the same had happened to them.We’ve seen examples of using a lure, like a 
+music app or a game, for other purposes, says Segura. He notes, though, that the extension itself doesnt seem to 
+contain malicious code, and received a clean bill of health from more than 50 antivirus engines. Instead, it used Facebook 
+and Google generous permissions to access users data and message their friends.Segura says that these permissions, while broad, are fairly 
+standard for Chrome extensions, which often overreach the boundaries of privacy. They have too many privileges. You download a game 
+and all you want is the game, but the game wants contacts from your phone, he says. In the hands 
+of a group like the IRA, that kind of unchecked power can go very wrong.Bad AdsThe 3,500 ads Congress released 
+this week show just how Russia tried to influence US Facebook usersSpecial counsel Robert Mueller indictment of the IRA reads 
+like a sweeping novel of intrigueNot all Chrome extensions are bad! Here are over a dozen that the WIRED staff 
+cant live without Related VideoCultureWhy You Can Never Argue with Conspiracy TheoristsAlex Jones is not the only guy making a 
+career out of conspiracy theories. They are everywhere on the internet and heres why you have no choice but to 
+ignore them. 
+
+Log DateTime: Sun May 13 21:41:17 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1887813
+URL: https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/
+https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@73ad2d6
+Title: Facebook Just Tapped the Next Mark Zuckerberg 
+Author: Jessi Hempel 
+Category: business 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af5fbf8bd60ef5132936fd9/master/pass/zuck_18121749645852.jpg 
+URL Links: 
+https://www.wired.com/tag/facebook/
+https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/
+https://www.wired.com/2014/11/on-david-marcus-and-facebook/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?mbid=BottomRelatedStories
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/?mbid=BottomRelatedStories
+https://www.wired.com/story/heres-what-facebook-wont-let-you-post/?mbid=BottomRelatedStories
+
+Data: 
+	Earlier this week, Facebook announced a grand reshuffle of its leadership. First reported by Recode, the new structure includes 
+teams for the company’s apps, new platforms and infrastructure, and central product services. Most of the people moving into new 
+roles have been with the company for close to a decade or longer, and many have proven themselves adept at 
+the skill Facebook appears to value over all others: growth.Chris Cox Is the New Mark ZuckerbergIf there were ever a 
+question as to who would step in to fill Zuckerberg’s shoes should something happen to him, it has been resolved. 
+With his new role as head of the company’s family of apps—Instagram, WhatsApp, Messenger and the tried and true Big 
+Blue (aka Facebook)—Facebook’s chief product officer is stepping out as the leader he has long been internally. Anyone paying close 
+attention knows this already.Cox, who is very close friends with Zuckerberg, dropped out of a Stanford graduate program to join 
+Facebook in 2005. He’s done a lot of jobs since. When I first met him in 2008, he was the 
+25-year-old head of resources who zipped around the office on a ripstik. An engineer by training, he helped invent news 
+feed and was the star of the video Facebook showed investors in the run-up to its initial public offering. Cox 
+is a brilliant public face for the company because he pairs engineering rigor and Facebook history with an emotive voice 
+that Zuckerberg sometimes lacks. (Check out his F8 keynote from 2011 to see this in action.)Cox’s new role also suggests 
+Facebook will integrate Instagram and WhatsApp more deeply into the company, now that they’re organizationally closer to Messenger and Facebook. 
+This may have contributed to WhatsApp cofounder Jan Koum’s departure last month.Javier Olivan Just Got a Lot More ImportantOf Zuckerberg’s 
+three direct reports on the product side of the business, Olivan is the only one not currently on Facebook’s leadership 
+page. The Spanish native arrived at Facebook after finishing his Stanford MBA in 2007 to run international growth, when the 
+company had just 40 million users, most in the United States. The growth team is Facebook’s Navy SEALs, a special-operations 
+force brought in when the company sees potential for a feature to take off and the stakes are high. Historically, 
+most teams at Facebook have included one of Olivan’s direct reports.Olivan’s responsibilities now include ad products, analytics, and a group 
+called “integrity, growth, and product management.�? One could also read this as one way Zuckerberg is demoting ad products. Mark 
+Rabkin, who is in charge, now reports to Olivan.Controversy Wont Stop WhatsApp’s New BossUnlike its Instagram acquisition, Facebook’s acquisition of 
+WhatsApp was never a great culture fit. Koum promised to keep WhatsApp ad-free, then sold it to an ad company. 
+In March, cofounder Brian Acton, who’d already left Facebook to start a foundation, advised his 35,000 Twitter followers to #Deletefacebook. 
+Then last month, Koum announced he was leaving his post as WhatsApp’s CEO and stepping off Facebook’s board.Now Chris Daniels, 
+a seven-year Facebook veteran, steps in to replace Koum, eschewing the title as CEO of WhatsApp for a vice president 
+title. It will be on Daniels, who will report to Cox, to sort out a business for the messaging service. 
+He’s got the experience to take on the challenge. Until recently, Daniels ran Facebook’s internet.org initiatives around expanding access in 
+developing countries. The largest of these projects is Free Basics, an app that offers access to free web services. Although 
+telecom companies rejected the idea of partnering with Facebook to provide the Free Basics app early on—and India banned it 
+in 2016—more than 80 carriers partner with Facebook to offer the service.Facebook Probably Has a Blockchain PlanDavid Marcus, who ran 
+Facebook’s Messenger app, will now lead a team of fewer than a dozen people dedicated to blockchain technology. Kevin Weil, 
+who was in charge of product at Instagram, is joining him along with James Everingham, who was in charge of 
+engineering there. (WIRED’s Erin Griffith and Sandra Upson have some thoughts on what this means.)A board member of cryptocurrency wallet 
+Coinbase with a lot of payments experience, Marcus has a history of leaving large posts to take up seemingly small 
+projects. He was CEO of PayPal in 2014 when he left to run Messenger. The move was a head-scratcher: At 
+the time, Messenger was a tiny messaging app that had failed to take off as an email replacement. But Zuckerberg 
+had a plan to transform Messenger into a better version of WhatsApp (which, it should be said, he’d just bought), 
+one that businesses could harness to reach users in new ways.Messenger’s Chief is a Growth ExpertReplacing Marcus at Messenger is 
+Stan Chudnovsky. He’s one of the newer members of the leadership bench, having arrived at Facebook in 2014. Like Marcus, 
+Chudnovsky is a serial entrepreneur; he sold his last company, the software startup IronPearl, to PayPal before it was a 
+year old. Chudnovsky’s nascent startup had been building growth tools for companies, and at PayPal he was head of growth. 
+At Messenger, Chudnovsky worked closely with Marcus to grow Messenger into a service with more than 1.3 billion monthly active 
+users.There Are Almost No Women HereA shamefully obvious aspect of the image of the org chart that Recode pieced together 
+earlier this week is the paucity of female faces. In fact, there’s only one: Naomi Gleit, who now runs “integrity, 
+growth and product management.�? Gleit, who is Facebook’s longest tenured employee (she was #29), has long been part of the 
+growth team at Facebook and was until recently the company’s “vice president of social good.�? Gleit is a force to 
+be reckoned with, no doubt. But this new structure raises questions about Zuckerberg’s commitment to building an inclusive workforce. For 
+as much as the company has benefitted from the work its chief operating officer, Sheryl Sandberg, has done personally to 
+promote women, it should be unacceptable for Zuckerberg to fill 13 of the company’s 14 most critical technical positions with 
+men.A New Face(book)What the deal with Facebook and the blockchain?House Democrats recently released 3,500 Russia-linked Facebook ads.Here what Facebook wont 
+let you post. Related VideoBusinessMark Zuckerberg House Testimony HighlightsHighlights from Facebook CEO Mark Zuckerbergs appearance before the House Energy and 
+Commerce Committee. 
+
+Log DateTime: Sun May 13 21:41:18 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1172446
+URL: https://www.wired.com/story/congress-privacy-groups-question-amazons-echo-dot-for-kids/
+https://www.wired.com/story/congress-privacy-groups-question-amazons-echo-dot-for-kids/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5700d6b1
+Title: Congress, Privacy Groups Question Amazons Echo Dot for Kids 
+Author: Nitasha Tiku 
+Category: business 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af5b1ce00123b1da4c2b8a2/master/pass/amazon%20dot.jpg 
+URL Links: 
+https://www.wired.com/story/facebook-for-6-year-olds-welcome-to-messenger-kids/
+https://www.wired.com/2015/02/youtube-kids/
+https://www.wired.com/story/facebook-funds-its-favorite-experts-but-skirts-tough-critics/
+https://www.wired.com/story/health-experts-ask-facebook-to-shut-down-messenger-kids/?mbid=BottomRelatedStories
+https://www.wired.com/story/groups-allege-youtube-is-violating-law-that-protects-kids/
+
+Data: 
+	Lawmakers, child development experts, and privacy advocates are expressing concerns about two new Amazon products targeting children, questioning whether 
+they prod kids to be too dependent on technology and potentially jeopardize their privacy.In a letter to Amazon CEO Jeff 
+Bezos on Friday, two members of the bipartisan Congressional Privacy Caucus raised concerns about Amazon’s smart speaker Echo Dot Kids 
+and a companion service called FreeTime Unlimited that lets kids access a children’s version of Alexa, Amazon’s voice-controlled digital assistant.“While 
+these types of artificial intelligence and voice recognition technology offer potentially new educational and entertainment opportunities, Americans’ privacy, particularly children’s 
+privacy, must be paramount,�? wrote Senator Ed Markey (D-Massachusetts) and Representative Joe Barton (R-Texas), both cofounders of the privacy caucus.The 
+letter includes a dozen questions, including requests for details about how audio of children’s interactions is recorded and saved, parental 
+control over deleting recordings, a list of third parties with access to the data, whether data will be used for 
+marketing purposes, and Amazon’s intentions on maintaining a profile on kids who use these products.In a statement, Amazon said it 
+takes privacy and security seriously. The company said Echo Dot Kids Edition uses on-device software to detect the wake word 
+and only the wake word. Only once the wake word is detected does it start streaming to the cloud, and 
+it will present a visual indication (the light ring at the top of the device turns blue) to show that 
+it is streaming to the cloud.Echo Dot Kids is the latest in a wave of products from dominant tech players 
+targeting children, including Facebook’s communications app Messenger Kids and Google’s YouTube Kids, both of which have been criticized by child 
+health experts concerned about privacy and developmental issues.Like Amazon, toy manufacturers are also interested in developing smart speakers that would 
+live in a child’s room. In September, Mattel pulled Aristotle, a smart speaker and digital assistant aimed at children, after 
+a similar letter from Markey and Barton, as well as a petition that garnered more than 15,000 signatures.One of the 
+organizers of the petition, the nonprofit group Campaign for a Commercial Free Childhood, is now spearheading a similar effort against 
+Amazon. In a press release Friday, timed to the letter from Congress, a group of child development and privacy advocates 
+urged parents not to purchase Echo Dot Kids because the device and companion voice service pose a threat to children’s 
+privacy and well-being.“Amazon wants kids to be dependent on its data-gathering device from the moment they wake up until they 
+go to bed at night,�? said the group’s executive director Josh Golin. “The Echo Dot Kids is another unnecessary ‘must-have’ 
+gadget, and it’s also potentially harmful. AI devices raise a host of privacy concerns and interfere with the face-to-face interactions 
+and self-driven play that children need to thrive.�?FreeTime on Alexa includes content targeted at children, like kids’ books and Alexa 
+skills from Disney, Nickelodeon, and National Geographic. It also features parental controls, such as song filtering, bedtime limits, disabled voice 
+purchasing, and positive reinforcement for using the word “please.�?Despite such controls, the child health experts warning against Echo Dot Kids 
+wrote, “Ultimately, though, the device is designed to make kids dependent on Alexa for information and entertainment. Amazon even encourages 
+kids to tell the device ‘Alexa, I’m bored,’ to which Alexa will respond with branded games and content.�?In Amazon’s April 
+press release announcing Echo Dot Kids, the company quoted one representative from a nonprofit group focused on children that supported 
+the product, Stephen Balkam, founder and CEO of the Family Online Safety Institute. Balkam referenced a report from his institute, 
+which found that the majority of parents were comfortable with their child using a smart speaker. Although it was not 
+noted in the press release, Amazon is a member of FOSI and has an executive on the board.In a statement 
+to WIRED, Amazon said, We believe one of the core benefits of FreeTime and FreeTime Unlimited is that the services 
+provide parents the tools they need to help manage the interactions between their child and Alexa as they see fit. 
+Amazon said parents can review and listen to their children’s voice recordings in the Alexa app, review FreeTime Unlimited activity 
+via the Parent Dashboard, set bedtime limits or pause the device whenever they’d like.Balkam said his institute disclosed Amazon funding 
+of its research on its website and the cover of its report. Amazon did not initiate the study. Balkam said 
+the institute annually proposes a research project, and reaches out to its members, a group that also includes Facebook, Google, 
+and Microsoft, who pay an annual stipend of $30,000. “Amazon stepped up and we worked with them. They gave us 
+editorial control and we obviously gave them recognition for the financial support,�? he said.Balkam says Echo Dot Kids addresses concerns 
+from parents about excessive screen time. “It’s screen-less, it’s very interactive, it’s kid friendly,�? he said, pointing out Alexa skills 
+that encourage kids to go outside.In its review of the product, BuzzFeed wrote, “Unless your parents purge it, your Alexa 
+will hold on to every bit of data you have ever given it, all the way back to the first 
+things you shouted at it as a 2-year-old.�?Far From Sesame StreetFacebook funded most of the experts who vetted its Messenger 
+Kids, an app for children as young as 6.Child-health advocates asked Facebook to discontinue Messenger Kids, claiming it will undermine 
+childhood development.In a complaint to the FTC, child health and privacy groups allege that YouTube is violating a law that 
+protects children online. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon Echo. 
+Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Sun May 13 21:41:18 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1596000
+URL: https://www.wired.com/story/online-ad-targeting-does-work-as-long-as-its-not-creepy/
+https://www.wired.com/story/online-ad-targeting-does-work-as-long-as-its-not-creepy/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@e45f292
+Title: Online Ad Targeting Does Work&#8212;As Long As Its Not Creepy 
+Author: Louise Matsakis 
+Category: business 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af4c73bad8a3c6fb73a0027/master/pass/AdTargetting_FA.jpg 
+URL Links: 
+https://www.wired.com/story/amazons-turker-crowd-has-had-enough/
+https://www.wired.com/story/facebooks-targeted-ads-are-more-complex-than-it-lets-on/
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/apple-podcast-analytics-first-month/
+
+Data: 
+	If you click on the right-hand corner of any advertisement on Facebook, the social network will tell you why 
+it was targeted to you. But what would happen if those buried targeting tactics were transparently displayed, right next to 
+the ad itself? That the question at the heart of new research from Harvard Business School published in the Journal 
+of Consumer Research. It turns out advertising transparency can be good for a platform—but it depends on how creepy marketer 
+methods are.The study has wide-reaching implications for advertising giants like Facebook and Google, which increasingly find themselves under pressure to 
+disclose more about their targeting practices. The researchers found, for example, that consumers are reluctant to engage with ads that 
+they know have been served based on their activity on third-party websites, a tactic Facebook and Google routinely use. Which 
+also suggests that tech giants have a financial incentive to ensure users arent aware, at least up front, about how 
+some ads are served.Dont Talk Behind My BackFor their study, Tami Kim, Kate Barasz and Leslie K. John conducted a 
+number of online advertising experiments to understand the effect transparency has on user behavior. They found that if sites tell 
+you theyre using unsavory tactics—like tracking you across the web—youre far less likely to engage with their ads. The same 
+goes for other invasive methods, like inferring something about your life when you havent explicitly provided that information. A famous 
+example of this is from 2012, when Target began sending a woman baby-focused marketing mailers, inadvertently divulging to her father 
+that she was pregnant.I think it will be interesting to see how firms respond in this age of increasing transparency, 
+says John, a professor at Harvard Business School and one of the authors of the paper. Third-party data sharing obviously 
+plays a big part in behaviorally targeted advertising. And behaviorally targeted advertising has been shown to be very effective—in that 
+it increases sales. But our research shows that when we become aware of third-party sharing—and also of firms making inferences 
+about us—we feel intruded upon and as a result ad effectiveness can decline.The researchers didnt find, however, that users react 
+poorly to all forms of ad transparency. If companies readily disclose that they employ targeting methods perceived to be acceptable, 
+like recommending products based on items youve clicked in the past, people will make purchases all the same. And the 
+study suggests that if people already trust the platform where those ads are displayed, they might even be more likely 
+to click and buy.When we become aware of third-party sharing—and also of firms making inferences about us—we feel intruded upon.Leslie 
+K. John, Harvard Business SchoolThe researchers say their findings mimic social truths in the real world. Tracking users across websites 
+is viewed as an an inappropriate flow of information, like talking behind a friend back. Similarly, making inferences is often 
+seen as unacceptable, even if youre drawing a conclusion the other person would freely disclose. For example, you might tell 
+a friend that youre trying to lose weight, but find it inappropriate for him to ask if you want to 
+shed some pounds. The same sort of rules apply to the online world, according to the study.And this brings to 
+the topic that excites me the most—norms in the digital space are still evolving and less well understood, says Kim, 
+the lead author of the study and a marketing professor at the University of Virginia business school. For marketers to 
+build relationships with consumers effectively, it’s critical for firms to understand what these norms are and avoid practices that violate 
+these norms.Whered That Ad Come From?In one experiment, the researchers recruited 449 people from Amazon Mechanical Turk platform to look 
+at ads for a fictional bookstore. They were randomly shown two different ad-transparency messages, one saying they were targeted based 
+on products theyve clicked on in the past, and one saying they were targeted based on their activity on other 
+websites. The study found that ads appended with the second message—revealing that users had been tracked across the web—were 24 
+percent less effective. (For the lab studies, effectiveness was based on how the subjects felt about the ads.)In another experiment, 
+the researchers looked at whether ads are less effective when companies disclose theyre making inferences about their users. In this 
+scenario, 348 participants were shown an ad for an art gallery, along with a message saying either they were seeing 
+the ad based on your information that you stated about you, or based on your information that we inferred about 
+you. In this study, ads were less 17 percent effective when it was revealed that they were targeted based on 
+things a website concluded about you on its own, rather than facts you actively provided.The researchers found that their control 
+ads, which didnt have any transparency messages, performed just as well as those with acceptable ad-transparency disclosures—implying that being up-front 
+about targeting might not impact a company bottom line, as long as it not being creepy. The problem is that 
+companies do sometimes use unsettling tactics; the Intercept discovered earlier this month, for example, that Facebook has developed a service 
+designed to serve ads based on how it predicts consumers will behave in the future.In yet another experiment, the academics 
+asked 462 participants to log into their Facebook accounts and look at the first ad they saw. They then were 
+instructed to copy and paste Facebook Why am I seeing this ad message, as well as the name of the 
+company that purchased it. Responses included standard targeting methods, like my age I stated on my profile, as well as 
+invasive, distressing tactics like my sexual orientation that Facebook inferred based on my Facebook usage.Journal of Consumer ResearchThe researchers coded 
+these responses, and gave them each a transparency score. The higher the score, the more acceptable the ad-targeting practice. The 
+subjects were then asked how interested they were in the ad, including whether they would purchase something from the company 
+website. The results show participants who were served ads using acceptable practices were more likely to engage than those who 
+were served ads based on practices perceived to be unacceptable.Then, the researchers tested whether users who distrusted Facebook were less 
+likely to engage with an ad; they found both that and the reverse to be true. People who trust Facebook 
+more are more likely to engage with advertisements—though they have to be targeted in accepted ways. In other words, Facebook 
+has a financial incentive beyond public relations to ensure users trust it. When they dont, people engage with advertisements less.Journal 
+of Consumer ResearchWhat I think will be interesting moving forward is what users define for themselves as transparency. That definition 
+is rapidly changing, and how platforms define it may not align with how users want or need it defined to 
+feel like they understand, says Susan Wenograd, a digital advertising consultant with a Facebook focus. No one thought much of 
+quizzes and apps being tied to Facebook before, but of course they do now since the testimony regarding Cambridge Analytica. 
+It a fine line to be transparent without scaring users.When Transparency Works For EveryoneIn some situations, according to the study, 
+being honest about targeting practices can even lead to more clicks and purchases. In another experiment, the researchers worked with 
+two loyalty point-redemption programs, which previous research has shown consumers trust highly. When they showed people messages next to ads 
+saying things like recommended based on your clicks on our site, they were more likely to click and make purchases 
+than if no message was present.That says being honest can actually improve a company bottom line—as long as theyre not 
+tracking and targeting users in an invasive way. As the researchers wrote, even the most personalized, perfectly targeted advertisement will 
+flop if the consumer is more focused on the (un)acceptability of how the targeting was done in the first place.The 
+Ad MachineFacebook targeted ads are more complex than it often lets onHere what inside the latest batch of Russian-linked ads 
+released by CongressPodcast listeners really are the holy grail advertisers had hoped for—here why Related VideoSecurityHow to Lock Down Your 
+Facebook Security and Privacy SettingsThe only way to be truly secure on Facebook is to delete your account. But thats 
+crazy talk! Heres how to lock down your privacy and security and bonus, keep targeted ads at bay. 
+
+Log DateTime: Sun May 13 21:41:19 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 5070845
+URL: https://www.wired.com/story/how-facebook-binds-and-shatters-communities/
+https://www.wired.com/story/how-facebook-binds-and-shatters-communities/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@3f49dace
+Title: How Facebook Binds&#8212;and Shatters&#8212;Communities 
+Author: Antonio García Martínez 
+Category: ideas 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af36a55c59ba151c77c29b3/master/pass/Antonio_FB_Community-FINAL.jpg 
+URL Links: 
+https://www.wired.com/tag/facebook
+https://www.wired.com/story/europes-new-privacy-law-will-change-the-web-and-more/
+https://www.wired.com/story/facebooks-new-focus-on-community-might-actually-depress-you/?mbid=BottomRelatedStories
+https://www.wired.com/story/new-facebook-privacy-settings/?mbid=BottomRelatedStories
+https://www.wired.com/story/mark-zuckerberg-says-it-will-take-3-years-to-fix-facebook/?mbid=BottomRelatedStories
+
+Data: 
+	It will come as a surprise to many, particularly given its prominence in the never-ending Facebook news cycle, what 
+a recent invention “privacy�? is. The right to live as a stranger among strangers, with an inviolable sanctity of personal 
+affairs against government or corporate intrusion, is a relatively new concept. The Oxford English Dictionary cites our current definition back 
+to only 1814, and the first serious legal review of the concept—the now-classic The Right to Privacy—was written by Louis 
+Brandeis in 1890. Google Books, which has scanned and digitized a canon of books going back centuries, doesn’t show much 
+usage of the word until the 1960s.This relatively recent interest in, and legal defense of, privacy was a result of 
+industrialization, rapidly growing cities, and the fraying of a local social fabric that once enmeshed (to not say ensnared) everyone 
+within a set of expectations and possibilities. Privacy was and is a coping mechanism, a sanctuary from the increasingly anonymous 
+and policed world to which modern man has migrated, and the technologies he confronted there. Brandeis cited the rise of 
+newspapers and cheap photography as the motivating factors for his study, and the soon-to-be-enforced General Data Protection Regulation (GDPR) from 
+the European Union, aimed squarely at Google and Facebook, is another such reactive piece of jurisprudence.Antonio García Martínez (@antoniogm) is 
+an Ideas contributor for WIRED. Before turning to writing, he dropped out of a doctoral program in physics to work 
+on Goldman Sachs’ credit trading desk, then joined the Silicon Valley startup world, where he founded his own startup (acquired 
+by Twitter in 2011), and finally joined Facebook’s early monetization team, where he headed its targeting efforts. His 2016 memoir, 
+Chaos Monkeys, was a New York Times best seller and NPR Best Book of the Year, and his writing has 
+appeared in Vanity Fair, The Guardian, and The Washington Post. He splits his time between a sailboat on the SF 
+Bay and a yurt in Washington’s San Juan Islands.However, in the hunter-gatherer tribes where humans evolved, or in the small 
+towns where most Westerners lived until relatively recently, there was no notion of privacy. If you tried explaining privacy to 
+a !Kung tribesman of the Kalahari Desert, or a late 18th-century French villager, they’d have no idea what you were 
+talking about. Family sleeping arrangements were often communal and on a single bed until the Victorian Era, and generation after 
+generation of families were born and buried alongside each other in ancestral townships that harbored few secrets. Meeting a stranger 
+was likely a memorable event, and most pre-modern Westerners rarely interacted with anyone for whom they did not have a 
+lengthy oral rap sheet.I’ve experienced what’s left of this communal life myself. In 2016, to write my memoir about building 
+part of Facebook’s monetization machine, I moved to a small, remote island in the Pacific Northwest, just shy of the 
+Canadian border. After years adrift within the atomized, flaky world of San Francisco tech (where two people sitting 10 feet 
+apart message each other via their smartphones), small-town life was a revelation. There, Facebook was completely unnecessary. Checking into a 
+bar was automatic; the one you were at was the one open for business, and everyone who was not home 
+was there. Every encounter involved a 10-minute recap of everything going on with your mutual friends, an impromptu, real-life news feed. 
+What need was there for Facebook?Most notably, there was no privacy: Everyone knew who the drunk, the cheat, or the 
+adulterer was. News flew almost as fast as Wi-Fi signals, and I met strangers who’d already gotten the download on 
+who I was and what I was doing there (as one Facebook-stalks an online date).Deep down we hunger for that 
+sense of community, and we’ll find an outlet for it no matter what. If a platform can create the feeling 
+of community—and Facebook is nothing if not an ersatz version—then the lack of privacy is fine, as it was on 
+my island and throughout most of human history. Ultimately, nobody really cares about privacy, except media elites, under-employed Eurocrats, and 
+zealots who’ve made it a career. Everyone else would sext you their privates for a fleeting feeling of human connection. 
+And they do.(Don’t agree with me? Think people really care about privacy? Here’s a pop quiz: When, during the past 
+year, did Facebook’s app have its highest ranking in the Google Play store? Answer: In late March, immediately after #deletefacebook 
+went viral. People deleted their Facebook app in a fit of indignant fury—and then re-installed it in droves, like a 
+smoker quitting for a day and then buying a carton of smokes. There’s now a privacy-industrial complex that strives relentlessly 
+to keep itself relevant, but almost nobody’s behavior really changes.)As it turns out, Mark Zuckerberg mostly agrees with this Facebook-as-community 
+metaphor, though he’d express it more delicately. In February 2017, he published an unusual 6,000-word manifesto that, unlike most of 
+his somewhat bland posts, is worth reading. There, he very immodestly proposes that Facebook occupy the social nexus vacated by 
+the disappearance of churches, unions, lodges, and other local associations that once served as core of American civil life. This 
+resurrected public forum would be as abstract and mobile as a Facebook group, and would no longer be restricted by 
+the pesky limits of distance or national origin.This Facebook-as-community proxy is not without its problems, though, and it’s where the 
+smartphone version deviates from the real-world version that we encounter our modern pathologies. First, there’s the issue of overuse. Facebook 
+is to real community as porn is to real sex: a cheap, digital knockoff for those who can’t do better. 
+Unfortunately, in both instances use of the simulacrum fries your brain in ways that prevent you from ever experiencing the 
+real version again. But we’ll take what we can get.The second major bug is geography. That slim piece of glass, metal, 
+and silicon we keep in our pockets is like our own mobile Pacific Northwest island. Dunbar’s number, the 150-or-so people 
+that anthropologists have found most humans maintain as a social community, now lives in an easy-to-carry package.But that intangible network 
+exists across space or even time, and therein lies the political problem. The fault lines of our new online polities 
+run under and through the borders of the old, legacy ones. They don’t respect the colored boxes on the map, 
+boxes that used to refer to a common set of values, laws, and identities, but no longer do.Take the Blue 
+State #resist voter as an example. That person is nominally a citizen of a continental nation-state that stretches “from sea 
+to shining sea,�? but more often sees herself as an inhabitant of an urban archipelago (and accompanying mediascape) stretching from 
+Vancouver to Berlin. On the other side of our great divide, the Red State #MAGA voter from the Deep South 
+has more in common with a UKIP-voting Brexiter in Leeds, or a Putin-supporting Russian nationalist, than with his metropolitan compatriots.This 
+whole Facebook fracas is really the earthquake resulting from the realignment of these tribal tectonic plates underneath legacy states. Which is 
+why so many citizens of Western democracies (e.g., the #resist crowd) look at some political Others (e.g., the #MAGA crowd), 
+who are nominally part of their own nation, and ask, “Who are those people and why am I sharing political 
+power with them?�?The underlying tension of online tribes joined by now-dated political unions will persist until either the political borders 
+are redrawn to reflect the virtual ones (e.g. Brexit, various secessionist murmurs among US states), or we somehow manage to 
+unwrap our political identities from our online personas (unlikely). The pro-regulation crowd who argue Facebook is a utility (and therefore 
+should be regulated like one) is partly correct; we’ll no sooner part from our online identities at this point than 
+we would from electricity or running water.What’s the alternative?Some will retreat to atavistic revivals of earlier living arrangements: the organic 
+farm, the militia compound, the anchorite “Benedict Option,�? whereby conservative Christians isolate themselves from venal and corrupt modernity. There’ll be 
+escapees for sure. I myself ended up buying a raw patch of woods on Orcas Island, where I am learning the 
+messy arts of composting toilets while (occasionally) enjoying the authentic community.But like so many things in our coming dysfunction, most 
+people will have to resort to a knockoff of an erstwhile original. And that’s where Facebook will thrive as crutch, 
+the opiate of the socially precarious and atomized masses, the Band-Aid on the social wound that’s festered to bursting.Zuckerberg is 
+ultimately correct in his vision of “A More Open and Connected World,�? and has been relentlessly capable of making it 
+a reality. As examples, take some recent headlines: Teachers in West Virginia, Kentucky, and Oklahoma organized the biggest labor strikes 
+in recent US history via Facebook groups, organizing for increased school funding more aggressively and effectively than their unions. Then 
+there’s the bad: In Sri Lanka, anti-Muslim riots were organized via Facebook, requiring the government to do what Facebook was 
+unwilling to do: shut Facebook down. Similar bad news comes from Myanmar and the Philippines.Facebook, and social networks like it, 
+will indeed provide the makeshift community for those whose worlds are being destroyed around them, even as it also serves 
+as megaphone for those doing the destroying. Promoting the former while discouraging the latter is the fundamental challenge that companies 
+like Facebook face. Whatever the various national or political contexts where it may occur, that battle is the media battle 
+of our age.Facing Up to Its ProblemsFacebook new focus on community might depress you.Facebook is making it easier to control 
+your personal data.Mark Zuckerberg says it may take three years to fix Facebook. Related VideoBusinessMark Zuckerberg Senate Testimony HighlightsHighlights from 
+Facebook CEO Mark Zuckerbergs appearance before the Senate Committee on the Judiciary and Senate Committee on Commerce, Science, and Transportation 
+hearing, “Facebook, Social Media Privacy, and the Use and Abuse of Data. 
+
+Log DateTime: Sun May 13 21:41:19 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 6670267
+URL: https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@56ac3a89
+Title: House Democrats Release 3,500 Russia-Linked Facebook Ads 
+Author: Issie Lapowsky 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af376781c2fa03b20d0134d/master/pass/IRA_Ad-914660338.jpg 
+URL Links: 
+https://www.wired.com/story/mueller-indictment-internet-research-agency/
+https://www.wired.com/story/russian-facebook-ads-targeted-us-voters-before-2016-election/
+https://www.wired.com/story/reddit-russian-propaganda
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/six-revealing-moments-from-the-second-day-of-russia-hearings/
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/facebook-executive-rob-goldman-apologizes-to-company-and-robert-mueller/
+https://www.wired.com/story/facebook-issue-based-ads-pages-restrictions/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/facebook-issue-based-ads-pages-restrictions/
+
+Data: 
+	On Thursday, Democrats on the House Intelligence Committee published more than 3,500 Facebook and Instagram ads linked to the 
+Russian propaganda group Internet Research Agency, making it the largest trove of these ads the public has seen to date.Since 
+last fall, when Facebook disclosed it had sold political ads to Russian actors in the run-up to the 2016 election, 
+details about the IRA handiwork have trickled out mainly in the form of independent research, individual exhibits presented during congressional 
+testimony, and an indictment of IRA officials by special counsel Robert Mueller. Facebook, meanwhile, has declined to share a comprehensive 
+list of accounts and Pages associated with the IRA on Facebook and Instagram.With Thursday disclosure, the House Democrats are painting 
+a fuller picture, which they hope will help assist in further research about the IRA extensive operation.Ultimately, by exposing these 
+advertisements, we hope to better protect legitimate political expression and discussions and better safeguard Americans from having their information ecosystem 
+polluted by foreign adversaries, wrote representative Adam Schiff, ranking member of the committee, in a statement. “We will continue to 
+work with Facebook and other tech companies to expose additional content, advertisements, and information as our investigation progresses.�?The newly revealed 
+ads, some of which are redacted to protect the privacy of innocent Facebook users, track closely to what already known 
+about the IRA tactics. The ads date back to early 2015 and continue through August of 2017, covering topics including 
+LGBT rights, Black Lives Matter, immigration, Islam, veteran issues, the Second Amendment, Texas secession, and the presidential candidates themselves. The 
+Pages implicated in this disclosure largely mirror a list published last year by the Russian media outlet RBC, which until 
+now has been the largest list of suspected accounts published anywhere. But there are new names in the House committee 
+collection, too, including an account called Black guns matter, which had more than 4,000 likes in November of 2016.As was 
+clear during the congressional hearings with tech giants last November, the IRA ads on Facebook and Instagram often staked out 
+both sides of the same issue. One ad, created by the page United Muslims of America in June of 2016 
+and targeted at people whose interests on Facebook included Hillary Clinton and the Muslim Brotherhood, showed Clinton smiling with a 
+woman in a hijab. It invited people to an event entitled Support Hillary. Save American Muslims!House Permanent Select Committee on 
+Intelligence MinorityAnother ad, meanwhile, purchased by the page Stop A.I.—short for Stop All Invaders—showed a photoshopped President Obama in the 
+Oval Office, with an ISIS flag behind him. Obama was always a mere pawn in the hands of the Arabian 
+Sheikhs, it reads in part. All these refugees, which we are about to take in, are soldiers with one simple 
+goal. They are going to try to terrorize the nation.House Permanent Select Committee on Intelligence MinoritySome of the ads promote 
+real-world events organized by unwitting Facebook users. One such event, promoted by the page Black Matters, promoted a night of 
+free legal help for immigrants. Another, published by the page Fit Black, promoted free self-defense classes run by a club 
+called Black Fist. Buzzfeed News previously reported that IRA trolls had lured American fitness trainers to lead these classes, even 
+going so far as to pay them $320 a month.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYWhat made these ads so 
+deceptive is they rarely looked like traditional political ads. Often, they dont mention a candidate or the election at all. 
+Instead, they tear at the parts of the American social fabric that are already worn thin, stoking outrage about police 
+brutality or the removal of Confederate statues.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYThroughout Congress investigation into Russian meddling in the 
+election, legislators have questioned tech leaders about how the IRA targeted the ads. Facebook has repeatedly said that the majority 
+of ads were geographically targeted broadly to the United States, and the House trove backs that up. But some ads 
+in the new collection, including a few published by the page Black Matters, specifically target cities with a history of 
+headlines about racial unrest and police brutality, like Baltimore, Maryland, and Ferguson, Missouri. Others target by interest category. In January 
+of 2016, a single ad for a page called Williams&amp;Kalvin, two YouTubers the IRA hired to promote news and video 
+about the black community, targeted users age 18 to 45 who were interested in BlackNews.com, the color black, or HuffPost 
+Black Voices but were not Hispanic or Asian American. Facebook says it has since revisited some of its targeting categories, 
+eliminating one-third of the categories the IRA used.Williams&amp;Kalvin appears to be one of the pages that tested which messages would 
+resonate most with audiences. Within a single hour on January 14, 2016, that page posted the same ad with two 
+different messages. The ad that read Community about black social and racial issues! Like to subscribe! received two clicks. The 
+ad that read Black Discrimination Awareness! Like to join! got 2,592. That kind of testing is common in digital advertising, 
+but it suggests the IRA was operating at a certain level of sophistication.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYHOUSE PERMANENT 
+SELECT COMMITTEE ON INTELLIGENCE MINORITYFacebook has sought to downplay the damage caused by these ads, often emphasizing that the IRA 
+spent just $100,000 on them, compared to the nearly $40 billion in ad revenue the company earned in 2017. But 
+the House disclosure shows how far even a small sum can go. One ad, purchased on June 23, 2015, by 
+the page LGBT United, cost 99.95 Russian rubles, or the equivalent of $1.59. That ad garnered 26 clicks and 374 
+impressions in a single day. Looked at this way, Facebook argument that 50 percent of the ads cost less than 
+$3 doesnt sound all that compelling.The ads also represent just a sliver of what the Russian trolls posted on Facebook 
+and Instagram. While 3,500 sounds like a sizable number, IRA accounts published some 80,000 organic posts on Facebook and another 
+120,000 on Instagram, reaching roughly 146 million Americans between the two.Since these ads ran—and the world found out about it—Facebook 
+has announced significant changes that it says could ward off such malicious behavior in the future. In advance of this 
+announcement, Facebook sent a bulleted list of these changes to reporters. Going forward, for instance, it requiring all political advertisers, 
+including people advertising about hot-button issues such as abortion and gun rights, to provide a copy of their government-issued identification 
+and an address to verify that they live in the United States. It will require similar verification for popular pages.The 
+company will also begin labeling political ads as such, and, in June, it will launch a repository of political ads 
+that includes information on the amount spent on the ad, its reach, and the demographics of the audience it targeted. 
+That will eliminate the kind of blind confusion that has ensued over the last year regarding the very ads the 
+House made public Thursday. Meanwhile, Facebook will scale its content moderation team to 20,000 people by the end of this 
+year.The House Democrats say they plan to eventually publish the organic posts created by the Russian trolls as well. But 
+even on its own, Thursday data dump could serve as a useful guide not only for researchers who are still 
+mapping out the IRA tactics but also for other tech platforms—like Reddit and Tumblr—that didnt detect Russian trolls until far 
+later than their larger counterparts. The goal, after all, is not just to recap what happened but to prevent it 
+from happening again.Update: 10:10 am ET 05/10/18 This story has been updated to reflect that after publication, House Democrats revised 
+the total number of ads from more than 3,300 to more than 3,500.Bad AdsSpecial counsel Robert Mueller indictment of the 
+IRA reads like a sweeping novel of intrigueThe ads that Russian trolls placed on Facebook knew exactly which buttons to 
+pushFacebook has imposed new restrictions on political advertising, but enforcing them will still be tricky Related VideoCultureHow the Internet Tricks 
+You Into Thinking Youre Always RightA guide to busting through confirmation bias, the cognitive fallacy thats destroying our discourse. 
+
+Log DateTime: Sun May 13 21:41:20 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1497973
+URL: https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/
+https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6e06451e
+Title: Who Pays the Most, and Least, in Silicon Valley? 
+Author: Scott Thurm 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af36ac697bc147d4a0254b4/master/pass/Amazon-874679068.jpg 
+URL Links: 
+https://www.wired.com/story/elon-musk-salary/?mbid=BottomRelatedStories
+https://www.wired.com/story/how-amazon-jeff-bezos-spends-his-money/?mbid=BottomRelatedStories
+https://www.wired.com/story/raising-wages-to-help-workers-could-actually-help-robots-replace-them/?mbid=BottomRelatedStories
+
+Data: 
+	How much do workers at tech firms make?The answer varies a lot, depending on the employer. The median employee 
+at Amazon made $28,446 last year, according to new disclosures required by the Securities and Exchange Commission. At Facebook, the 
+median employee made $240,430, more than eight times as much.There are reasons for the big disparity, of course: Facebook’s 25,000 
+employees include many software engineers, which it must recruit in the expensive and competitive San Francisco Bay Area. Most of 
+Amazon’s 566,000 employees work in its distribution centers, including many overseas; in the US, Amazon says the average hourly wage 
+in its distribution centers is more than $15 an hour, which translates to slightly more than $30,000 a year, before 
+overtime.Other disparities reflect differences in companies’ businesses, and business models. As a car maker, Tesla says 26 percent of its 
+employees are production workers and 18 percent are outside the US. The company reported median employee pay of $54,816. Tesla 
+says its employees also have benefited from increases in the company’s share price. IBM, which has aggressively moved jobs overseas 
+in recent years, reported median pay of $54,491. The New York Times reported in September that IBM now has more 
+employees in India than in the US. An IBM spokesperson did not respond to requests for comment.Even within the same 
+tech sector, median pay can vary significantly based on a company’s business model. Intel, the largest US maker of semiconductors 
+by revenue, makes its own chips. Three of its six manufacturing sites are in the US, as are half of 
+its 102,000 employees. The company reported median pay of $102,100. Nvidia, whose graphics chips are used widely for machine learning 
+and artificial intelligence, reported median pay of $147,640. The company contracts out the manufacturing of its chips and has only 
+about 8,200 employees. A spokesperson says half of Nvidia’s employees are in the “highly competitive�? Silicon Valley market and that 
+its employees are “highly skilled, college educated, and have deep expertise–all of which command a premium in the market.�?The median 
+pay figures underscore that intense competition for tech talent in the Bay Area. Nationally, the average pay for software developers 
+and programmers is $102,470, according to the US Labor Department. Bay Area tech firms are paying considerably more: The median 
+pay at Workday, which makes software that helps businesses manage finances and people, is $178,903, according to its proxy statement. 
+At Salesforce, another business-software maker, it’s $155,284; and at payments processor Square, it’s $152,265.Companies are disclosing the median pay of 
+employees for the first time this year under a new SEC rule intended to shine a light on the high 
+pay of CEOs. The rule took effect for fiscal years ending December 31, 2017, or later, so companies on different 
+fiscal calendars, including Apple, Microsoft, and Oracle, won’t report their median-pay figures until later this year.Companies have to report the 
+ratio of the pay of their CEOs to the median pay of their employees. The Wall Street Journal reported that 
+Marathon Petroleum CEO Gary Heminger was paid $19.7 million last year, or 935 times the $21,034 salary of the company’s 
+median worker.The ratios are less meaningful for big tech companies because many of their CEOs are founders who own large 
+chunks of the company and receive only nominal compensation. Twitter CEO Jack Dorsey received no compensation, according to the company’s 
+proxy statement. Facebook’s Mark Zuckerberg and Google parent Alphabet’s Larry Page each were paid $1. Zuckerberg’s reported compensation also included 
+$8.8 million for company-provided security services and travel on company planes. Amazon’s Jeff Bezos was paid a salary of $81,840, 
+as he has been annually since 1998; his compensation included $1.6 million for security services paid by the company.Money, Money, 
+MoneyElon Musk $0 salary encapsulates the legend of Tesla.How Jeff Bezos spends his cash.Raising wages to help workers could actually 
+help robots replace them. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon 
+Echo. Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Sun May 13 21:41:21 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1332948
+URL: https://www.wired.com/story/the-research-behind-googles-new-tools-for-digital-well-being/
+https://www.wired.com/story/the-research-behind-googles-new-tools-for-digital-well-being/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5cb9f472
+Title: The Research Behind Googles New Tools for Digital Well-Being 
+Author: Robbie Gonzalez 
+Category: science 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af3346befa7377a3375916b/master/pass/Google-IO-Wellbeing_Pixel.png 
+URL Links: 
+https://www.wired.com/tag/io/
+https://www.wired.com/story/wired-guide-to-internet-addiction/
+https://www.wired.com/story/center-for-humane-technology-tech-addiction/
+https://www.wired.com/story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/
+https://www.wired.com/story/its-time-for-a-serious-talk-about-the-science-of-tech-addiction/
+https://www.wired.com/2016/01/amazon-and-apple-want-to-improve-your-sleep-by-tweaking-screen-colors/
+https://www.wired.com/story/iphone-bedtime-feature/
+https://www.wired.com/2017/03/uncertain-science-behind-phones-blue-light-dimmer/
+https://www.wired.com/story/the-price-of-googles-new-conveniences-your-data/?mbid=BottomRelatedStories
+https://www.wired.com/gallery/everything-google-announced-io-2018/?mbid=BottomRelatedStories
+https://www.wired.com/2017/05/surprising-repercussions-making-ai-assistants-sound-human/?mbid=BottomRelatedStories
+
+Data: 
+	Google wants to help its users take back their time.On Tuesday, at its annual developers conference, the company announced 
+several new features designed to help people monitor and manage the time they spend on their devices. The goal: Enable 
+users to understand their habits, control the demands technology places on their attention, and focus on what matters. Helping people 
+with their digital well-being is more important to us than ever, said vice president of product management Sameer Samat. People 
+tell us a lot of the time they spend on their phones is really useful. But some of it they 
+wish theyd spent on other things.Or, to use an increasingly prevalent turn of phrase: People want the time on their 
+devices to be time well spent. Popularized by Tristan Harris, a former product manager at Google and cofounder of the 
+Center for Humane Technology, TWS has snowballed into a movement, reaching acronymic levels of recognition in tech circles and becoming 
+a major talking point among the industry biggest companies.But while tech giants may be coming to grips with the disproportionate 
+demand technology places on users time and attention, it still not clear how best to confront that imbalance. Much of 
+what we know about technology allure is based not on peer-reviewed research but on anecdata. Here what the existing evidence 
+has to say about the features Google unveiled this week.Step One: AwarenessGoogle thinks the first step toward reclaiming your time 
+involves understanding your habits. On that front, the most comprehensive update is a systemwide tracking feature called Dashboard, which monitors 
+at multiple levels how—and how often—you use your Android device. It can tell you things like how much time you 
+spend on your phone, how much time you spend in specific apps, how often you unlock your phone, and how 
+many notifications you receive on a daily basis.At first blush, Dashboard sounds a lot like Moment, a popular screen-time-tracking app 
+designed by Kevin Holesh that been available for iOS since 2014. In the past four years, Holesh says he has 
+received at least hundreds of emails from users who, upon using the app, discovered they spend twice as much time 
+on their devices as they thought they did. (Peer-reviewed research on estimated vs. real-world smartphone use is lacking, but a 
+small study published in 2015 found that test subjects, while good at guessing the time they spend on their devices, 
+tend to underestimate the number of times they check their phones on a daily basis by more than half.)I asked 
+Holesh to scrape some data on his users. Drawing from a randomly selected sample of 100,000 active customers, Holesh found 
+that, among those that had downloaded the app and used it to monitor their activity at least 30 days, some 
+56 percent had reduced their screen time by an average of 24 minutes.By building screen-tracking directly into its operating system, 
+Holesh says, Google is poised to monitor usage patterns better than any third-party app could hope to achieve. Indeed, according 
+to Samat, Dashboard will take usage tracking a step further than Moment currently does, by allowing developers to track—and then 
+share with users—detailed information about how people use their apps.That data could be invaluable to users: Evidence suggests that the 
+effects of screen time vary not only between apps but within them. Internal studies at Facebook suggest that people who 
+spend time passively consuming information on the platform report feeling worse afterward, while people who spend their time actively engaging 
+with other users experienced the opposite effect.The same may also be true of the way people use Twitter. Or Instagram. 
+Or Gmail. That where the conversation with technology needs to go, and what Google is trying for here, because not 
+all screen time is created equal, says Andrew Przybylski, an experimental psychologist at the Oxford Internet Institute who studies the 
+self-regulation of technology use.Step Two: ActionBut understanding your technological habits and taking control of them are two different things, which 
+is why Google has paired Dashboard with another tool called App Timer. As its name suggests, the feature allows you 
+to set a cap on the time you spend in given apps. Say you want to spend no more than 
+30 minutes a day on Twitter. As you near your designated time limit, your phone will remind you that youre 
+approaching your cutoff. Exceed your limit, and Twitter app icon will turn to gray on your home screen and, at 
+least in the beta version of Android P, Google new mobile operating system, prevent you from opening the app.But these 
+cues and roadblocks might have a smaller impact on user behavior than Google hopes. Again, data from Moment is instructive 
+here: Recall that screen-time awareness alone led 56 percent of Moment customers to decrease their time on a device by 
+an average of 24 minutes per day. Holesh says his app Daily Limit feature seems to only push about 6 
+percent more of my customer base towards lowering their daily screen time. (The average decrease among those users is 26 
+minutes). The daily limit feature is effective at reducing screen time, but only slightly, and not for a huge part 
+of my customer base, Holesh says.In other words: To implement lasting change many people could require more help than an 
+app timer.That where Google other updates could come into play. The first is Wind Down, which automatically sets your phone 
+to Do Not Disturb and adjusts your display settings at a predesignated time.Like Apple Night Shift and Bed Time features, 
+Wind Down is designed to help you get a better night sleep. But whereas iOS pursues this goal by shifting 
+the temperature of your display from cool to warm, Android does it by changing your screen from color to grayscale.Which 
+approach is better? Hard to say. A handful of studies do suggest that warm tones interfere less with your circadian 
+rhythms, and your shut-eye, than cool ones—but similar research is lacking on grayscale displays. Popular among the digital-detox set, a 
+grayscale screen is thought to be less distracting than those on a colorful one, and marketing experts will tell you 
+that designers have long relied on colors to encourage subconscious decisionmaking. But at least as of this writing, the evidence 
+on grayscale screens is limited to conventional wisdom and anecdotes.Two additional updates include Shush—a feature that allows you to set 
+your phone to Do Not Disturb simply by flipping it faceside down—and a new batched notifications setting that delivers all 
+your YouTube notifications in the form of a once-daily digest. Multiple studies have linked phone alerts to inattention, hyperactivity, and 
+anxiety. But the results of these studies are more nuanced than notifications = bad. What they actually show is that 
+when and how notifications are delivered has a significant impact on test subjects self-reported well-being.One study led by computer scientist 
+Luz Rello, of Carnegie Mellon Human Computer Interaction Institute, found that disabling notifications left some test subjects feeling less stressed 
+and more productive during working hours but anxious in their off-time, for fear of missing important information and violating expectations 
+of others. Another study presented earlier this year at the American Psychology Association conference of Technology, Mind, and Society found 
+that test subjects who received their notifications in batches three times a day reported they felt significantly happier, more focused, 
+and less stressed than those who received notifications as usual, or not at all.Too many notifications seemed to result in 
+attentional overload. Too few seemed to lead to FOMO, or fear of missing out, says coauthor Kostadin Kushlev, a psychologist 
+at the University of Virginia who studies how smartphone use can improve or detract from personal well-being.Essential to the current 
+conversation surrounding Time Well Spent, it seems, is finding the balance between FOMO and what Google on Tuesday called JOMO: 
+the joy of missing out. Also essential? More research.Overall the steps Google is taking are great, but I would really 
+like to see some rigorous investigations that indicate people like the features, use them, and feel empowered by them, Przybylski 
+says. Like, an empirical study. Or three. That means open and robust research. Registered, randomized controlled trials. Independent replications. It 
+would be good for science and it would be good for the product, Przybylski says.And most of all, good for 
+users.More from I/O:Google new features make life easier—and they help the company collect more data on its users.Miss the big 
+show? Here everything Google announced at I/O 2018.The surprising repercussions of making artificial intelligence sound more human. Related VideoScienceYoull Never 
+Believe How We Got You to Click on This VideoClickbait isnt art, its a science. Click and find out how 
+it works. 
+
+Log DateTime: Sun May 13 21:41:21 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1164371
+URL: https://www.wired.com/story/what-did-atandt-want-from-michael-cohen/
+https://www.wired.com/story/what-did-atandt-want-from-michael-cohen/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@56ef9176
+Title: What Did AT&amp;T Want From Michael Cohen? 
+Author: Fred Vogelstein 
+Category: business 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af3280fefa7377a33759169/master/pass/Cohen-FA-AP_18123824852772.jpg 
+URL Links: 
+https://www.wired.com/tag/donald-trump/
+https://www.wired.com/2017/01/trumps-plan-avoid-conflicts-interest-wont-avoid-thing/
+https://www.wired.com/story/guide-net-neutrality/
+https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress/
+https://www.wired.com/story/your-favorite-websites-are-rallying-in-a-last-ditch-effort-to-save-net-neutrality/
+https://www.wired.com/story/given-a-choice-atandt-should-dump-cnn-to-seal-time-warner-deal/
+https://www.wired.com/story/robert-mueller-trump-questions-investigation/?mbid=BottomRelatedStories
+https://www.wired.com/story/what-trump-still-gets-wrong-about-how-russia-played-facebook/?mbid=BottomRelatedStories
+https://www.wired.com/story/the-comcast-nbc-merger-offers-little-guidance-for-atandt-time-warner/?mbid=BottomRelatedStories
+
+Data: 
+	Everyone knows Washington is a swamp filled with snakes and influence peddlers. And few believed President Trump would do 
+much to change that, despite his drain the swamp battle cry. In fact, one could argue he has done much 
+since taking office to encourage influence peddling.He refused to put his assets in a blind trust or release his tax 
+returns. That means he can know which people, businesses, and countries that want something from him as president are also 
+supporting him as a businessman. And even though he has said he wont seek that information, the public has no 
+way to hold him accountable to that promise. A true cynic might wonder when companies would just start handing Trump 
+personal attorney suitcases of cash every time they wanted access, or to know what was on his mind.That’s not dark 
+comedy anymore. The New York Times and Michael Avenatti, the lawyer for the porn star known as Stormy Daniels, both 
+reported yesterday that, starting in 2016 and continuing through January, Michael Cohen, Trump personal attorney, accepted payments totaling more than 
+$1.2 million from companies that may have wanted to influence Trump or sought information about Trump thinking. The money was 
+paid to the same company, Essential Consultants, from which Cohen paid Daniels $130,000 shortly before the election not to talk 
+about her alleged tryst with Trump.In all, Avenatti said, more than $4 million flowed through Essential Consultants from October 2016 
+to January 2018. Investigators are trying to understand the motivations behind a $500,000 payment from Columbus Nova, a US investment 
+firm with ties to a Russian oligarch connected to Russian president Vladimir Putin, according to the Times. Meanwhile pharmaceutical firm 
+Novartis confirmed it paid Essential about $1.2 million and that it had cooperated fully with an inquiry from special counsel 
+Robert Mueller’s office. Novartis said it entered into a year-long agreement with Essential in February 2017. After one meeting, the 
+company said, it “determined that Michael Cohen and Essential Consultants would be unable to provide the services that Novartis had 
+anticipated,�? but the company felt obligated to continue the payments under the contract.Of particular note to those in Hollywood and 
+Silicon Valley were four payments totaling $200,000 from AT&amp;T to Essential from October 2017 through January 2018.Michael Cohen should not 
+be selling access to the president of the United States. This is a big deal, Avenatti said on Anderson Cooper 
+360° Tuesday night. He said it didnt take too much imagination to wonder whether some of the money paid to 
+Cohen ended up in Trump pockets. Neither Trump nor Cohen have commented.USA Today White House correspondent Gregory Korte tweeted Wednesday 
+that Cohen and AT&amp;T CEO Randall Stephenson entered Trump Tower eight minutes apart on Jan. 12, 2017, according to a 
+pool report at the time. 1https://twitter.com/gregorykorte/status/994253095277391872AT&amp;T had two reasons to be keenly interested in Trump thinking during that period. It, 
+along with other wireless and cable companies, was pushing the Federal Communications Commission to end net neutrality, the rules that 
+bar telecom companies from blocking or favoring certain content. It also needs government approval of its $85 billion proposed acquisition 
+of Time Warner. To be fair, all corporations seek intelligence about the inner workings of new administrations. And corporations needed 
+to work harder for intelligence about the basic workings of the Trump White House than with previous administrations, because Trump 
+was an outsider surrounded by few of the well-known Washington hands.Asked about the relationship, AT&amp;T was not evasive. Essential Consulting 
+was one of several firms we engaged in early 2017 to provide insights into understanding the new administration, AT&amp;T said 
+in a statement Tuesday evening. They did no legal or lobbying work for us, and the contract ended in December 
+2017.If AT&amp;T was looking to buy influence, it has a mixed record. The FCC under Trump appointee Ajit Pai voted 
+3–2 in December to repeal its 2015 net neutrality rules, freeing telecom firms to create paid “fast lanes�? for certain 
+content, or to exempt certain content from data caps in wireless plans, a concept known as “zero rating.�? The move 
+was strongly opposed by most Silicon Valley companies, some of whom are joining a “Red Alert�? day on the web 
+Wednesday to support a congressional move to restore net neutrality.On the Time Warner merger, however, AT&amp;T has had less success. 
+The Justice Department in November sued to block the deal as anticompetitive. Testimony in that trial ended last week, and 
+the judge is expected to rule next month.1 CORRECTION, 5PM EDT: AT&amp;T CEO Randall Stephenson and Michael Cohen both visited 
+Trump Tower on Jan. 12, 2017. An earlier version of this story incorrectly said they both visited the White House.Trump 
+TurmoilRobert Mueller likely knows how the Trump investigation ends.What Trump still gets wrong about how Russia played Facebook.Comcast acquisition of 
+NBC holds few lessons for AT&amp;T-Time Warner. Related VideoSecurityWhy You Should Care About Net NeutralityA world without net neutrality might 
+end up meaning that you have to pay more to access the internet content that you want. But it also 
+might crush innovation. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 64
+ID: 1076496
+URL: https://www.wired.com/story/security-news-this-week-the-hidden-commands-only-alexa-can-year/
+https://www.wired.com/story/security-news-this-week-the-hidden-commands-only-alexa-can-year/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6500df86
+Title: Security News This Week: The Hidden Commands Only Alexa Can Hear 
+Author: Brian Barrett 
+Category: security 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af61d4bad57252165962653/master/pass/amazon-echo-hack.jpg 
+URL Links: 
+https://www.wired.com/story/iran-nuclear-deal-cyberattacks/
+https://www.wired.com/story/facial-recognition-tech-creepy-works-or-not/
+https://www.wired.com/story/microsoft-excel-javascript/
+https://www.wired.com/story/keep-hackers-out-of-facebook-and-twitter-accounts/
+https://www.wired.com/story/if-trump-is-laundering-russian-money-heres-how-it-works/
+
+Data: 
+	This week, the United States officially backed out of the Iran nuclear deal. The geopolitical reverberations should continue to 
+play out in a variety of fields, but make sure you count cybersecurity among them. Iran targeted the US frequently—particularly 
+financial institutions before the deal went into place. Security experts warn that with the agreement no longer in place, the 
+barrage could begin again. So, look out for that!We also took a look at facial recognition technology. Law enforcement around 
+the world uses it more than ever, but picking out a single face out of a crowd of 60,000 feels 
+downright dystopian—as does wrongly identifying several thousand people as potential criminals. It off-putting at either extreme, which seems like a 
+decent argument to slow down its deployment.Microsoft, meanwhile, has introduced JavaScript to Excel, which makes security researchers as anxious as 
+it delights hackers and phishers. Speaking of which, your Facebook and Twitter accounts are vulnerable. Here how to lock them 
+down once and for all.And this isnt security, specifically, but if, hypothetically, Donald Trump had bought up so many properties 
+in cash as part of an elaborate money laundering scheme? Here how that would work.And there more! As always, we’ve 
+rounded up all the news we didn’t break or cover in depth this week. Click on the headlines to read 
+the full stories. And stay safe out there.Researchers Send Secret Commands to Voice AssistantsYou know how dogs can hear noises 
+you cant? Guess what! So can Alexa and Google Assistant and Siri. And while research along those lines has been 
+fomenting for the last several years, a team from UC-Berkeley this month demonstrated that they can hide voice-assistant commands not 
+just in white noise, but behind actual voices or music. It not a hack that appears to have hit the 
+wild yet, but there every reason to expect that it will eventually. And given the amount that we offload to 
+voice assistants—purchases, door locks, and more—that could have serious consequences.Signal Disappearing Messages Dont Always Disappear on MacsSignal remains our pick 
+for the best encrypted messaging service. But those who use its desktop client with the default settings may have inadvertently 
+stored those messages indefinitely on their Mac notification bar, even if they had been set to self-destruct. Not ideal! On 
+Thursday, Signal pushed an update that should fix the issue, but just to be safe, any desktop Signal users should 
+do what they can to triple check that messages they thought were gone forever really are.The Ring Video Doorbell Had 
+a Major Security OversightOn the one hand, a video doorbell helps you increase your personal security, keeping close tabs on 
+who coming and who going. On the other hand, yikes! Popular model Ring, recently acquired by Amazon, until recently wouldnt 
+log users out of its app after the password changed. That meant that if you switched up your authentication to, 
+say, deny access to an ex, they could still essentially spy on your front door. (In fact, that precisely what 
+happened in an incident outlined by The Information.) Ring says it updated the app in January such that everyone has 
+to log back in now after a password reset, but even now it doesnt take effect for several hours.A Service 
+Can Track Nearly Any Cell Phone in the USAs if Facebook didnt give you enough surveillance hassles lately, The New 
+York Times takes a look at a company called Securus, which advertises the ability to track nearly any cell phone 
+in the US within seconds. Theyre able to do so because carriers regularly sell access to location services to third 
+parties with no customer consent and little oversight. Meanwhile, not every state even requires a warrant to gather location data, 
+which all adds up to a pretty nightmarish scenario of being snooped on without any knowledge—or any way to prevent 
+it. Related VideoSecurityHow to Control What Alexa and Google Assistant Do With Your Voice DataVirtual assistants like Google Home and 
+Amazon Alexa can be amazing but what are they doing with all of your questions? Heres how to control all 
+of that data. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 64
+ID: 7953728
+URL: https://www.wired.com/story/russia-facebook-ads-sketchy-chrome-extension/
+https://www.wired.com/story/russia-facebook-ads-sketchy-chrome-extension/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@4cf777e8
+Title: Russia-Linked Facebook Ads Targeted a Sketchy Chrome Extension at Teen Girls 
+Author: Issie Lapowsky 
+Category: security 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af614f7b6133764df488088/master/pass/russia_malware_facebook_chrome_extensions-FINAL.jpg 
+URL Links: 
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/reddit-russian-propaganda/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/best-chrome-extensions/
+
+Data: 
+	Earlier this week, the Democrats on the House Intelligence Committee released roughly 3,500 Facebook and Instagram ads purchased by 
+the Internet Research Agency, a notorious Russian troll farm. Among them: Ads purchased in May of 2016 that promoted a 
+suspicious Chrome extension that gained wide access to the Facebook accounts and web browsing behavior of those who installed it.The 
+ads, dozens in total, prompted users to install the extension, a music app called FaceMusic; when they did, some users 
+reported that it began messaging all of their Facebook friends. The landing page for the ads, musicfb.info, was registered in 
+April of 2016 in St. Petersburg, Russia, where the IRA is based.The most successful ad, which yielded 28 clicks, specifically 
+targeted American girls, ages 14 to 17, who Facebook classified as interested in free software and music. Other ads for 
+FaceMusic targeted interest categories like Shazam, Spotify, Apple Music, or Soundcloud.The ads containing the extension, purchased by the IRA phony 
+anti-immigrant Facebook page Stop All Invaders, were discovered by Jonathan Albright, director of research at Columbia University Tow Center for 
+Digital Journalism.Why would an anti-immigrant Russian Facebook Page be spending money to promote a music app? Albright says.HOUSE PERMANENT SELECT 
+COMMITTEE ON INTELLIGENCE MINORITYThe landing site that the ad directed to, musicfb.info, is no longer active, but an archived version 
+advertises a “unique browser extension, which allows you to play your favorite music on Facebook for free and share it 
+with your friends.�?The extension is no longer active in the Chrome Web Store, either, and a Google spokesperson confirmed the 
+company had also removed it from users devices. When we discover malicious extensions, we remove them from the Chrome Web 
+Store and from every user computer that has downloaded them, the spokesperson said. We suspend the developer and remove their 
+other extensions from the Store as well.Facebook could not confirm the number of people who signed into the extension through 
+Facebook. It also unclear how many installed the extension after seeing the IRA Facebook ads. In total, the ads received 
+just over 80 clicks, according to the metadata released by Facebook. Most of the ads received no clicks at all, 
+likely because they had nothing to do with the other content posted by the Stop All Invaders page, which included, 
+among other things, photoshopped memes calling President Obama a mere pawn in the hands of the Arabian Sheikhs.Facebook also wasn’t 
+the only platform where the IRA promoted FaceMusic. A Reddit user named Rubinjer, which Reddit has since identified as linked 
+to the IRA, also posted it to the subreddit r/UsefulWebsites.Though the extension has been removed from the Chrome Web Store, 
+Jérôme Segura, a researcher at the security firm Malwarebytes Labs, found an archived version of FaceMusic and installed it manually. 
+He found that the extension asked users for permission to read and change all your data on the websites you 
+visit, display notifications, and modify data you copy and paste.courtesy MalwarebytesIt also had permission to post to users’ Facebook timelines 
+and message their friends. It apparently took full advantage. In June of 2016, a month after the IRA’s ads went 
+live, one user took to the online photo-sharing site Imgur to complain that FaceMusic had spammed their friends with Facebook 
+messages. Facemusic sent a direct link to download their extension, to 100+ of my friends, the user wrote. PLEASE, DO 
+NOT GET Facemusic!!! If you have it, GET RID OF IT IMMEDIATELY, change your FB password, and [perform] a virus 
+scan. Several other users responded that the same had happened to them.We’ve seen examples of using a lure, like a 
+music app or a game, for other purposes, says Segura. He notes, though, that the extension itself doesnt seem to 
+contain malicious code, and received a clean bill of health from more than 50 antivirus engines. Instead, it used Facebook 
+and Google generous permissions to access users data and message their friends.Segura says that these permissions, while broad, are fairly 
+standard for Chrome extensions, which often overreach the boundaries of privacy. They have too many privileges. You download a game 
+and all you want is the game, but the game wants contacts from your phone, he says. In the hands 
+of a group like the IRA, that kind of unchecked power can go very wrong.Bad AdsThe 3,500 ads Congress released 
+this week show just how Russia tried to influence US Facebook usersSpecial counsel Robert Mueller indictment of the IRA reads 
+like a sweeping novel of intrigueNot all Chrome extensions are bad! Here are over a dozen that the WIRED staff 
+cant live without Related VideoCultureWhy You Can Never Argue with Conspiracy TheoristsAlex Jones is not the only guy making a 
+career out of conspiracy theories. They are everywhere on the internet and heres why you have no choice but to 
+ignore them. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 1887813
+URL: https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/
+https://www.wired.com/story/facebook-just-tapped-the-next-mark-zuckerberg/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@73ad2d6
+Title: Facebook Just Tapped the Next Mark Zuckerberg 
+Author: Jessi Hempel 
+Category: business 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af5fbf8bd60ef5132936fd9/master/pass/zuck_18121749645852.jpg 
+URL Links: 
+https://www.wired.com/tag/facebook/
+https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/
+https://www.wired.com/2014/11/on-david-marcus-and-facebook/
+https://www.wired.com/story/whats-the-deal-with-facebook-and-the-blockchain/?mbid=BottomRelatedStories
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/?mbid=BottomRelatedStories
+https://www.wired.com/story/heres-what-facebook-wont-let-you-post/?mbid=BottomRelatedStories
+
+Data: 
+	Earlier this week, Facebook announced a grand reshuffle of its leadership. First reported by Recode, the new structure includes 
+teams for the company’s apps, new platforms and infrastructure, and central product services. Most of the people moving into new 
+roles have been with the company for close to a decade or longer, and many have proven themselves adept at 
+the skill Facebook appears to value over all others: growth.Chris Cox Is the New Mark ZuckerbergIf there were ever a 
+question as to who would step in to fill Zuckerberg’s shoes should something happen to him, it has been resolved. 
+With his new role as head of the company’s family of apps—Instagram, WhatsApp, Messenger and the tried and true Big 
+Blue (aka Facebook)—Facebook’s chief product officer is stepping out as the leader he has long been internally. Anyone paying close 
+attention knows this already.Cox, who is very close friends with Zuckerberg, dropped out of a Stanford graduate program to join 
+Facebook in 2005. He’s done a lot of jobs since. When I first met him in 2008, he was the 
+25-year-old head of resources who zipped around the office on a ripstik. An engineer by training, he helped invent news 
+feed and was the star of the video Facebook showed investors in the run-up to its initial public offering. Cox 
+is a brilliant public face for the company because he pairs engineering rigor and Facebook history with an emotive voice 
+that Zuckerberg sometimes lacks. (Check out his F8 keynote from 2011 to see this in action.)Cox’s new role also suggests 
+Facebook will integrate Instagram and WhatsApp more deeply into the company, now that they’re organizationally closer to Messenger and Facebook. 
+This may have contributed to WhatsApp cofounder Jan Koum’s departure last month.Javier Olivan Just Got a Lot More ImportantOf Zuckerberg’s 
+three direct reports on the product side of the business, Olivan is the only one not currently on Facebook’s leadership 
+page. The Spanish native arrived at Facebook after finishing his Stanford MBA in 2007 to run international growth, when the 
+company had just 40 million users, most in the United States. The growth team is Facebook’s Navy SEALs, a special-operations 
+force brought in when the company sees potential for a feature to take off and the stakes are high. Historically, 
+most teams at Facebook have included one of Olivan’s direct reports.Olivan’s responsibilities now include ad products, analytics, and a group 
+called “integrity, growth, and product management.�? One could also read this as one way Zuckerberg is demoting ad products. Mark 
+Rabkin, who is in charge, now reports to Olivan.Controversy Wont Stop WhatsApp’s New BossUnlike its Instagram acquisition, Facebook’s acquisition of 
+WhatsApp was never a great culture fit. Koum promised to keep WhatsApp ad-free, then sold it to an ad company. 
+In March, cofounder Brian Acton, who’d already left Facebook to start a foundation, advised his 35,000 Twitter followers to #Deletefacebook. 
+Then last month, Koum announced he was leaving his post as WhatsApp’s CEO and stepping off Facebook’s board.Now Chris Daniels, 
+a seven-year Facebook veteran, steps in to replace Koum, eschewing the title as CEO of WhatsApp for a vice president 
+title. It will be on Daniels, who will report to Cox, to sort out a business for the messaging service. 
+He’s got the experience to take on the challenge. Until recently, Daniels ran Facebook’s internet.org initiatives around expanding access in 
+developing countries. The largest of these projects is Free Basics, an app that offers access to free web services. Although 
+telecom companies rejected the idea of partnering with Facebook to provide the Free Basics app early on—and India banned it 
+in 2016—more than 80 carriers partner with Facebook to offer the service.Facebook Probably Has a Blockchain PlanDavid Marcus, who ran 
+Facebook’s Messenger app, will now lead a team of fewer than a dozen people dedicated to blockchain technology. Kevin Weil, 
+who was in charge of product at Instagram, is joining him along with James Everingham, who was in charge of 
+engineering there. (WIRED’s Erin Griffith and Sandra Upson have some thoughts on what this means.)A board member of cryptocurrency wallet 
+Coinbase with a lot of payments experience, Marcus has a history of leaving large posts to take up seemingly small 
+projects. He was CEO of PayPal in 2014 when he left to run Messenger. The move was a head-scratcher: At 
+the time, Messenger was a tiny messaging app that had failed to take off as an email replacement. But Zuckerberg 
+had a plan to transform Messenger into a better version of WhatsApp (which, it should be said, he’d just bought), 
+one that businesses could harness to reach users in new ways.Messenger’s Chief is a Growth ExpertReplacing Marcus at Messenger is 
+Stan Chudnovsky. He’s one of the newer members of the leadership bench, having arrived at Facebook in 2014. Like Marcus, 
+Chudnovsky is a serial entrepreneur; he sold his last company, the software startup IronPearl, to PayPal before it was a 
+year old. Chudnovsky’s nascent startup had been building growth tools for companies, and at PayPal he was head of growth. 
+At Messenger, Chudnovsky worked closely with Marcus to grow Messenger into a service with more than 1.3 billion monthly active 
+users.There Are Almost No Women HereA shamefully obvious aspect of the image of the org chart that Recode pieced together 
+earlier this week is the paucity of female faces. In fact, there’s only one: Naomi Gleit, who now runs “integrity, 
+growth and product management.�? Gleit, who is Facebook’s longest tenured employee (she was #29), has long been part of the 
+growth team at Facebook and was until recently the company’s “vice president of social good.�? Gleit is a force to 
+be reckoned with, no doubt. But this new structure raises questions about Zuckerberg’s commitment to building an inclusive workforce. For 
+as much as the company has benefitted from the work its chief operating officer, Sheryl Sandberg, has done personally to 
+promote women, it should be unacceptable for Zuckerberg to fill 13 of the company’s 14 most critical technical positions with 
+men.A New Face(book)What the deal with Facebook and the blockchain?House Democrats recently released 3,500 Russia-linked Facebook ads.Here what Facebook wont 
+let you post. Related VideoBusinessMark Zuckerberg House Testimony HighlightsHighlights from Facebook CEO Mark Zuckerbergs appearance before the House Energy and 
+Commerce Committee. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 1172446
+URL: https://www.wired.com/story/congress-privacy-groups-question-amazons-echo-dot-for-kids/
+https://www.wired.com/story/congress-privacy-groups-question-amazons-echo-dot-for-kids/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5700d6b1
+Title: Congress, Privacy Groups Question Amazons Echo Dot for Kids 
+Author: Nitasha Tiku 
+Category: business 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af5b1ce00123b1da4c2b8a2/master/pass/amazon%20dot.jpg 
+URL Links: 
+https://www.wired.com/story/facebook-for-6-year-olds-welcome-to-messenger-kids/
+https://www.wired.com/2015/02/youtube-kids/
+https://www.wired.com/story/facebook-funds-its-favorite-experts-but-skirts-tough-critics/
+https://www.wired.com/story/health-experts-ask-facebook-to-shut-down-messenger-kids/?mbid=BottomRelatedStories
+https://www.wired.com/story/groups-allege-youtube-is-violating-law-that-protects-kids/
+
+Data: 
+	Lawmakers, child development experts, and privacy advocates are expressing concerns about two new Amazon products targeting children, questioning whether 
+they prod kids to be too dependent on technology and potentially jeopardize their privacy.In a letter to Amazon CEO Jeff 
+Bezos on Friday, two members of the bipartisan Congressional Privacy Caucus raised concerns about Amazon’s smart speaker Echo Dot Kids 
+and a companion service called FreeTime Unlimited that lets kids access a children’s version of Alexa, Amazon’s voice-controlled digital assistant.“While 
+these types of artificial intelligence and voice recognition technology offer potentially new educational and entertainment opportunities, Americans’ privacy, particularly children’s 
+privacy, must be paramount,�? wrote Senator Ed Markey (D-Massachusetts) and Representative Joe Barton (R-Texas), both cofounders of the privacy caucus.The 
+letter includes a dozen questions, including requests for details about how audio of children’s interactions is recorded and saved, parental 
+control over deleting recordings, a list of third parties with access to the data, whether data will be used for 
+marketing purposes, and Amazon’s intentions on maintaining a profile on kids who use these products.In a statement, Amazon said it 
+takes privacy and security seriously. The company said Echo Dot Kids Edition uses on-device software to detect the wake word 
+and only the wake word. Only once the wake word is detected does it start streaming to the cloud, and 
+it will present a visual indication (the light ring at the top of the device turns blue) to show that 
+it is streaming to the cloud.Echo Dot Kids is the latest in a wave of products from dominant tech players 
+targeting children, including Facebook’s communications app Messenger Kids and Google’s YouTube Kids, both of which have been criticized by child 
+health experts concerned about privacy and developmental issues.Like Amazon, toy manufacturers are also interested in developing smart speakers that would 
+live in a child’s room. In September, Mattel pulled Aristotle, a smart speaker and digital assistant aimed at children, after 
+a similar letter from Markey and Barton, as well as a petition that garnered more than 15,000 signatures.One of the 
+organizers of the petition, the nonprofit group Campaign for a Commercial Free Childhood, is now spearheading a similar effort against 
+Amazon. In a press release Friday, timed to the letter from Congress, a group of child development and privacy advocates 
+urged parents not to purchase Echo Dot Kids because the device and companion voice service pose a threat to children’s 
+privacy and well-being.“Amazon wants kids to be dependent on its data-gathering device from the moment they wake up until they 
+go to bed at night,�? said the group’s executive director Josh Golin. “The Echo Dot Kids is another unnecessary ‘must-have’ 
+gadget, and it’s also potentially harmful. AI devices raise a host of privacy concerns and interfere with the face-to-face interactions 
+and self-driven play that children need to thrive.�?FreeTime on Alexa includes content targeted at children, like kids’ books and Alexa 
+skills from Disney, Nickelodeon, and National Geographic. It also features parental controls, such as song filtering, bedtime limits, disabled voice 
+purchasing, and positive reinforcement for using the word “please.�?Despite such controls, the child health experts warning against Echo Dot Kids 
+wrote, “Ultimately, though, the device is designed to make kids dependent on Alexa for information and entertainment. Amazon even encourages 
+kids to tell the device ‘Alexa, I’m bored,’ to which Alexa will respond with branded games and content.�?In Amazon’s April 
+press release announcing Echo Dot Kids, the company quoted one representative from a nonprofit group focused on children that supported 
+the product, Stephen Balkam, founder and CEO of the Family Online Safety Institute. Balkam referenced a report from his institute, 
+which found that the majority of parents were comfortable with their child using a smart speaker. Although it was not 
+noted in the press release, Amazon is a member of FOSI and has an executive on the board.In a statement 
+to WIRED, Amazon said, We believe one of the core benefits of FreeTime and FreeTime Unlimited is that the services 
+provide parents the tools they need to help manage the interactions between their child and Alexa as they see fit. 
+Amazon said parents can review and listen to their children’s voice recordings in the Alexa app, review FreeTime Unlimited activity 
+via the Parent Dashboard, set bedtime limits or pause the device whenever they’d like.Balkam said his institute disclosed Amazon funding 
+of its research on its website and the cover of its report. Amazon did not initiate the study. Balkam said 
+the institute annually proposes a research project, and reaches out to its members, a group that also includes Facebook, Google, 
+and Microsoft, who pay an annual stipend of $30,000. “Amazon stepped up and we worked with them. They gave us 
+editorial control and we obviously gave them recognition for the financial support,�? he said.Balkam says Echo Dot Kids addresses concerns 
+from parents about excessive screen time. “It’s screen-less, it’s very interactive, it’s kid friendly,�? he said, pointing out Alexa skills 
+that encourage kids to go outside.In its review of the product, BuzzFeed wrote, “Unless your parents purge it, your Alexa 
+will hold on to every bit of data you have ever given it, all the way back to the first 
+things you shouted at it as a 2-year-old.�?Far From Sesame StreetFacebook funded most of the experts who vetted its Messenger 
+Kids, an app for children as young as 6.Child-health advocates asked Facebook to discontinue Messenger Kids, claiming it will undermine 
+childhood development.In a complaint to the FTC, child health and privacy groups allege that YouTube is violating a law that 
+protects children online. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon Echo. 
+Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 1596000
+URL: https://www.wired.com/story/online-ad-targeting-does-work-as-long-as-its-not-creepy/
+https://www.wired.com/story/online-ad-targeting-does-work-as-long-as-its-not-creepy/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@e45f292
+Title: Online Ad Targeting Does Work&#8212;As Long As Its Not Creepy 
+Author: Louise Matsakis 
+Category: business 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af4c73bad8a3c6fb73a0027/master/pass/AdTargetting_FA.jpg 
+URL Links: 
+https://www.wired.com/story/amazons-turker-crowd-has-had-enough/
+https://www.wired.com/story/facebooks-targeted-ads-are-more-complex-than-it-lets-on/
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/apple-podcast-analytics-first-month/
+
+Data: 
+	If you click on the right-hand corner of any advertisement on Facebook, the social network will tell you why 
+it was targeted to you. But what would happen if those buried targeting tactics were transparently displayed, right next to 
+the ad itself? That the question at the heart of new research from Harvard Business School published in the Journal 
+of Consumer Research. It turns out advertising transparency can be good for a platform—but it depends on how creepy marketer 
+methods are.The study has wide-reaching implications for advertising giants like Facebook and Google, which increasingly find themselves under pressure to 
+disclose more about their targeting practices. The researchers found, for example, that consumers are reluctant to engage with ads that 
+they know have been served based on their activity on third-party websites, a tactic Facebook and Google routinely use. Which 
+also suggests that tech giants have a financial incentive to ensure users arent aware, at least up front, about how 
+some ads are served.Dont Talk Behind My BackFor their study, Tami Kim, Kate Barasz and Leslie K. John conducted a 
+number of online advertising experiments to understand the effect transparency has on user behavior. They found that if sites tell 
+you theyre using unsavory tactics—like tracking you across the web—youre far less likely to engage with their ads. The same 
+goes for other invasive methods, like inferring something about your life when you havent explicitly provided that information. A famous 
+example of this is from 2012, when Target began sending a woman baby-focused marketing mailers, inadvertently divulging to her father 
+that she was pregnant.I think it will be interesting to see how firms respond in this age of increasing transparency, 
+says John, a professor at Harvard Business School and one of the authors of the paper. Third-party data sharing obviously 
+plays a big part in behaviorally targeted advertising. And behaviorally targeted advertising has been shown to be very effective—in that 
+it increases sales. But our research shows that when we become aware of third-party sharing—and also of firms making inferences 
+about us—we feel intruded upon and as a result ad effectiveness can decline.The researchers didnt find, however, that users react 
+poorly to all forms of ad transparency. If companies readily disclose that they employ targeting methods perceived to be acceptable, 
+like recommending products based on items youve clicked in the past, people will make purchases all the same. And the 
+study suggests that if people already trust the platform where those ads are displayed, they might even be more likely 
+to click and buy.When we become aware of third-party sharing—and also of firms making inferences about us—we feel intruded upon.Leslie 
+K. John, Harvard Business SchoolThe researchers say their findings mimic social truths in the real world. Tracking users across websites 
+is viewed as an an inappropriate flow of information, like talking behind a friend back. Similarly, making inferences is often 
+seen as unacceptable, even if youre drawing a conclusion the other person would freely disclose. For example, you might tell 
+a friend that youre trying to lose weight, but find it inappropriate for him to ask if you want to 
+shed some pounds. The same sort of rules apply to the online world, according to the study.And this brings to 
+the topic that excites me the most—norms in the digital space are still evolving and less well understood, says Kim, 
+the lead author of the study and a marketing professor at the University of Virginia business school. For marketers to 
+build relationships with consumers effectively, it’s critical for firms to understand what these norms are and avoid practices that violate 
+these norms.Whered That Ad Come From?In one experiment, the researchers recruited 449 people from Amazon Mechanical Turk platform to look 
+at ads for a fictional bookstore. They were randomly shown two different ad-transparency messages, one saying they were targeted based 
+on products theyve clicked on in the past, and one saying they were targeted based on their activity on other 
+websites. The study found that ads appended with the second message—revealing that users had been tracked across the web—were 24 
+percent less effective. (For the lab studies, effectiveness was based on how the subjects felt about the ads.)In another experiment, 
+the researchers looked at whether ads are less effective when companies disclose theyre making inferences about their users. In this 
+scenario, 348 participants were shown an ad for an art gallery, along with a message saying either they were seeing 
+the ad based on your information that you stated about you, or based on your information that we inferred about 
+you. In this study, ads were less 17 percent effective when it was revealed that they were targeted based on 
+things a website concluded about you on its own, rather than facts you actively provided.The researchers found that their control 
+ads, which didnt have any transparency messages, performed just as well as those with acceptable ad-transparency disclosures—implying that being up-front 
+about targeting might not impact a company bottom line, as long as it not being creepy. The problem is that 
+companies do sometimes use unsettling tactics; the Intercept discovered earlier this month, for example, that Facebook has developed a service 
+designed to serve ads based on how it predicts consumers will behave in the future.In yet another experiment, the academics 
+asked 462 participants to log into their Facebook accounts and look at the first ad they saw. They then were 
+instructed to copy and paste Facebook Why am I seeing this ad message, as well as the name of the 
+company that purchased it. Responses included standard targeting methods, like my age I stated on my profile, as well as 
+invasive, distressing tactics like my sexual orientation that Facebook inferred based on my Facebook usage.Journal of Consumer ResearchThe researchers coded 
+these responses, and gave them each a transparency score. The higher the score, the more acceptable the ad-targeting practice. The 
+subjects were then asked how interested they were in the ad, including whether they would purchase something from the company 
+website. The results show participants who were served ads using acceptable practices were more likely to engage than those who 
+were served ads based on practices perceived to be unacceptable.Then, the researchers tested whether users who distrusted Facebook were less 
+likely to engage with an ad; they found both that and the reverse to be true. People who trust Facebook 
+more are more likely to engage with advertisements—though they have to be targeted in accepted ways. In other words, Facebook 
+has a financial incentive beyond public relations to ensure users trust it. When they dont, people engage with advertisements less.Journal 
+of Consumer ResearchWhat I think will be interesting moving forward is what users define for themselves as transparency. That definition 
+is rapidly changing, and how platforms define it may not align with how users want or need it defined to 
+feel like they understand, says Susan Wenograd, a digital advertising consultant with a Facebook focus. No one thought much of 
+quizzes and apps being tied to Facebook before, but of course they do now since the testimony regarding Cambridge Analytica. 
+It a fine line to be transparent without scaring users.When Transparency Works For EveryoneIn some situations, according to the study, 
+being honest about targeting practices can even lead to more clicks and purchases. In another experiment, the researchers worked with 
+two loyalty point-redemption programs, which previous research has shown consumers trust highly. When they showed people messages next to ads 
+saying things like recommended based on your clicks on our site, they were more likely to click and make purchases 
+than if no message was present.That says being honest can actually improve a company bottom line—as long as theyre not 
+tracking and targeting users in an invasive way. As the researchers wrote, even the most personalized, perfectly targeted advertisement will 
+flop if the consumer is more focused on the (un)acceptability of how the targeting was done in the first place.The 
+Ad MachineFacebook targeted ads are more complex than it often lets onHere what inside the latest batch of Russian-linked ads 
+released by CongressPodcast listeners really are the holy grail advertisers had hoped for—here why Related VideoSecurityHow to Lock Down Your 
+Facebook Security and Privacy SettingsThe only way to be truly secure on Facebook is to delete your account. But thats 
+crazy talk! Heres how to lock down your privacy and security and bonus, keep targeted ads at bay. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 40
+ID: 5070845
+URL: https://www.wired.com/story/how-facebook-binds-and-shatters-communities/
+https://www.wired.com/story/how-facebook-binds-and-shatters-communities/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@3f49dace
+Title: How Facebook Binds&#8212;and Shatters&#8212;Communities 
+Author: Antonio García Martínez 
+Category: ideas 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af36a55c59ba151c77c29b3/master/pass/Antonio_FB_Community-FINAL.jpg 
+URL Links: 
+https://www.wired.com/tag/facebook
+https://www.wired.com/story/europes-new-privacy-law-will-change-the-web-and-more/
+https://www.wired.com/story/facebooks-new-focus-on-community-might-actually-depress-you/?mbid=BottomRelatedStories
+https://www.wired.com/story/new-facebook-privacy-settings/?mbid=BottomRelatedStories
+https://www.wired.com/story/mark-zuckerberg-says-it-will-take-3-years-to-fix-facebook/?mbid=BottomRelatedStories
+
+Data: 
+	It will come as a surprise to many, particularly given its prominence in the never-ending Facebook news cycle, what 
+a recent invention “privacy�? is. The right to live as a stranger among strangers, with an inviolable sanctity of personal 
+affairs against government or corporate intrusion, is a relatively new concept. The Oxford English Dictionary cites our current definition back 
+to only 1814, and the first serious legal review of the concept—the now-classic The Right to Privacy—was written by Louis 
+Brandeis in 1890. Google Books, which has scanned and digitized a canon of books going back centuries, doesn’t show much 
+usage of the word until the 1960s.This relatively recent interest in, and legal defense of, privacy was a result of 
+industrialization, rapidly growing cities, and the fraying of a local social fabric that once enmeshed (to not say ensnared) everyone 
+within a set of expectations and possibilities. Privacy was and is a coping mechanism, a sanctuary from the increasingly anonymous 
+and policed world to which modern man has migrated, and the technologies he confronted there. Brandeis cited the rise of 
+newspapers and cheap photography as the motivating factors for his study, and the soon-to-be-enforced General Data Protection Regulation (GDPR) from 
+the European Union, aimed squarely at Google and Facebook, is another such reactive piece of jurisprudence.Antonio García Martínez (@antoniogm) is 
+an Ideas contributor for WIRED. Before turning to writing, he dropped out of a doctoral program in physics to work 
+on Goldman Sachs’ credit trading desk, then joined the Silicon Valley startup world, where he founded his own startup (acquired 
+by Twitter in 2011), and finally joined Facebook’s early monetization team, where he headed its targeting efforts. His 2016 memoir, 
+Chaos Monkeys, was a New York Times best seller and NPR Best Book of the Year, and his writing has 
+appeared in Vanity Fair, The Guardian, and The Washington Post. He splits his time between a sailboat on the SF 
+Bay and a yurt in Washington’s San Juan Islands.However, in the hunter-gatherer tribes where humans evolved, or in the small 
+towns where most Westerners lived until relatively recently, there was no notion of privacy. If you tried explaining privacy to 
+a !Kung tribesman of the Kalahari Desert, or a late 18th-century French villager, they’d have no idea what you were 
+talking about. Family sleeping arrangements were often communal and on a single bed until the Victorian Era, and generation after 
+generation of families were born and buried alongside each other in ancestral townships that harbored few secrets. Meeting a stranger 
+was likely a memorable event, and most pre-modern Westerners rarely interacted with anyone for whom they did not have a 
+lengthy oral rap sheet.I’ve experienced what’s left of this communal life myself. In 2016, to write my memoir about building 
+part of Facebook’s monetization machine, I moved to a small, remote island in the Pacific Northwest, just shy of the 
+Canadian border. After years adrift within the atomized, flaky world of San Francisco tech (where two people sitting 10 feet 
+apart message each other via their smartphones), small-town life was a revelation. There, Facebook was completely unnecessary. Checking into a 
+bar was automatic; the one you were at was the one open for business, and everyone who was not home 
+was there. Every encounter involved a 10-minute recap of everything going on with your mutual friends, an impromptu, real-life news feed. 
+What need was there for Facebook?Most notably, there was no privacy: Everyone knew who the drunk, the cheat, or the 
+adulterer was. News flew almost as fast as Wi-Fi signals, and I met strangers who’d already gotten the download on 
+who I was and what I was doing there (as one Facebook-stalks an online date).Deep down we hunger for that 
+sense of community, and we’ll find an outlet for it no matter what. If a platform can create the feeling 
+of community—and Facebook is nothing if not an ersatz version—then the lack of privacy is fine, as it was on 
+my island and throughout most of human history. Ultimately, nobody really cares about privacy, except media elites, under-employed Eurocrats, and 
+zealots who’ve made it a career. Everyone else would sext you their privates for a fleeting feeling of human connection. 
+And they do.(Don’t agree with me? Think people really care about privacy? Here’s a pop quiz: When, during the past 
+year, did Facebook’s app have its highest ranking in the Google Play store? Answer: In late March, immediately after #deletefacebook 
+went viral. People deleted their Facebook app in a fit of indignant fury—and then re-installed it in droves, like a 
+smoker quitting for a day and then buying a carton of smokes. There’s now a privacy-industrial complex that strives relentlessly 
+to keep itself relevant, but almost nobody’s behavior really changes.)As it turns out, Mark Zuckerberg mostly agrees with this Facebook-as-community 
+metaphor, though he’d express it more delicately. In February 2017, he published an unusual 6,000-word manifesto that, unlike most of 
+his somewhat bland posts, is worth reading. There, he very immodestly proposes that Facebook occupy the social nexus vacated by 
+the disappearance of churches, unions, lodges, and other local associations that once served as core of American civil life. This 
+resurrected public forum would be as abstract and mobile as a Facebook group, and would no longer be restricted by 
+the pesky limits of distance or national origin.This Facebook-as-community proxy is not without its problems, though, and it’s where the 
+smartphone version deviates from the real-world version that we encounter our modern pathologies. First, there’s the issue of overuse. Facebook 
+is to real community as porn is to real sex: a cheap, digital knockoff for those who can’t do better. 
+Unfortunately, in both instances use of the simulacrum fries your brain in ways that prevent you from ever experiencing the 
+real version again. But we’ll take what we can get.The second major bug is geography. That slim piece of glass, metal, 
+and silicon we keep in our pockets is like our own mobile Pacific Northwest island. Dunbar’s number, the 150-or-so people 
+that anthropologists have found most humans maintain as a social community, now lives in an easy-to-carry package.But that intangible network 
+exists across space or even time, and therein lies the political problem. The fault lines of our new online polities 
+run under and through the borders of the old, legacy ones. They don’t respect the colored boxes on the map, 
+boxes that used to refer to a common set of values, laws, and identities, but no longer do.Take the Blue 
+State #resist voter as an example. That person is nominally a citizen of a continental nation-state that stretches “from sea 
+to shining sea,�? but more often sees herself as an inhabitant of an urban archipelago (and accompanying mediascape) stretching from 
+Vancouver to Berlin. On the other side of our great divide, the Red State #MAGA voter from the Deep South 
+has more in common with a UKIP-voting Brexiter in Leeds, or a Putin-supporting Russian nationalist, than with his metropolitan compatriots.This 
+whole Facebook fracas is really the earthquake resulting from the realignment of these tribal tectonic plates underneath legacy states. Which is 
+why so many citizens of Western democracies (e.g., the #resist crowd) look at some political Others (e.g., the #MAGA crowd), 
+who are nominally part of their own nation, and ask, “Who are those people and why am I sharing political 
+power with them?�?The underlying tension of online tribes joined by now-dated political unions will persist until either the political borders 
+are redrawn to reflect the virtual ones (e.g. Brexit, various secessionist murmurs among US states), or we somehow manage to 
+unwrap our political identities from our online personas (unlikely). The pro-regulation crowd who argue Facebook is a utility (and therefore 
+should be regulated like one) is partly correct; we’ll no sooner part from our online identities at this point than 
+we would from electricity or running water.What’s the alternative?Some will retreat to atavistic revivals of earlier living arrangements: the organic 
+farm, the militia compound, the anchorite “Benedict Option,�? whereby conservative Christians isolate themselves from venal and corrupt modernity. There’ll be 
+escapees for sure. I myself ended up buying a raw patch of woods on Orcas Island, where I am learning the 
+messy arts of composting toilets while (occasionally) enjoying the authentic community.But like so many things in our coming dysfunction, most 
+people will have to resort to a knockoff of an erstwhile original. And that’s where Facebook will thrive as crutch, 
+the opiate of the socially precarious and atomized masses, the Band-Aid on the social wound that’s festered to bursting.Zuckerberg is 
+ultimately correct in his vision of “A More Open and Connected World,�? and has been relentlessly capable of making it 
+a reality. As examples, take some recent headlines: Teachers in West Virginia, Kentucky, and Oklahoma organized the biggest labor strikes 
+in recent US history via Facebook groups, organizing for increased school funding more aggressively and effectively than their unions. Then 
+there’s the bad: In Sri Lanka, anti-Muslim riots were organized via Facebook, requiring the government to do what Facebook was 
+unwilling to do: shut Facebook down. Similar bad news comes from Myanmar and the Philippines.Facebook, and social networks like it, 
+will indeed provide the makeshift community for those whose worlds are being destroyed around them, even as it also serves 
+as megaphone for those doing the destroying. Promoting the former while discouraging the latter is the fundamental challenge that companies 
+like Facebook face. Whatever the various national or political contexts where it may occur, that battle is the media battle 
+of our age.Facing Up to Its ProblemsFacebook new focus on community might depress you.Facebook is making it easier to control 
+your personal data.Mark Zuckerberg says it may take three years to fix Facebook. Related VideoBusinessMark Zuckerberg Senate Testimony HighlightsHighlights from 
+Facebook CEO Mark Zuckerbergs appearance before the Senate Committee on the Judiciary and Senate Committee on Commerce, Science, and Transportation 
+hearing, “Facebook, Social Media Privacy, and the Use and Abuse of Data. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 6670267
+URL: https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/
+https://www.wired.com/story/house-democrats-release-3500-russia-linked-facebook-ads/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@56ac3a89
+Title: House Democrats Release 3,500 Russia-Linked Facebook Ads 
+Author: Issie Lapowsky 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af376781c2fa03b20d0134d/master/pass/IRA_Ad-914660338.jpg 
+URL Links: 
+https://www.wired.com/story/mueller-indictment-internet-research-agency/
+https://www.wired.com/story/russian-facebook-ads-targeted-us-voters-before-2016-election/
+https://www.wired.com/story/reddit-russian-propaganda
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/six-revealing-moments-from-the-second-day-of-russia-hearings/
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/facebook-executive-rob-goldman-apologizes-to-company-and-robert-mueller/
+https://www.wired.com/story/facebook-issue-based-ads-pages-restrictions/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/how-russia-pushed-our-buttons-with-fake-online-ads/
+https://www.wired.com/story/facebook-issue-based-ads-pages-restrictions/
+
+Data: 
+	On Thursday, Democrats on the House Intelligence Committee published more than 3,500 Facebook and Instagram ads linked to the 
+Russian propaganda group Internet Research Agency, making it the largest trove of these ads the public has seen to date.Since 
+last fall, when Facebook disclosed it had sold political ads to Russian actors in the run-up to the 2016 election, 
+details about the IRA handiwork have trickled out mainly in the form of independent research, individual exhibits presented during congressional 
+testimony, and an indictment of IRA officials by special counsel Robert Mueller. Facebook, meanwhile, has declined to share a comprehensive 
+list of accounts and Pages associated with the IRA on Facebook and Instagram.With Thursday disclosure, the House Democrats are painting 
+a fuller picture, which they hope will help assist in further research about the IRA extensive operation.Ultimately, by exposing these 
+advertisements, we hope to better protect legitimate political expression and discussions and better safeguard Americans from having their information ecosystem 
+polluted by foreign adversaries, wrote representative Adam Schiff, ranking member of the committee, in a statement. “We will continue to 
+work with Facebook and other tech companies to expose additional content, advertisements, and information as our investigation progresses.�?The newly revealed 
+ads, some of which are redacted to protect the privacy of innocent Facebook users, track closely to what already known 
+about the IRA tactics. The ads date back to early 2015 and continue through August of 2017, covering topics including 
+LGBT rights, Black Lives Matter, immigration, Islam, veteran issues, the Second Amendment, Texas secession, and the presidential candidates themselves. The 
+Pages implicated in this disclosure largely mirror a list published last year by the Russian media outlet RBC, which until 
+now has been the largest list of suspected accounts published anywhere. But there are new names in the House committee 
+collection, too, including an account called Black guns matter, which had more than 4,000 likes in November of 2016.As was 
+clear during the congressional hearings with tech giants last November, the IRA ads on Facebook and Instagram often staked out 
+both sides of the same issue. One ad, created by the page United Muslims of America in June of 2016 
+and targeted at people whose interests on Facebook included Hillary Clinton and the Muslim Brotherhood, showed Clinton smiling with a 
+woman in a hijab. It invited people to an event entitled Support Hillary. Save American Muslims!House Permanent Select Committee on 
+Intelligence MinorityAnother ad, meanwhile, purchased by the page Stop A.I.—short for Stop All Invaders—showed a photoshopped President Obama in the 
+Oval Office, with an ISIS flag behind him. Obama was always a mere pawn in the hands of the Arabian 
+Sheikhs, it reads in part. All these refugees, which we are about to take in, are soldiers with one simple 
+goal. They are going to try to terrorize the nation.House Permanent Select Committee on Intelligence MinoritySome of the ads promote 
+real-world events organized by unwitting Facebook users. One such event, promoted by the page Black Matters, promoted a night of 
+free legal help for immigrants. Another, published by the page Fit Black, promoted free self-defense classes run by a club 
+called Black Fist. Buzzfeed News previously reported that IRA trolls had lured American fitness trainers to lead these classes, even 
+going so far as to pay them $320 a month.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYWhat made these ads so 
+deceptive is they rarely looked like traditional political ads. Often, they dont mention a candidate or the election at all. 
+Instead, they tear at the parts of the American social fabric that are already worn thin, stoking outrage about police 
+brutality or the removal of Confederate statues.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYThroughout Congress investigation into Russian meddling in the 
+election, legislators have questioned tech leaders about how the IRA targeted the ads. Facebook has repeatedly said that the majority 
+of ads were geographically targeted broadly to the United States, and the House trove backs that up. But some ads 
+in the new collection, including a few published by the page Black Matters, specifically target cities with a history of 
+headlines about racial unrest and police brutality, like Baltimore, Maryland, and Ferguson, Missouri. Others target by interest category. In January 
+of 2016, a single ad for a page called Williams&amp;Kalvin, two YouTubers the IRA hired to promote news and video 
+about the black community, targeted users age 18 to 45 who were interested in BlackNews.com, the color black, or HuffPost 
+Black Voices but were not Hispanic or Asian American. Facebook says it has since revisited some of its targeting categories, 
+eliminating one-third of the categories the IRA used.Williams&amp;Kalvin appears to be one of the pages that tested which messages would 
+resonate most with audiences. Within a single hour on January 14, 2016, that page posted the same ad with two 
+different messages. The ad that read Community about black social and racial issues! Like to subscribe! received two clicks. The 
+ad that read Black Discrimination Awareness! Like to join! got 2,592. That kind of testing is common in digital advertising, 
+but it suggests the IRA was operating at a certain level of sophistication.HOUSE PERMANENT SELECT COMMITTEE ON INTELLIGENCE MINORITYHOUSE PERMANENT 
+SELECT COMMITTEE ON INTELLIGENCE MINORITYFacebook has sought to downplay the damage caused by these ads, often emphasizing that the IRA 
+spent just $100,000 on them, compared to the nearly $40 billion in ad revenue the company earned in 2017. But 
+the House disclosure shows how far even a small sum can go. One ad, purchased on June 23, 2015, by 
+the page LGBT United, cost 99.95 Russian rubles, or the equivalent of $1.59. That ad garnered 26 clicks and 374 
+impressions in a single day. Looked at this way, Facebook argument that 50 percent of the ads cost less than 
+$3 doesnt sound all that compelling.The ads also represent just a sliver of what the Russian trolls posted on Facebook 
+and Instagram. While 3,500 sounds like a sizable number, IRA accounts published some 80,000 organic posts on Facebook and another 
+120,000 on Instagram, reaching roughly 146 million Americans between the two.Since these ads ran—and the world found out about it—Facebook 
+has announced significant changes that it says could ward off such malicious behavior in the future. In advance of this 
+announcement, Facebook sent a bulleted list of these changes to reporters. Going forward, for instance, it requiring all political advertisers, 
+including people advertising about hot-button issues such as abortion and gun rights, to provide a copy of their government-issued identification 
+and an address to verify that they live in the United States. It will require similar verification for popular pages.The 
+company will also begin labeling political ads as such, and, in June, it will launch a repository of political ads 
+that includes information on the amount spent on the ad, its reach, and the demographics of the audience it targeted. 
+That will eliminate the kind of blind confusion that has ensued over the last year regarding the very ads the 
+House made public Thursday. Meanwhile, Facebook will scale its content moderation team to 20,000 people by the end of this 
+year.The House Democrats say they plan to eventually publish the organic posts created by the Russian trolls as well. But 
+even on its own, Thursday data dump could serve as a useful guide not only for researchers who are still 
+mapping out the IRA tactics but also for other tech platforms—like Reddit and Tumblr—that didnt detect Russian trolls until far 
+later than their larger counterparts. The goal, after all, is not just to recap what happened but to prevent it 
+from happening again.Update: 10:10 am ET 05/10/18 This story has been updated to reflect that after publication, House Democrats revised 
+the total number of ads from more than 3,300 to more than 3,500.Bad AdsSpecial counsel Robert Mueller indictment of the 
+IRA reads like a sweeping novel of intrigueThe ads that Russian trolls placed on Facebook knew exactly which buttons to 
+pushFacebook has imposed new restrictions on political advertising, but enforcing them will still be tricky Related VideoCultureHow the Internet Tricks 
+You Into Thinking Youre Always RightA guide to busting through confirmation bias, the cognitive fallacy thats destroying our discourse. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 1497973
+URL: https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/
+https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6e06451e
+Title: Who Pays the Most, and Least, in Silicon Valley? 
+Author: Scott Thurm 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af36ac697bc147d4a0254b4/master/pass/Amazon-874679068.jpg 
+URL Links: 
+https://www.wired.com/story/elon-musk-salary/?mbid=BottomRelatedStories
+https://www.wired.com/story/how-amazon-jeff-bezos-spends-his-money/?mbid=BottomRelatedStories
+https://www.wired.com/story/raising-wages-to-help-workers-could-actually-help-robots-replace-them/?mbid=BottomRelatedStories
+
+Data: 
+	How much do workers at tech firms make?The answer varies a lot, depending on the employer. The median employee 
+at Amazon made $28,446 last year, according to new disclosures required by the Securities and Exchange Commission. At Facebook, the 
+median employee made $240,430, more than eight times as much.There are reasons for the big disparity, of course: Facebook’s 25,000 
+employees include many software engineers, which it must recruit in the expensive and competitive San Francisco Bay Area. Most of 
+Amazon’s 566,000 employees work in its distribution centers, including many overseas; in the US, Amazon says the average hourly wage 
+in its distribution centers is more than $15 an hour, which translates to slightly more than $30,000 a year, before 
+overtime.Other disparities reflect differences in companies’ businesses, and business models. As a car maker, Tesla says 26 percent of its 
+employees are production workers and 18 percent are outside the US. The company reported median employee pay of $54,816. Tesla 
+says its employees also have benefited from increases in the company’s share price. IBM, which has aggressively moved jobs overseas 
+in recent years, reported median pay of $54,491. The New York Times reported in September that IBM now has more 
+employees in India than in the US. An IBM spokesperson did not respond to requests for comment.Even within the same 
+tech sector, median pay can vary significantly based on a company’s business model. Intel, the largest US maker of semiconductors 
+by revenue, makes its own chips. Three of its six manufacturing sites are in the US, as are half of 
+its 102,000 employees. The company reported median pay of $102,100. Nvidia, whose graphics chips are used widely for machine learning 
+and artificial intelligence, reported median pay of $147,640. The company contracts out the manufacturing of its chips and has only 
+about 8,200 employees. A spokesperson says half of Nvidia’s employees are in the “highly competitive�? Silicon Valley market and that 
+its employees are “highly skilled, college educated, and have deep expertise–all of which command a premium in the market.�?The median 
+pay figures underscore that intense competition for tech talent in the Bay Area. Nationally, the average pay for software developers 
+and programmers is $102,470, according to the US Labor Department. Bay Area tech firms are paying considerably more: The median 
+pay at Workday, which makes software that helps businesses manage finances and people, is $178,903, according to its proxy statement. 
+At Salesforce, another business-software maker, it’s $155,284; and at payments processor Square, it’s $152,265.Companies are disclosing the median pay of 
+employees for the first time this year under a new SEC rule intended to shine a light on the high 
+pay of CEOs. The rule took effect for fiscal years ending December 31, 2017, or later, so companies on different 
+fiscal calendars, including Apple, Microsoft, and Oracle, won’t report their median-pay figures until later this year.Companies have to report the 
+ratio of the pay of their CEOs to the median pay of their employees. The Wall Street Journal reported that 
+Marathon Petroleum CEO Gary Heminger was paid $19.7 million last year, or 935 times the $21,034 salary of the company’s 
+median worker.The ratios are less meaningful for big tech companies because many of their CEOs are founders who own large 
+chunks of the company and receive only nominal compensation. Twitter CEO Jack Dorsey received no compensation, according to the company’s 
+proxy statement. Facebook’s Mark Zuckerberg and Google parent Alphabet’s Larry Page each were paid $1. Zuckerberg’s reported compensation also included 
+$8.8 million for company-provided security services and travel on company planes. Amazon’s Jeff Bezos was paid a salary of $81,840, 
+as he has been annually since 1998; his compensation included $1.6 million for security services paid by the company.Money, Money, 
+MoneyElon Musk $0 salary encapsulates the legend of Tesla.How Jeff Bezos spends his cash.Raising wages to help workers could actually 
+help robots replace them. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon 
+Echo. Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 52
+ID: 1332948
+URL: https://www.wired.com/story/the-research-behind-googles-new-tools-for-digital-well-being/
+https://www.wired.com/story/the-research-behind-googles-new-tools-for-digital-well-being/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5cb9f472
+Title: The Research Behind Googles New Tools for Digital Well-Being 
+Author: Robbie Gonzalez 
+Category: science 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af3346befa7377a3375916b/master/pass/Google-IO-Wellbeing_Pixel.png 
+URL Links: 
+https://www.wired.com/tag/io/
+https://www.wired.com/story/wired-guide-to-internet-addiction/
+https://www.wired.com/story/center-for-humane-technology-tech-addiction/
+https://www.wired.com/story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/
+https://www.wired.com/story/its-time-for-a-serious-talk-about-the-science-of-tech-addiction/
+https://www.wired.com/2016/01/amazon-and-apple-want-to-improve-your-sleep-by-tweaking-screen-colors/
+https://www.wired.com/story/iphone-bedtime-feature/
+https://www.wired.com/2017/03/uncertain-science-behind-phones-blue-light-dimmer/
+https://www.wired.com/story/the-price-of-googles-new-conveniences-your-data/?mbid=BottomRelatedStories
+https://www.wired.com/gallery/everything-google-announced-io-2018/?mbid=BottomRelatedStories
+https://www.wired.com/2017/05/surprising-repercussions-making-ai-assistants-sound-human/?mbid=BottomRelatedStories
+
+Data: 
+	Google wants to help its users take back their time.On Tuesday, at its annual developers conference, the company announced 
+several new features designed to help people monitor and manage the time they spend on their devices. The goal: Enable 
+users to understand their habits, control the demands technology places on their attention, and focus on what matters. Helping people 
+with their digital well-being is more important to us than ever, said vice president of product management Sameer Samat. People 
+tell us a lot of the time they spend on their phones is really useful. But some of it they 
+wish theyd spent on other things.Or, to use an increasingly prevalent turn of phrase: People want the time on their 
+devices to be time well spent. Popularized by Tristan Harris, a former product manager at Google and cofounder of the 
+Center for Humane Technology, TWS has snowballed into a movement, reaching acronymic levels of recognition in tech circles and becoming 
+a major talking point among the industry biggest companies.But while tech giants may be coming to grips with the disproportionate 
+demand technology places on users time and attention, it still not clear how best to confront that imbalance. Much of 
+what we know about technology allure is based not on peer-reviewed research but on anecdata. Here what the existing evidence 
+has to say about the features Google unveiled this week.Step One: AwarenessGoogle thinks the first step toward reclaiming your time 
+involves understanding your habits. On that front, the most comprehensive update is a systemwide tracking feature called Dashboard, which monitors 
+at multiple levels how—and how often—you use your Android device. It can tell you things like how much time you 
+spend on your phone, how much time you spend in specific apps, how often you unlock your phone, and how 
+many notifications you receive on a daily basis.At first blush, Dashboard sounds a lot like Moment, a popular screen-time-tracking app 
+designed by Kevin Holesh that been available for iOS since 2014. In the past four years, Holesh says he has 
+received at least hundreds of emails from users who, upon using the app, discovered they spend twice as much time 
+on their devices as they thought they did. (Peer-reviewed research on estimated vs. real-world smartphone use is lacking, but a 
+small study published in 2015 found that test subjects, while good at guessing the time they spend on their devices, 
+tend to underestimate the number of times they check their phones on a daily basis by more than half.)I asked 
+Holesh to scrape some data on his users. Drawing from a randomly selected sample of 100,000 active customers, Holesh found 
+that, among those that had downloaded the app and used it to monitor their activity at least 30 days, some 
+56 percent had reduced their screen time by an average of 24 minutes.By building screen-tracking directly into its operating system, 
+Holesh says, Google is poised to monitor usage patterns better than any third-party app could hope to achieve. Indeed, according 
+to Samat, Dashboard will take usage tracking a step further than Moment currently does, by allowing developers to track—and then 
+share with users—detailed information about how people use their apps.That data could be invaluable to users: Evidence suggests that the 
+effects of screen time vary not only between apps but within them. Internal studies at Facebook suggest that people who 
+spend time passively consuming information on the platform report feeling worse afterward, while people who spend their time actively engaging 
+with other users experienced the opposite effect.The same may also be true of the way people use Twitter. Or Instagram. 
+Or Gmail. That where the conversation with technology needs to go, and what Google is trying for here, because not 
+all screen time is created equal, says Andrew Przybylski, an experimental psychologist at the Oxford Internet Institute who studies the 
+self-regulation of technology use.Step Two: ActionBut understanding your technological habits and taking control of them are two different things, which 
+is why Google has paired Dashboard with another tool called App Timer. As its name suggests, the feature allows you 
+to set a cap on the time you spend in given apps. Say you want to spend no more than 
+30 minutes a day on Twitter. As you near your designated time limit, your phone will remind you that youre 
+approaching your cutoff. Exceed your limit, and Twitter app icon will turn to gray on your home screen and, at 
+least in the beta version of Android P, Google new mobile operating system, prevent you from opening the app.But these 
+cues and roadblocks might have a smaller impact on user behavior than Google hopes. Again, data from Moment is instructive 
+here: Recall that screen-time awareness alone led 56 percent of Moment customers to decrease their time on a device by 
+an average of 24 minutes per day. Holesh says his app Daily Limit feature seems to only push about 6 
+percent more of my customer base towards lowering their daily screen time. (The average decrease among those users is 26 
+minutes). The daily limit feature is effective at reducing screen time, but only slightly, and not for a huge part 
+of my customer base, Holesh says.In other words: To implement lasting change many people could require more help than an 
+app timer.That where Google other updates could come into play. The first is Wind Down, which automatically sets your phone 
+to Do Not Disturb and adjusts your display settings at a predesignated time.Like Apple Night Shift and Bed Time features, 
+Wind Down is designed to help you get a better night sleep. But whereas iOS pursues this goal by shifting 
+the temperature of your display from cool to warm, Android does it by changing your screen from color to grayscale.Which 
+approach is better? Hard to say. A handful of studies do suggest that warm tones interfere less with your circadian 
+rhythms, and your shut-eye, than cool ones—but similar research is lacking on grayscale displays. Popular among the digital-detox set, a 
+grayscale screen is thought to be less distracting than those on a colorful one, and marketing experts will tell you 
+that designers have long relied on colors to encourage subconscious decisionmaking. But at least as of this writing, the evidence 
+on grayscale screens is limited to conventional wisdom and anecdotes.Two additional updates include Shush—a feature that allows you to set 
+your phone to Do Not Disturb simply by flipping it faceside down—and a new batched notifications setting that delivers all 
+your YouTube notifications in the form of a once-daily digest. Multiple studies have linked phone alerts to inattention, hyperactivity, and 
+anxiety. But the results of these studies are more nuanced than notifications = bad. What they actually show is that 
+when and how notifications are delivered has a significant impact on test subjects self-reported well-being.One study led by computer scientist 
+Luz Rello, of Carnegie Mellon Human Computer Interaction Institute, found that disabling notifications left some test subjects feeling less stressed 
+and more productive during working hours but anxious in their off-time, for fear of missing important information and violating expectations 
+of others. Another study presented earlier this year at the American Psychology Association conference of Technology, Mind, and Society found 
+that test subjects who received their notifications in batches three times a day reported they felt significantly happier, more focused, 
+and less stressed than those who received notifications as usual, or not at all.Too many notifications seemed to result in 
+attentional overload. Too few seemed to lead to FOMO, or fear of missing out, says coauthor Kostadin Kushlev, a psychologist 
+at the University of Virginia who studies how smartphone use can improve or detract from personal well-being.Essential to the current 
+conversation surrounding Time Well Spent, it seems, is finding the balance between FOMO and what Google on Tuesday called JOMO: 
+the joy of missing out. Also essential? More research.Overall the steps Google is taking are great, but I would really 
+like to see some rigorous investigations that indicate people like the features, use them, and feel empowered by them, Przybylski 
+says. Like, an empirical study. Or three. That means open and robust research. Registered, randomized controlled trials. Independent replications. It 
+would be good for science and it would be good for the product, Przybylski says.And most of all, good for 
+users.More from I/O:Google new features make life easier—and they help the company collect more data on its users.Miss the big 
+show? Here everything Google announced at I/O 2018.The surprising repercussions of making artificial intelligence sound more human. Related VideoScienceYoull Never 
+Believe How We Got You to Click on This VideoClickbait isnt art, its a science. Click and find out how 
+it works. 
+
+Log DateTime: Sun May 13 21:41:29 EDT 2018
+Data Found : Created By: USER
+Date Created: Sun May 13 21:41:29 EDT 2018
+Key: 4
+ID: 1164371
+URL: https://www.wired.com/story/what-did-atandt-want-from-michael-cohen/
+https://www.wired.com/story/what-did-atandt-want-from-michael-cohen/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@56ef9176
+Title: What Did AT&amp;T Want From Michael Cohen? 
+Author: Fred Vogelstein 
+Category: business 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af3280fefa7377a33759169/master/pass/Cohen-FA-AP_18123824852772.jpg 
+URL Links: 
+https://www.wired.com/tag/donald-trump/
+https://www.wired.com/2017/01/trumps-plan-avoid-conflicts-interest-wont-avoid-thing/
+https://www.wired.com/story/guide-net-neutrality/
+https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress/
+https://www.wired.com/story/your-favorite-websites-are-rallying-in-a-last-ditch-effort-to-save-net-neutrality/
+https://www.wired.com/story/given-a-choice-atandt-should-dump-cnn-to-seal-time-warner-deal/
+https://www.wired.com/story/robert-mueller-trump-questions-investigation/?mbid=BottomRelatedStories
+https://www.wired.com/story/what-trump-still-gets-wrong-about-how-russia-played-facebook/?mbid=BottomRelatedStories
+https://www.wired.com/story/the-comcast-nbc-merger-offers-little-guidance-for-atandt-time-warner/?mbid=BottomRelatedStories
+
+Data: 
+	Everyone knows Washington is a swamp filled with snakes and influence peddlers. And few believed President Trump would do 
+much to change that, despite his drain the swamp battle cry. In fact, one could argue he has done much 
+since taking office to encourage influence peddling.He refused to put his assets in a blind trust or release his tax 
+returns. That means he can know which people, businesses, and countries that want something from him as president are also 
+supporting him as a businessman. And even though he has said he wont seek that information, the public has no 
+way to hold him accountable to that promise. A true cynic might wonder when companies would just start handing Trump 
+personal attorney suitcases of cash every time they wanted access, or to know what was on his mind.That’s not dark 
+comedy anymore. The New York Times and Michael Avenatti, the lawyer for the porn star known as Stormy Daniels, both 
+reported yesterday that, starting in 2016 and continuing through January, Michael Cohen, Trump personal attorney, accepted payments totaling more than 
+$1.2 million from companies that may have wanted to influence Trump or sought information about Trump thinking. The money was 
+paid to the same company, Essential Consultants, from which Cohen paid Daniels $130,000 shortly before the election not to talk 
+about her alleged tryst with Trump.In all, Avenatti said, more than $4 million flowed through Essential Consultants from October 2016 
+to January 2018. Investigators are trying to understand the motivations behind a $500,000 payment from Columbus Nova, a US investment 
+firm with ties to a Russian oligarch connected to Russian president Vladimir Putin, according to the Times. Meanwhile pharmaceutical firm 
+Novartis confirmed it paid Essential about $1.2 million and that it had cooperated fully with an inquiry from special counsel 
+Robert Mueller’s office. Novartis said it entered into a year-long agreement with Essential in February 2017. After one meeting, the 
+company said, it “determined that Michael Cohen and Essential Consultants would be unable to provide the services that Novartis had 
+anticipated,�? but the company felt obligated to continue the payments under the contract.Of particular note to those in Hollywood and 
+Silicon Valley were four payments totaling $200,000 from AT&amp;T to Essential from October 2017 through January 2018.Michael Cohen should not 
+be selling access to the president of the United States. This is a big deal, Avenatti said on Anderson Cooper 
+360° Tuesday night. He said it didnt take too much imagination to wonder whether some of the money paid to 
+Cohen ended up in Trump pockets. Neither Trump nor Cohen have commented.USA Today White House correspondent Gregory Korte tweeted Wednesday 
+that Cohen and AT&amp;T CEO Randall Stephenson entered Trump Tower eight minutes apart on Jan. 12, 2017, according to a 
+pool report at the time. 1https://twitter.com/gregorykorte/status/994253095277391872AT&amp;T had two reasons to be keenly interested in Trump thinking during that period. It, 
+along with other wireless and cable companies, was pushing the Federal Communications Commission to end net neutrality, the rules that 
+bar telecom companies from blocking or favoring certain content. It also needs government approval of its $85 billion proposed acquisition 
+of Time Warner. To be fair, all corporations seek intelligence about the inner workings of new administrations. And corporations needed 
+to work harder for intelligence about the basic workings of the Trump White House than with previous administrations, because Trump 
+was an outsider surrounded by few of the well-known Washington hands.Asked about the relationship, AT&amp;T was not evasive. Essential Consulting 
+was one of several firms we engaged in early 2017 to provide insights into understanding the new administration, AT&amp;T said 
+in a statement Tuesday evening. They did no legal or lobbying work for us, and the contract ended in December 
+2017.If AT&amp;T was looking to buy influence, it has a mixed record. The FCC under Trump appointee Ajit Pai voted 
+3–2 in December to repeal its 2015 net neutrality rules, freeing telecom firms to create paid “fast lanes�? for certain 
+content, or to exempt certain content from data caps in wireless plans, a concept known as “zero rating.�? The move 
+was strongly opposed by most Silicon Valley companies, some of whom are joining a “Red Alert�? day on the web 
+Wednesday to support a congressional move to restore net neutrality.On the Time Warner merger, however, AT&amp;T has had less success. 
+The Justice Department in November sued to block the deal as anticompetitive. Testimony in that trial ended last week, and 
+the judge is expected to rule next month.1 CORRECTION, 5PM EDT: AT&amp;T CEO Randall Stephenson and Michael Cohen both visited 
+Trump Tower on Jan. 12, 2017. An earlier version of this story incorrectly said they both visited the White House.Trump 
+TurmoilRobert Mueller likely knows how the Trump investigation ends.What Trump still gets wrong about how Russia played Facebook.Comcast acquisition of 
+NBC holds few lessons for AT&amp;T-Time Warner. Related VideoSecurityWhy You Should Care About Net NeutralityA world without net neutrality might 
+end up meaning that you have to pay more to access the internet content that you want. But it also 
+might crush innovation. 
+Number of Data Searched 20

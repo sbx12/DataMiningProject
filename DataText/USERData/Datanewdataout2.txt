@@ -1,0 +1,844 @@
+
+Log DateTime: Sun May 13 23:17:47 EDT 2018
+Searched for car
+Log DateTime: Sun May 13 23:17:48 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 2009787
+URL: https://www.wired.com/story/vehicle-future-bike/
+https://www.wired.com/story/vehicle-future-bike/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@66a3ffec
+Title: The Vehicle of the Future Has Two Wheels, Handlebars, and Is a Bike 
+Author: Clive Thompson 
+Category: transportation 
+Date: 05.13.18 
+PicInfo: https://media.wired.com/photos/5ac7cd5936164b75672aad3c/master/pass/WI050118_2605AP_thompson_01.jpg 
+URL Links: 
+https://www.wired.com/story/guide-self-driving-cars/
+https://www.wired.com/story/guide-drones/
+https://www.wired.com/story/guide-hyperloop/
+https://www.wired.com/tag/bikes/
+https://www.wired.com/tag/bike-sharing/
+https://www.wired.com/story/chinese-dockless-bikes-revolution/
+https://www.wired.com/story/shared-electric-bikes-take-on-everyone/
+https://subscribe.wired.com/subscribe/wired/113594?source=ENDOFARTICLE_MAGSTORIES
+
+Data: 
+	What’s the shiniest, most exciting new technology for transportation? Well, there are plenty of candidates! We’ve got the self-­driving 
+car and drones big enough to carry people. Elon Musk is getting ready to bore hyperloop tunnels. When it comes 
+to moving humans around, the future looks to be merging with sci-fi.But from where I stand, the most exciting form 
+of transportation technology is more than 100 years old—and it’s probably sitting in your garage. It’s the bicycle. The future 
+of transportation has two thin wheels and handlebars.Modern tech has transformed the humble two-­wheeler, making the bike-share model possible: You 
+check out a bike from a docking station, use it for an hour or so, then return to any other 
+docking station. The concept was tried back in the ’60s but failed miserably because no one could track where the 
+bikes went.Today, that’s been solved with smartphone-ized tech: GPS, Bluetooth, RFID, and mobile-payment systems. And bike sharing has unlocked a 
+ton of American interest in navigating cities on a bike: Usage has grown from 320,000 rides in 2010 to 28 
+million in 2016. In China, where gridlock in cities like Beijing is infamous, the trend has grown even faster.But cooler 
+tricks are possible. We’re now seeing dockless bike sharing, where all the tech is crammed into each bike, eliminating the 
+need for docking stations. When riders are done, they just park and lock the bike and walk away; the bike 
+simply awaits the next user. This makes the systems cheaper (those docks cost a lot), so dockless bikes can be 
+rented for as little as a buck an hour.“It’s personal mobility for the last mile,�? as Euwyn Poon, cofounder of 
+dockless bike-­sharing firm Spin, says.Related StoriesAarian MarshallElectric Bikes Want to Take On Everyone&#8212;Even UberFelix SalmonBring On the BikocalypseErin GriffithWhy Investors 
+Are Betting That Bike Sharing Is the Next UberDockless also creates something like self-governing internet logic, with bikes as packets 
+routed where they’re needed, rather than where docks will fit. This seems to make bike sharing more fair: Seattle city 
+council­member Mike O’Brien has observed anecdotally that dockless bike sharing is used by a broader demographic, in part because it’s 
+super cheap and the bikes can circulate outside the well-off downtown neighborhoods.Want even more inventiveness and innovation? Behold the next 
+phase arriving in a few years: dockless electric bikes. Batteries are cheaper and lighter than ever. One US firm, Jump 
+Bikes, has custom-­designed dockless ebikes sprinkled around San Francisco and Washington, DC. CEO Ryan Rzepecki suspects they’ll eclipse the appeal 
+of regular bike sharing, because you could arrive at work without being drenched in sweat. “The number of people who 
+are willing to ride electric bikes is probably 10X that of people who are willing to ride a regular one,�? 
+he says.Clearly the bike-share revolution has limits. It probably won’t work outside urban areas. And if too many bikes flood 
+a city, dockless systems can produce chaotic piles of bikes on certain sidewalks and streets, as has happened in China. 
+This is a pretty solvable problem, though, if cities decide to limit the number of dockless bikes.So sure, bring on 
+the self-driving cars. Dig those hyperloops! But for a world that’s rapidly urbanizing and heating, the truly cool tech is 
+bikes. And bike sharing has oodles of civic benefits too, says Elliot Fishman, director of Australia’s Institute for Sensible Transport: 
+It relieves pressure on public transit, produces vanishingly small emissions compared to cars, and, at least with nonelectric bikes, boosts 
+the overall exercise level (duh!).Best of all, the bike-tech revolution reminds us that innovation isn’t always about the totally new. 
+It’s often just as powerful to blend a robust, old tool that works well with a bit of new tech 
+to make it better. Sometimes you truly don’t need to reinvent the wheel.Write to clive@clivethompson.net.This article appears in the May 
+issue. Subscribe now. Related VideoGadgetsEasier Pedaling With the Faraday E-BikeMore people are using bikes for transportation and electric bikes can 
+make the trip a lot easier. While expensive, the Faraday Porteur is one of the most elegant and zippy e-bikes 
+we’ve tried. 
+
+Log DateTime: Sun May 13 23:17:49 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1006485
+URL: https://www.wired.com/story/california-cannabis-shipping-regulations/
+https://www.wired.com/story/california-cannabis-shipping-regulations/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@42d80b78
+Title: California Rules May Make Weed Shippers Report Themselves to the Feds 
+Author: Nick Stockton 
+Category: transportation 
+Date: 05.13.18 
+PicInfo: https://media.wired.com/photos/5af5febc00123b1da4c2b8c6/master/pass/Truck-California-GettyImages-948764488.jpg 
+URL Links: 
+https://www.wired.com/tag/cannabis
+https://www.wired.com/2016/11/legal-weed-arrived-get-ready-budweiser-bud/
+https://www.wired.com/story/how-cannabis-tech-can-help-build-a-better-cup-of-coffee/?mbid=BottomRelatedStories
+https://www.wired.com/story/the-plan-to-save-californias-legendary-weed-from-big-cannabis/?mbid=BottomRelatedStories
+https://www.wired.com/story/shatter-batter-wax-how-cannabis-extracts-come-to-be/?mbid=BottomRelatedStories
+
+Data: 
+	Imagine driving through California, your vehicle packed with Mendocino County’s finest kush. That scenario might once have induced a 
+panic attack or—depending on your temperament—an adrenaline spike. Now that medical and adult-use recreational cannabis is legal, it’s a legit 
+way to make a paycheck, and hitting the road with a trunk full of the devil’s lettuce is mostly cool.Cool, 
+but complicated.It’s not just that the federal government still considers transporting cannabis very much a crime. It’s not even that 
+California has never finalized rules for moving the leafy greens, even two decades after legalizing medical toking. (Insert joke about 
+the duration of an average Phish song here.) It was only in January, a year after Californians voted to legalize 
+recreational marijuana, that the state issued temporary regs.These laid the groundwork for a digital track-and-trace system, which will be outlined 
+in full once the state’s weed agency, the Bureau of Cannabis Control, releases the final regulations in the next month 
+or so. A crucial part of the system will be licensing every vehicle used to traffic transport weed across the 
+state.This has the weed transport industry equal parts excited and anxious. On one hand, legitimate cannabis capitalists using armored vehicles 
+will no longer have to compete with that shady dude who swears his Honda CRX can outrun any jackers. On 
+the other hand, California’s pre-existing laws require many commercial vehicles operating within the state register with the federal Department of 
+Transportation—by telling them exactly how the vehicle will be used.When California first decriminalized marijuana with the 1996 Compassionate Use Act, 
+it simply “encouraged the federal and state governments to implement a plan to provide for the safe and affordable distribution 
+of marijuana to all patients in medical need of marijuana.�? Over two decades, the state built up structure and oversight 
+for the medical cannabis system—except the whole to-and-from thing. “It was really the wild west in terms of transportation because 
+there were zero regulations,�? says Alison Malsbury, a cannabis industry lawyer with Harris Bricken in San Francisco.The sun began to 
+set on California’s cannabis transport free-for-all in November 2016, when voters passed Proposition 64, allowing state-licensed dispensaries to sell cannabis 
+and cannabis-infused products to adults age 21 and up. (It also allows grown ups to grow their own crops, give 
+small amounts of weed as gifts, and carry up to an ounce without worrying about tripping up the law.)The law 
+also came with a requirement that vehicles used to transport cannabis must be owned, or leased, by someone with a 
+permit issued by the Bureau of Cannabis Control. For now, those permits are temporary, dictated by an emergency set of 
+rules the agency set out in January. This permitting system is integral to digital track-and-trace, the centerpiece of California’s cannabis 
+regulation that demands every bit grown and sold in the state is accounted for, from seed to smoke.Each plant gets 
+a serial number, as does the bud that it produces, as do all the oils, tinctures, dabs, cookies, candies, lotions, 
+extracts, and whatever other products the young industry’s mad alchemists create from the raw material. Anyone transporting the stuff will 
+have to scan an RFID tag upon pickup and delivery. They’ll have to deliver it in a GPS-equipped vehicle and 
+stick to a predetermined route, no unplanned excursions or unscheduled pit stops.Beyond that, the temporary regulations offer little in the 
+way of specifics. The transport will be commercial but small scale. Big rigs, or any other vehicle over 10,000 pounds, 
+gets regulated by the federal government, so as long as California’s legal cannabis transporters stick to smaller vehicles (think unmarked 
+Sprinter vans or armored cars) the feds should turn a blind eye.How am I supposed to tell the feds I’m 
+going to starting up a criminal conspiracy to transport cannabis?But California’s regulations contain at least one glaring oversight that could 
+force some would-be cannabis couriers to snitch on themselves. Anyone hoping to commercially transport cannabis in California must apply for 
+a Motor Carrier Permit (the only exception is for companies transporting their own goods). The catch is, beginning in 2016, 
+the state’s Department of Transportation began requiring any commercial vehicle seeking a Motor Carrier permit to obtain a federal DOT 
+number. That involves explaining to the federales—who are not so cool with this marijuana thing—exactly how the vehicle will be 
+used.“How am I supposed to tell the feds I’m going to starting up a criminal conspiracy to transport cannabis?�? says 
+Debby Goldsberry, the CEO of Magnolia Wellness, an Oakland cannabis company, who is hoping to add cannabis transport to her 
+company’s roster of services. She might be able to get around this requirement, as long as she is only transporting 
+her company’s own products. But Goldsberry wants to be able to transport anyone’s goods, so the state’s limits her potential 
+to grow as a business.Unless she wants to start another business altogether. There’s another way around the rule: Own a 
+preexisting transport company. Or, in the state’s legal parlance, a licensed motor carrier. For instance, many cannabis transport companies started 
+out as traditional armored car services. “We currently have four armored vehicles loaded with product at the moment,�? says Jeff 
+Breier, COO of HardCar Security. His company offers an elite transport, staffed by combat veterans. This overlap in cash and 
+cannabis transport is actually pretty beneficial—most weed companies deal in cash, because federal rules bar them from having bank accounts.Technically, 
+motor carrier companies are supposed to report what they are shipping when they apply for their federal DOT number. Existing 
+transport companies don’t have to worry about this, because they are already registered. However, new transport companies that hope to 
+specialize in cannabis will have to get … creative with their applications. Goldsberry says, she’d prefer if California just update 
+its transportation statute, so it doesn’t require cannabis transport vehicles under 10,000 pounds register with the federal government. “We don’t 
+believe in building a business based on violating federal law,�? she says.For the time being, she is stuck with her 
+dilemma. “We can’t change what’s written in statute with our regulations,�? says California Bureau of Cannabis Control spokesperson Aaron Francis. 
+The state’s DOT and DMV aren’t likely to make an exception without serious political pressure. Until that happens, cannabis transport 
+companies hoping to take the high road better keep things on the low-down.Sticky Icky SituationsCannabis tech is making coffee betterThe 
+plan to save California legendary weed from Big CannabisHow cannabis extracts are made Related VideoScienceInside the Lab That’s Making Sure 
+Your Weed Is SafeAs cannabis use goes recreational in California, producers are facing a reckoning: They’ll either have to clean 
+up their act, or get out of the legal market. 
+
+Log DateTime: Sun May 13 23:17:49 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1547425
+URL: https://www.wired.com/story/pick-up-two-cheap-google-home-minis-and-10-other-deals/
+https://www.wired.com/story/pick-up-two-cheap-google-home-minis-and-10-other-deals/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5e3a8624
+Title: Pick Up Two Cheap Google Home Minis and 10 Other Deals 
+Author: Wired Staff 
+Category: gear 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af5ddf49b5e39125120fe71/master/pass/05-Google-Home-Mini-SOURCE-Google.jpg 
+URL Links: 
+https://www.wired.com/story/amazon-prime-deals/
+https://www.wired.com/story/get-these-outstanding-wireless-headphones-on-sale/
+https://www.wired.com/review/review-plantronics-voyager-8200-uc/
+https://www.wired.com/story/save-big-on-beats-headphones-during-apples-sale/
+https://www.wired.com/2017/10/review-google-home-mini/
+https://www.wired.com/2015/11/affiliate-link-policy/
+
+Data: 
+	Mother’s Day is on Sunday, which makes this a great time to buy...well, a lot of things. Amazon’s Mother’s 
+Day deals are still going on strong. So is this unbelievable deal on the Plantronics Voyager 8200 UC headphones, which 
+our headphone connoisseur Jeffrey Van Camp loved, and which is still $135 off. You also still have time to pick 
+up some Beats headphones from Apple. But even if you’re not in the market for a Kindle or headphones, we’ve 
+worked together with our pals at TechBargains to find other great tech deals for you this weekend.Get Two Google Home 
+Minis for Almost The Price of OneGoogle most affordable smart speaker just got cheaper. You can use it as a 
+speakerphone or link it to a Chromecast to find something to watch on TV; you can put it in your 
+bedroom to check the weather, or put one in the bathroom to play mariachi music while you do your business.Buy 
+a 2-pack of Google Home Minis for $58 (was $78).More Great Tech DealsDell Vostro 3670 Desktop for $539 (was $899). 
+This is a very decent price for a great all-around desktop computer for your home office.Refurbished Dell XPS 13 for 
+$999 with code SAVE100 (was $1499). Pick up a refurbished version of Dell’s very good, very portable, premium 2-in-1 with 
+the 360-degree hinge with the code SAVE100.Lego Star Wars Millennium Falcon Limited-Edition Set for $800. This isn’t a deal, but 
+it’s a rare opportunity to grab the oft sold-out 7541-piece set.Two Amazon Echo Dots for $60 (was $100). This is 
+just one of the great, great deals that Amazon is currently offering, and a good choice if youd rather expand 
+Alexa reach through your house instead of Google Assistant.Blueair 203 Slim Air Filter for $199 (was $329). Allergy season is 
+here, folks, and Blueair is consistently one of the highest-rated and best-performing air filters out there. Get that pollen out 
+of your bedroom!Raspberry Pi 3 Model B Kit for $42 with code LT5E3H6S (was $53). The same Wi-Fi-enabled Raspberry Pi 
+3 that will help you build your own tiny PC, but with a case, power supply, and heat sink. And 
+$10 off.Anker PowerWave Wireless Charger for $32 with code ANKER254 (was $46). This charging pad has an internal cooling fan 
+and can charge through cases up to 5 mm thick.iLife A4s Robot Vacuum for $149 with code DEARMOM7 (was $250). 
+This light, small, and most of all affordable robot vacuum can pick up your messes on hardwood and thin carpets.GOOLOO 
+Portable Car Jump Starter for $50 with code ZDEDFKRN (was $70). Summer means road trips, which means revving up your 
+engines. Make sure you never get stuck with this well-reviewed portable car jump starter.When you buy something using the retail 
+links in our stories, we earn a small affiliate commission. Read more about how this works. Related VideoScienceNASAs New Mars 
+Lander Will Give Insight Into the Planets Make-UpThe Insight Lander, developed by NASAs Jet Propulsion Laboratory, will probe deep beneath 
+the surface of the Red Planet to measure temperatures and allow study of its seismic activity. Its name is short 
+for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport. 
+
+Log DateTime: Sun May 13 23:17:49 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1783593
+URL: https://www.wired.com/story/uber-flying-cars-faa-regulation/
+https://www.wired.com/story/uber-flying-cars-faa-regulation/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@604ed9f0
+Title: Ubers Flying Car Plan Meets the Regulator It Cant Ignore 
+Author: Jack Stewart 
+Category: transportation 
+Date: 05.12.18 
+PicInfo: https://media.wired.com/photos/5af5f0bc95d5844ec4ac04f1/master/pass/UBER_Humphreys&Partners-(1).jpg 
+URL Links: 
+https://www.wired.com/tag/drones
+https://www.wired.com/story/faa-relaxes-drone-restrictions-with-10-new-programs/
+https://www.wired.com/story/uber-unveils-flying-taxi/
+https://www.wired.com/story/timeline-uber-crises/
+https://www.wired.com/story/travis-kalanicks-return-and-the-bad-boys-who-always-come-back/
+https://www.wired.com/story/guide-drones/?mbid=GuideCarveLeft
+https://www.wired.com/story/bolivian-navy/?mbid=BottomRelatedStories_alex
+https://www.wired.com/story/if-trump-is-laundering-russian-money-heres-how-it-works/?mbid=BottomRelatedStories_alex
+https://www.wired.com/story/boston-dynamics-robot-dog-spotmini-will-be-available-next-year/?mbid=BottomRelatedStories_alex
+
+Data: 
+	The federal government is finally embracing drones. This week, the FAA endorsed 10 pilot projects that will see UAVs 
+delivering medicine, inspecting infrastructure, monitor the border, and more. “This tech is developing so rapidly that our country is reaching 
+a tipping point,�? said Secretary of Transportation Elaine Chao, when announcing the trials. Depending on the results, the little buzzers 
+could become even more common than the mosquitos some of them are being programmed to help eradicate.So it’s natural for 
+drone operators to start thinking ahead to the next big leap: carrying people. Uber continued its efforts to cement itself 
+at the center of this fledgling industry this week with its two-day Uber Elevate Summit. Nearly 1,000 attendees from academia, 
+industry, and government gathered in Los Angeles’ Skirball Cultural Center to discuss how to make flying taxis a reality.Among them 
+was the FAA. Unlike the other participants, who were all gung-ho about the possibility of launching passenger-stuffed drones off the 
+top of tall buildings, the agency tasked with keeping American skies safe struck a more measured note. While saying that 
+it would work on regulations and air traffic control systems, it stressed that compared to smaller drones, the path to 
+regulating human flight is likely to be different, harder, and longer.TakeoffUber has made its reputation by being being quick and 
+disruptive, often ignoring rules and regulations that would hold it back from deploying its cars. That approach has occasionally backfired—and 
+helped cost founder Travis Kalanick his job—but it led Uber to a $72 billion valuation.For flying vehicles, that strategy is 
+not going to wash. In contrast to state officials eager to bring in high-tech jobs, or city regulators who weren’t 
+fast enough to deal with the aggressive not-quite-taxi competition, the FAA has serious power, and at the national level. Uber 
+needs the FAA to certify the vehicles its partners are building, and give it permission to operate in the tightly 
+controlled airspace that it’s targeting. And the FAA doesnt brook revolution.“We’re the safety regulators, we’re going to come at this 
+from safety perspective,�? said the acting administrator of the FAA, Dan Elwell, in an on-stage conversation with Uber’s head of 
+product, Jeff Holden.Lofty ProposalsUber wants to build a network of a new type of vehicle. Using batteries, motors, and multiple 
+small propellers for lift, these vertical takeoff and landing aircraft should quieter, cheaper, and easier to fly than helicopters. Uber 
+proposes a service that will depart from drone ports set atop tall buildings, flying customers across cities, starting in Los 
+Angeles and Dallas Fort-Worth by the end of 2023.Sounds neat. Just don’t expect it too soon. “The pace of technological 
+advancement in this industry is faster than anything we’ve had to deal with,�? Ellwell says. “When you put passengers on 
+autonomous vehicles, as opposed to delivering a package, you introduce a much, much higher bar you need to get over.�? 
+To get past that, Uber is proposing having on-board pilots at first, before eventually making them autonomous (hopefully).LEARN MOREThe WIRED 
+Guide to DronesDesigning, building, and certifying a new passenger jet takes a decade and involves years of testing and proving 
+to the FAA everything’s incredibly reliable and safe. Uber’s counting the months until it’s ready to start trials in 2020, 
+and it, and its manufacturing partners have only shown prototypes.Elwell says the regulators aren’t going to be able to match 
+industry pace, but they’re going to try. “You have more commitment, top to bottom, to bring these technologies to viable 
+life than I’ve ever seen,�? says Elwell.Not Quite Cleared for TakeoffThe most telling exchange between Elwell and Uber’s Holden came 
+when an audience member asked how air traffic controller might handle an exponential increase in flying machines. Holden described a 
+scheme that involves carving out a corridor of airspace over Dallas-Fort Worth, which commercial vehicles would avoid, and within which 
+Uber would manage traffic.“What you just described is where we don’t want to go. You just described segregated airspace,�? said 
+Elwell, jokingly at first, offering to give him a number to try negotiating that with American Airlines. Then he got 
+serious. “My hope is that we don’t have to do that.�? He would rather see an integrated airspace, where everyone 
+shares the skies with rules and technology to avoid each other, which he views as a better long-term solution.Holden clarified 
+that Uber does see integration as the eventual goal, but separating traffic might be a good first step, to get 
+services up and running. The FAA chief wasn’t having it. “The crawling and walking, we try to do it ‘off 
+Broadway,’ in places where you can solve the problem without creating too much disruption,�? he replied. Note that those 10 
+drone pilot programs are in places like Reno, Nevada—not rubbing elbows with the fourth busiest airport in the world.It’s a 
+sobering reminder to Uber and the other enthusiastic companies at the summit that winning over the FAA means proving the 
+safety and wisdom of every move they make. That’s why Uber’s being extra cooperative. This week, it renewed a partnership 
+with NASA to figure out the air traffic issues, and see what effect small passenger aircraft would have on DFW’s 
+air traffic at peak times. Here, it has found the one regulator it can’t ignore or steamroll on its way 
+to takeoff.More From WIREDBolivia is landlocked, but dont tell its NavyIf Trump really is laundering money, here how it worksBoston 
+Dynamics robot dog will be available to terrify everyone you know, next year Related VideoTransportationWatch Airbus Flying Car, Vahana, Make 
+its First FlightThe personal air transport vehicle has achieved the milestone of first flight, as the race to develop flying 
+cars continues. 
+
+Log DateTime: Sun May 13 23:17:50 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 2094411
+URL: https://www.wired.com/story/if-trump-is-laundering-russian-money-heres-how-it-works/
+https://www.wired.com/story/if-trump-is-laundering-russian-money-heres-how-it-works/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6a41eaa2
+Title: If Trump Is Laundering Russian Money, Here’s How It Works 
+Author: Garrett M. Graff 
+Category: business 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af5dcc89c9c3672736890e4/master/pass/TrumpMoneyLaundering-854631544.jpg 
+URL Links: 
+https://www.wired.com/story/what-rick-gates-guilty-plea-means-for-muellers-probe/
+https://www.wired.com/story/robert-mueller-trump-questions-investigation/
+https://www.wired.com/story/inside-the-mueller-indictment-a-russian-novel-of-intrigue/
+https://www.wired.com/story/heres-what-happens-if-magnificent-bastard-mueller-gets-fired/
+
+Data: 
+	For Donald Trump, there was the purchase of the $12.6 million Scottish estate and the $79.7 million for golf 
+courses in the United Kingdom, not to mention the $16.2 million for the Northern Virginia Winery. All in cash.For Michael 
+Cohen, it was the lucrative day in 2014 when he sold four Manhattan buildings for $32 million—three times what he’d 
+paid for them less than three years before.Recent days have been filled with a seeming tidal wave of fresh revelations 
+from the spiraling investigation around Donald Trump’s ties to Russia, particularly around suspicious financial transactions involving Trump fixer Michael Cohen, 
+who appears to have used the same shell company LLC to pay hush money to porn star Stormy Daniels, collect 
+six- and seven-figure consulting deals from companies like AT&amp;T and Novartis, and receive payments from a company with close ties 
+to oligarch Viktor Vekselberg.The subtext of many of the recent tales—from Donald Trump’s massive cash-spending spree to Cohen’s $32 million 
+flip of New York real estate—is that the atypical transactions are worthy of greater scrutiny. After all, why was the 
+self-proclaimed “King of Debt�? suddenly waist-deep in cash and on a spending spree in the midst of the global real 
+estate crash? Where was Cohen’s money coming from—and where was it going?It’s the old adage from the Watergate investigation: “Follow 
+the money.�?The implication, particularly in the more fever-swampy portions of Twitter, is that there was money laundering afoot—probably Russian in 
+origin. The “quid�? perhaps, before the election and the “pro quo�? afterward. But is that a real possibility—and if it 
+was money laundering, by whom and how?The payments appear to mirror suspicious activity that led to the earliest charges and 
+investigative avenues of special counsel Robert Mueller’s probe, the money laundering and conspiracy charges leveled against former Trump campaign chair 
+Paul Manafort and aide Rick Gates. (Gates has since pleaded guilty; Manafort’s case continues to move forward toward trial later 
+this year.)But to Treasury officials and law enforcement who have long pursued money laundering and terrorist financing probes, it’s not 
+what Donald Trump or Michael Cohen did in any single transaction that raises red flags—it’s how they conducted business day 
+in and day out. The layers of shell companies, the contracts involving pseudonyms, the law firm cut-outs to make deals.Many 
+of the activities, when viewed in aggregate, point to a deliberate attempt to create opacity,�? says Amit Sharma, who used 
+to work on countering terrorist financing after 9/11 at the Treasury Department. “When you take two steps back, you see 
+a murkiness and level of complexity with which the Cohen and Trump companies have operated—what are they hiding? Why are 
+secondary and tertiary entities signing under pseudonyms and ‘cover names? Truly legitimate, transparent companies don’t need to do that. Does 
+this point to corruption and/or conspiracy? It certainly looks that way! Are all activities pointing to specific money laundering transactions? 
+Not necessarily.�?The fundamental approach to Trump and Cohen’s empires should raise eyebrows—and evidently has with Mueller’s probe and prosecutors in 
+the Southern District of New York—precisely because of the apparently great lengths they undertook to evade basic transparency. While not 
+necessarily illegal—some of the tactics are, in fact, regular parts of complex businesses—the pattern of activity points to an attempt 
+to evade one of the basic precepts of modern banking and anti-money-laundering efforts: Know your customer.“What we call ‘covered institutions,’ 
+that’s any financial institution overseen by US financial regulations, they have to have a comprehensive anti-money-laundering regime. It basically come 
+down to one central question: Do you know your customer? Who’s behind the account, who has control over an entity 
+or can facilitate transactions on its behalf, what are its sources of funds, and what is the normal, expected nature 
+of its business or pattern of activity for that person or entity? Sharma says. “Anytime a bank or financial institution 
+spots activity that doesn’t match the regular pattern, they’re required to file suspicious activity reports with the Treasury Department.�? (Those 
+exact type of reports were triggered by odd withdrawals and payments by the Russian embassy around the time of the 
+US election, and are the subject of part of Mueller’s probe, according to Buzzfeed.)Yet while regulations—especially since 9/11—require in-depth documentation 
+and identification for basic banking for individuals, it has been much easier—until literally today—for corporate entities to hide their identities 
+behind lawyers and shell companies. “Financial institutions are mandated to collect all this data on its customers, but up until 
+now, financial institutions have not had to do the same for companies,�? Sharma says. “For companies, often it has simply 
+been the business location and Tax ID number and we don’t know the underlying ownership. We don’t know whether it’s 
+a Russian oligarch.�? (In fact, new Treasury Department rules that require stronger due diligence on banks to understand who actually 
+owns—or has a controlling interest in—a company only come into effect today, May 11, 2018.)As Sharma says, “Trump and his 
+companies have exercised this practice for many years—it seems that every new project, every product, every new building, he’s starting 
+a new company or legal entity to manage it. This has been the case for overseas operations and activities as 
+well. People do this to protect themselves from liability and to create protective measures that don’t roll directly up to 
+them personally. In any given structure, he may own a portion of a parent company that owns a controlling interest 
+in a holding company that may own a portion or receive economic benefits of the real estate.�?In 2016 The Wall 
+Street Journal Jean Eaglesham, Mark Maremont, and Lisa Schwartz outlined a specific example of just that sort of structure: “Donald 
+Trump owns a helicopter in Scotland. To be more precise, he has a revocable trust that owns 99 percent of 
+a Delaware limited liability company that owns 99 percent of another Delaware LLC that owns a Scottish limited company that 
+owns another Scottish company that owns the 26-year-old Sikorsky S-76B helicopter, emblazoned with a red ‘TRUMP’ on the side of 
+its fuselage.�? All told, the Journal reported, 15 entities were used at that point to “own�? Trump’s fleet of two 
+airplanes and three helicopters.Layer on layer of corporate structure makes it hard for investigators, tax officials, or prying lawyers to 
+figure out who owns what, the underlying source of money for specific transactions, whether taxes are being appropriately paid in 
+a given jurisdiction, or who might be partners in what enterprises.That’s where “Section 311�? comes in.In 2001, as part of 
+the USA Patriot Act, the Treasury Department was given a new tool against money laundering, known as “Section 311,�? after 
+the relevant section of the law, to designate foreign financial institutions, jurisdictions, or entities as “of primary money laundering concern.�?A 
+Section 311 designation was meant to help authorities highlight suspicious patterns of activity without having to prove any single transaction 
+was illegal—it’s the rough equivalent for money laundering of the criminal RICO statute, the Racketeer Influenced and Corrupt Organizations Act, 
+that allows prosecutors to take down entire mafia families, drug cartels, and street gangs without having to prove everyone involved 
+knew about or participated in all the various individual crimes.“We deliberately put these tools together to go after really bad 
+people—organized crime, terrorists, dictators, Chinese Triads,�? Sharma says. “You didn’t have to point to a single illegal transaction. The totality 
+of the transactions should give you pause enough that we would want to be sure US institutions scaled back or 
+ceased doing business with them.�?The designation, which effectively forces US financial institutions to sever ties with the entity, makes it 
+all but impossible for an entity to participate in the global financial system. In the years since, the US Treasury 
+Department has used Section 311 to go after the banks and front companies that help North Korea evade sanctions, to 
+go after Iran’s nuclear program and terrorism financing, to isolate Syria, to punish banks that helped Saddam Hussein launder money, 
+and to pressure off-shore havens, like the Pacific island of Nauru, that the US believes are complicit in money laundering.Sharma 
+says that if what we have seen with Michael Cohen’s business dealings existed anywhere overseas, where it intersected with an 
+investigation or a politically exposed person or national security issue of import to the US, it would ring all sorts 
+of alarm bells at Treasury. What seems to be continually revealed is a pattern of atypical financial transactions, and too 
+much of it seems structured specifically to hide and evade critical information or people involved.That desire for opacity, though, doesn’t 
+necessarily point to money laundering. A specific charge of “money laundering�? requires that the initial funds be traced to a 
+so-called “predicate,�? a recognized serious crime. “It could be fraud, smuggling, selling high technology, proceeds of child pornography. There are 
+hundreds of predicate crimes in the United States; the global standard is ‘all serious crimes,’�? explains former Treasury agent John 
+Cassara. The complexity of tracing money all the way through the financial system, from a legitimate asset back to a 
+crime, or vice versa, makes these cases some of the most challenging investigators undertake. “These are very, very difficult cases—it 
+takes a lot for the investigators, the prosecutors, the US attorney to understand,�? Cassara says.Part of the reason the cases 
+are so tough is that there are plenty of other, nonillegal reasons wealthy people create opacity, including to minimize taxes, 
+to limit personal or corporate legal liability, or to shield assets in divorce proceedings.The truth of the matter is that 
+the global financial system is simply too large for officials to look at very closely.Money laundering is a huge—literally physically 
+huge—problem: Illicit drug sales in the United States alone are estimated at around $60 billion to $100 billion a year, 
+which translates, Cassara says, into about 20 million physical pounds of currency, far too much to be moved easily or 
+spent easily. “The bad guys have a logistics issue. They want to try to get into a bank or nonbank 
+financial institution, so they can spend it,�? he says.Globally, the International Monetary Fund estimates that between 2 and 5 percent 
+of the world’s gross domestic product is laundered money from illicit activity. “The number I normally use is the total 
+is in the range of $4 trillion to $5 trillion, about the amount of the entire federal government budget,�? says 
+Cassara, who spent 26 years investigating such cases and has written multiple textbooks on anti-money-laundering efforts.Given that scale, the hard 
+work of thousands of investigators and tax officials the world over amounts to a drop in the proverbial bucket; authorities 
+only seize or charge about 1 percent of suspected money laundering cases. “By any measurement, we do a terrible job 
+of enforcing this,�? Cassara says. “I have the utmost respect for my colleagues, but if you just compare the bottom 
+line with the results, as [financial crime expert] Raymond Baker used to say, total failure is just a decimal point 
+away.�?That shockingly low level of enforcement helps explain how Manafort’s scheme—which Mueller’s team says involved more than $18 million, funneled 
+through entities that included oriental rug shops just a few miles from the Treasury Department itself—ran undetected and unprosecuted for 
+so long.Each year, the Treasury Department fields upward of 18 million pieces of financial intelligence, including more than 2 million 
+suspicious activity reports from banks and financial institutions—far more than it can effectively process. Globally, there are 145 foreign financial 
+reporting centers, like the Treasury Department’s so-called FINCEN, its intelligence and enforcement unit, which translates into tens of millions more 
+reports and warnings. It’s relatively easy for even large-scale financial crimes to hide in that mountain of evidence. “Your inbox 
+was always full,�? Cassara says.Today, Cassara says, money launderers have to be incredibly stupid or incredibly unlucky to be caught. 
+“Since 9/11, the amount of financial intelligence has grown exponentially, so bad guys are taking steps to evade those efforts,�? 
+Cassara says.But what’s the point of buying, say, $934,350 in oriental rugs (as Manafort is alleged to have done), or 
+buying luxury condos in London (as Russian oligarchs are said to be fond of)? How exactly do money laundering schemes 
+work?While it’s easier to grasp how to hide cash at the street level—like in Breaking Bad, when Walter White purchases 
+a cash-intensive car wash and simply cooks the book to show he’s washing more cars than he is—money laundering at 
+the global level follows the same three-step process:Step 1: PlacementThe first challenge is simply getting the money somewhere into the 
+global financial system, which is often easier said than done. Banks are required to file reports anytime someone deposits more 
+than $10,000 in cash, so sneaking large amounts of cash into the financial system can pose a huge challenge. Breaking 
+large transactions into smaller ones, say multiple deposits of $9,999, to evade the transaction reports is known as “structuring�? or 
+“smurfing,�? and is illegal itself. Former Speaker of the House Dennis Hastert spent time in prison for “structuring,�? as part 
+of his effort to pay hush money to one of the men he sexually abused as a high school coach, 
+rather than for the underlying abuse. “Placement is where criminals are most vulnerable, because the money is closest to the 
+original crime,�? Cassara says. “It’s much easier to catch them at the crime than to say ‘there’s a suspicious shopping 
+center or golf course’ and work backwards.�?Tracing “laundered�? money back to illicit proceeds is key to any investigation.Step 2: LayeringThe 
+second challenge is hiding the origin of the illicit money. That’s where the layers of LLCs can be helpful. Every 
+time money moves—from one entity’s account to another, from one bank to another, from one country to another—it helps hide 
+the original source. “It’s confusing and makes it difficult for investigators, tax officials, or a former wife to follow that 
+money trail. It’s using this labyrinth of LLCs and tax havens, in the US and overseas, to make it difficult 
+and time-consuming to trace,�? Cassara says. “It gets hard because of issues of [investigative] competence, venue, jurisdiction.�?Often, this “layering�? step 
+takes place with the help of lawyers and law firms; the revelations of the Panama Papers and the follow-on Paradise 
+Papers laid out just how large a global business it is to help elites hide their assets. “Many of these 
+folks have go-to structures and lawyers they use to go through the layering process,�? Sharma says. “A lot of laundering 
+happens through nonfinancial businesses and professions.…The Russians use a ton of folks in Turkey, UAE, and Cyprus. That fact pattern 
+is well-known and long-standing.�?While the Panama and Paradise Papers revelations focused primarily on overseas entities and tax havens, the United 
+States is actually one of the worst global offenders: The so-called “Delaware company�? structure is notorious for its lax documentation 
+and opacity, as NPR’s Planet Money found out when they set up shell companies in Belize and Delaware in 2012.Step 
+3: IntegrationOnce the money is in the global financial system and its origins properly obfuscated, the final challenge is making 
+the money accessible—that is, integrating it into the legitimate economy. At the high end of money laundering, this often means 
+purchasing real estate.“Real estate is a big issue for money laundering and has been for a long time,�? Cassara says. 
+“If you’ve got a condo or a shopping center or a golf course, the money has already been placed, it’s 
+already been layered, it’s the final stage—integrated. The authorities aren’t going to look at that. Once you see property, in 
+whatever form it is, it’s assumed that’s good, that’s a legitimate investment.�?Large-scale money laundering, like what corrupt regimes or oligarchs 
+need, requires—like any good investment portfolio—a well-balanced portfolio. “If you’ve got that much money, you need diversification,�? Cassara says. “You’re 
+going to put so much into gold, so much into stocks, so much into golf courses. By that point, they’re 
+many steps away from illicit proceeds.�?Real estate is particularly attractive for money laundering because of the large numbers involved—a single 
+large transaction to purchase a golf course, a luxury condo, or shopping center is an easy way to make a 
+whole lot of money look legitimate at once without raising any eyebrows with banks or regulators. It’s also a good 
+way to evade so-called “capital controls,�? which limit, for instance, the amount of money Chinese citizens can transfer out of 
+the country.The goal in such efforts isn’t necessarily to have access to immediate cash—sometimes the end goal is simply to 
+own a physical asset. “Parking�? illicit gains from corrupt regimes, including Russia or China, in luxury real estate in the 
+West is a common pattern because it historically holds value and, if you’re the buyer, you only trigger taxes by 
+selling, not with the initial transaction. “Real estate tends to hold its value, luxury real estate typically even goes up—it’s 
+a great way to preserve it without losing it,�? Sharma says.Such absentee owners—more interested in parking their assets than actually 
+occupying a residence—has led to the phenomenon of what locals call “lights out London,�? entire luxury buildings or wealthy neighborhoods 
+where hardly anyone is ever home. More than 85,000 offshore shell companies own British real estate, and one report last 
+year found nearly $6 billion worth of properties owned by politicians and public officials with “suspicious wealth.�?Similar concerns have been 
+raised about Libyan purchases in Dubai, Chinese purchases in Vancouver, and Russian purchases in Miami, among other cities. It’s such 
+a problem in New York real estate that the Treasury Department is moving to end anonymous all-cash purchases.And then there’s 
+the oriental rugs. Perhaps the oddest part of the lengthy, detailed indictment of Paul Manafort is the nearly $1 million 
+he evidently funneled through various antique rug shops. As Adam Davidson wrote at The New Yorker last fall, “It’s hard 
+to imagine a person who spends $12 million over six years but only shops at a handful of stores, and 
+nearly always happens to have a bill that ends in multiple zeroes: $107,000, then $20,000, then $250,000. At an unnamed 
+men’s-clothing store in New York, Manafort spent $32,000, $15,000, $24,000, and other multiples of a thousand. For money-laundering experts, this 
+fact alone would be cause for suspicion. It is extremely rare for even a single purchase to end in three 
+zeroes.�?The rugs and clothing appear to be an example of what officials call “trade-based money laundering,�? using physical goods to 
+evade currency reporting limits. There are, after all, only three ways to move money around the globe: Through bank transfers, 
+through cash, or through physical trade. “I argue that trade-based money laundering is actually the largest of the three money 
+laundering ideologies but it’s the one we’ve done the least to enforce,�? Cassara says. “When a buyer and a seller 
+are working together, the price of an object can be whatever they want it to be—it could be pens, it 
+could be gold, it could be carpets….The reason it’s so effective is that global merchant transactions is in the tens 
+of millions of dollars [a day]. Try to find the suspect transaction in that sea.�?It’s relatively easy for a determined 
+money launderer to falsify invoices, either inflating or deflating price, with the willing cooperation of a commercial partner—like an oriental 
+rug store, where you purchase a rug that’s worth $5,000 for, say, $20,000 and the store owner returns the difference 
+to you in cash. Or buy a rug worth $20,000, and buy it from Shop A for $5,000 and sell 
+it to Shop B for the full price—the difference becomes all clean money. “I sold those rugs to another shop, 
+that cash from Shop B, paid to me, is effectively washed,�? Sharma explains.That so many of the transactions and behaviors 
+of the Trump business empire and Michael Cohen’s empire appear to hew so closely to the well-known patterns and stages 
+of money laundering deeply troubles Sharma.“It falls into fact patterns that we’ve seen in other areas of Russian and Eastern 
+European organized crime,�? he says. “We’re staring at a government—that goes right to the top—that engages in very way of 
+doing business and the exact same fact patterns that we set these tools up to combat. That’s mind-boggling to me.�?More 
+TrumpRobert Mueller likely knows how all this ends.Go inside the Russia-Trump investigation, a Russian novel of intrigue.What would happen if 
+Trump were to fire Robert Mueller?Garrett M. Graff (@vermontgmg) is a contributing editor for WIRED and the author of The 
+Threat Matrix: Inside Robert Mueller FBI. He can be reached at garrett.graff@gmail.com. Related VideoBusinessThis Is What $250 Billion Actually Looks 
+LikeApple recently announced that they have a $250 billion in the bank. This is what that amount of money actually 
+looks like. 
+
+Log DateTime: Sun May 13 23:17:50 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 9032086
+URL: https://www.wired.com/story/boston-dynamics-robot-dog-spotmini-will-be-available-next-year/
+https://www.wired.com/story/boston-dynamics-robot-dog-spotmini-will-be-available-next-year/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@6093dd95
+Title: Boston Dynamics Robot Dog Will Be Available Next Year 
+Author: Matt Simon 
+Category: science 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af5fac20704e13826fd5324/master/pass/BostonDynamics-819235032.jpg 
+URL Links: 
+https://www.wired.com/tag/robotics/
+https://www.wired.com/story/watch-boston-dynamics-spotmini-robot-open-a-door/
+https://www.wired.com/story/watch-a-human-try-to-fight-off-that-door-opening-robot-dog/
+https://www.wired.com/story/lidar-self-driving-cars-luminar-video/
+https://www.wired.com/story/delivery-bots-have-awkward-sidewalk-interactions-too/
+https://www.wired.com/2015/02/creepy-collective-behavior-boston-dynamics-new-robot-dog/
+https://www.wired.com/story/a-robotics-startup-perishes-and-its-got-tales-to-tell/
+https://www.wired.com/story/atlas-robot-does-backflips-now/
+https://www.wired.com/2016/02/boston-dynamics-new-robot-wicked-good-getting-bullied/
+https://www.wired.com/2015/06/mr-know-it-all-4/
+
+Data: 
+	It’s been a hell of a two days for Boston Dynamics’ fantastical quadruped robot SpotMini. Yesterday, it starred in 
+a new video that may seem, well, a bit ho-hum at first glance—at least compared to the company’s other recent 
+reveals. The robot doesn’t open doors for its friends or fight off a human assailant brandishing a hockey stick. It 
+simply traipses down corridors, through doorways, and up a staircase. Yet within that short journey lies a tantalizing detail about 
+SpotMini the robot dog.Boston Dynamics founder Marc Raibert followed that up today at the TechCrunch Sessions: Robotics conference at UC 
+Berkeley with surprising news for the secretive company: SpotMini is coming to market, and soon. The company is planning to 
+build 100 units later this year.“That the prelude to getting them into a higher rate production,�? Raibert said on stage, 
+“which we hope to start about the middle of next year.�? He declined to disclose the price, but did say 
+the machine in the most recent video is about 10 times cheaper to produce than a previous iteration. “And we 
+think we can go further,�? Raibert said.Boston Dynamics has long been research-focused, but that doesn’t mean it hasn’t been thinking 
+about what consumers want out of SpotMini. For one, buyers will be able to mount their own hardware on SpotMini’s 
+back, Raibert said. Boston Dynamics is also working on its own add-on packages. “For instance, we have a surveillance package 
+where we have special cameras that can mount on the back,�? he said. And that famous arm that helped the 
+robot open the door for its friend? That’s an extra option that’ll be removable.Notably, the new video helps explain how 
+Boston Dynamics is getting SpotMini to operate autonomously. According to the video’s description, an operator first manually drives the robot 
+around its surroundings, as the machine captures the view with cameras on its sides and front and back. Then when 
+SpotMini is unleashed to walk the same route on its own, it uses that captured visual data to get its 
+bearings. Self-driving car companies get their machines rolling in much the same way. First, they map routes with lidar, which 
+sprays the road and trees and such with lasers to build a 3-D model of the world. That helps give 
+the robocar a better understanding of its surroundings. The difference with SpotMini, though, is that it’s using stereo cameras instead. 
+It’s devoid of the lidar essential to so many robots, Boston Dynamics confirms.Take a look at the 1:00 mark in 
+the video above. That “Obstacle Avoidance Data�? panel at lower left? “That looks like an occupancy grid from a stereo 
+point cloud,�? says Kevin Peterson, cofounder and software lead of Marble, which makes autonomous delivery robots. “A stereo point cloud 
+is you have two cameras next to each other, like your eyes.�? Thus, stereo vision.That could give the robot more 
+visual resolution than a lidar system. Lidar is better for some things; its range is greater, and it works better 
+in bright conditions than an optical camera. But “what interesting here is they are going indoors and outdoors on a 
+reasonably bright day,�? says Peterson, “so that means their stereo system is working in pretty bright conditions.�?SpotMini’s predecessor, Spot, was 
+indeed equipped with lidar, but it would make sense for this smaller iteration to ditch lidar in favor of stereo 
+cameras. “On a vehicle that small lidar is challenging, it extra weight and it extra power,�? says Peterson. “It just 
+volume that you would rather not take up.�?So SpotMini is destined to see the world more like we do (unless 
+humans start firing lasers out of their eyeballs). And other robotics outfits are exploring ways to get advanced robots to 
+navigate our world with cameras alone. It’s a more energetically efficient way, both in terms of power consumption and bulk, 
+to have increasingly advanced robots make their way around.“What I take away form this is theyre really trying to perfect 
+how they walk through the world,�? says Peterson, “and in order to do that they need to understand something about 
+the world.�?And that seems to be working. Boston Dynamics is real close to pushing SpotMini into the real world, only 
+this time without using hockey sticks.Bananas BotsNot to throw shade, but SpotMini has some competition for most impressive robotic feat. 
+Just a few months ago, Boston Dynamics released this video of its two-legged Atlas robot doing ... wait for it 
+... a backflip.Before that, the best it could do was bounce back after a solid kick from a mean-spirited human.Guys, 
+just in case it not clear: Please dont kick the robots. Related VideoScienceTo Make Better Robots, You Gotta Crash Tiny 
+Drones Into People FirstWelcome to the wild world of human-robot interaction, the quest to get humans and robots collaborating without 
+hurting each other. 
+
+Log DateTime: Sun May 13 23:17:51 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 6055917
+URL: https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/
+https://www.wired.com/story/future-cars-roundup-tesla-uber-flying-cars/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@7d9d1a19
+Title: This Week in the Future of Cars: Touch and Go 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af48a7a2906f277bf4645b7/master/pass/Rolls-Royce-SUV_Aerial-View.jpg 
+URL Links: 
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/tag/flying-cars
+https://www.wired.com/story/uber-unveils-flying-taxi/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/
+https://www.wired.com/story/waymo-crash-self-driving-google-arizona/
+https://www.wired.com/story/self-driving-cars-texas-frisco-driveai/
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/
+https://www.wired.com/story/aston-martin-db-11-volante-convertible-roof-engineering/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/2012/07/ff_stevejobs/
+
+Data: 
+	Transportation is a world full of visionaries: big ideas gone even bigger. It attracts world shakers (and breakers) like 
+Grimes’ Boyfriend, Travis Kalanick, and Mark Moore, a 30-year NASA veteran who decamped last year for Uber’s new flying car 
+project. There are lots of fanciful renderings and prototypes, lots of pulled-off covers and pointing of spotlights. But there’s a 
+lot of busted dreams too. Plans that run out of money, petering out and puttering toward death. Collectors who come 
+calling. Cars that crash and kill.Which is all to say: It was a mixed bag of a week. Senior writer 
+Jack Stewart covered the two-day bonanza that was Uber’s second-annual, and completely serious, flying car summit. Editor Alex Davies took 
+a close look at startup Drive.ai’s upcoming self-driving shuttle launch in unlikely Frisco, Texas. Fun stuff! But ugly stuff too: 
+Tesla’s investor insurrection, thanks (in part) to Grimes’ Boyfriend’s indelicate earnings call comments. A Waymo crash in Arizona that doesn’t 
+appear to have anything to do with self-driving tech but had really unfortunate timing anyway. And a jump in pedestrian 
+deaths—which we’ll need much more than autonomous vehicles to prevent.Let’s get you caught up.HeadlinesStories you might have missed from WIRED 
+this weekUber wants to play middleman in the flying car future, slinging app-ordered rides that take riders smoothly from A 
+to B as the fools in ground-bound vehicles sit in traffic below. But that doesn’t mean it won’t have a 
+hand in the flying car design. This week, the ride-hailing giant turned transportation-everything unveiled an all-electric VTOL concept, and reiterated 
+its commitment to an ambitious timeline: commercial flights by 2022.Last week’s Tesla fireworks continue, with an activist investor now pushing 
+the electric carmaker’s shareholders to banish three of its nine board members in favor of folks with relevant manufacturing expertise. 
+One way Grimes’ Boyfriend could kill the insurrection? By making more cars.In more Tesla news: The National Highway Traffic Safety 
+Administration clarified that the carmaker, and not the federal agency, came up with a much-cited Autopilot safety statistic. Which meant 
+it was a good time for me to ask: How much do we know about Autopilot safety record, anyway?Late last 
+week, a Waymo minivan being driven by a human got seriously banged up by an out-of-control Honda driver. Police in 
+Chandler, Arizona, determined the Waymo vehicle wasn’t at fault, but the scary photos of the banged-up Chrysler Pacifica were spookily 
+reminiscent of this spring’s fatal Uber crash.Yeehaw! Alex explores Drive.ai’s plans to launch a self-driving shuttle service in the Lone 
+Star State, and why geofenced and limited shuttle routes just might be lots of Americans’ first experiences with autonomous vehicles.Heck 
+naw! Contributor Nick Stockton tries to get to the bottom of why Nashville, Tennessee, voters soundly rejected an ambitious transit 
+revamp meant to improve transportation in the traffic-choked city.The Insurance Institute for Highway Safety released a disturbing study on pedestrian 
+deaths, finding fatalities jumped by 46 percent between 2009 and 2016. Some say autonomous vehicles will solve all our road 
+safety problems, but the tech has a ways to go. I explore another option: getting much smarter about road design. 
+ADDLINKAlex finds out everything (really, everything) you have ever wanted to know about engineering a luxury convertible roof.You should read 
+contributor Eric Adams’ spec analysis before plopping down $325,000 and spitting in the face of the proletariat to buy Rolls-Royce’s 
+Cullinan SUV.Glorious Chrome Extension of the WeekI love a good celebrity gossip-automotive crossover story, and we got one in spades 
+when Tesla’s CEO showed up to the Met Gala with Canadian musician and artist Grimes. The meme-ers went wild, I 
+went wild, and someone created a Chrome browser extension that replaces “Grimes’ Boyfriend�? with “Grimes’ Boyfriend�?. OK, maybe I’ve had 
+it turned on all day.Required ReadingNews from elsewhere on the internetThe Information reports Uber has found that its self-driving software—not 
+its sensors—are responsible for March’s deadly Arizona collision. Two sources say the software identified but “filtered out�? the pedestrian as 
+a “false positive�?.Uber says it will resume testing autonomous vehicles in a few months.The NTSB is investigating a Florida Tesla 
+Model S crash that killed two teenagers this week. The panel will primarily explore the emergency response to the electric 
+vehicle battery fire, and says it does not expect to focus on Autopilot.Way back in October 2017, GM said it 
+would start testing AVs in New York City by 2018. But Jalopnik reports the automaker still doesn’t have the necessary 
+permitsHere’s a helpful breakdown of the complicated, crowded, and very technical lidar space.College-age nerds, rejoice. Carnegie Mellon University is launching 
+an undergraduate AI degree in the fall.Lime, which today runs dockless bike-, e-bike-, and e-scooter-share programs across the country, wants 
+to get into… electric-pod-share? The world is moving so quickly.In the RearviewEssential stories from WIRED’s canonRogue CEOs: good or bad? 
+Once you’ve gotten your fill of Grimes’ Boyfriend, check out this 2012 WIRED meditation on the granddaddy of polarizing tech 
+leaders, Steve Jobs. Related VideoScienceGo Inside the Aerodrome, Where the Future of Flight Takes ShapeWelcome to the Aerodrome, where engineers 
+are simulating wind conditions to teach drones to fly safely. 
+
+Log DateTime: Sun May 13 23:17:52 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1471868
+URL: https://www.wired.com/story/pedestrian-deaths-street-design/
+https://www.wired.com/story/pedestrian-deaths-street-design/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@42e26948
+Title: Save Lives With Smarter, Slower Streets&#8212;Not Self-Driving Cars 
+Author: Aarian Marshall 
+Category: transportation 
+Date: 05.11.18 
+PicInfo: https://media.wired.com/photos/5af4b8189c9c3672736890d8/master/pass/Road-Design-GettyImages-85654895.jpg 
+URL Links: 
+https://www.wired.com/tag/self-driving-cars
+https://www.wired.com/story/self-driving-cars-challenges/
+https://www.wired.com/2016/07/better-ways-kill-traffic-lying-waze/
+https://www.wired.com/story/uber-self-driving-crash-video-arizona/
+https://www.wired.com/story/rolls-royce-cullinan-suv-photos-specs/
+https://www.wired.com/story/pedestrian-death-rates-climb/
+https://www.wired.com/story/uber-nacto-data-sharing/?mbid=BottomRelatedStories
+https://www.wired.com/story/nashville-transit-referendum-vote-plan/?mbid=BottomRelatedStories
+https://www.wired.com/story/dodger-gondola-bust-traffic/?mbid=BottomRelatedStories
+
+Data: 
+	No, you’re not imagining things. The timelines for autonomous vehicles keep shifting. Electric carmaker Tesla began selling a $3,000 
+“full self-driving�? add-on to its Autopilot feature in 2016—everything you need to drive without driving!—but still hasn’t turned it on. 
+In 2012, Google’s Sergey Brin said “ordinary people�? would have access to self-driving cars by 2017; the company is still 
+gearing up for a very limited driverless taxi service this year. Volvo quietly delayed a project that was supposed to 
+put 100 Swedish families into autonomous vehicles by 2017.No one wants unready tech on public roads, but for anyone who 
+has bought into the technology’s promise to save lives, the delay is a bummer. To put it very lightly. Almost 
+40,000 Americans died on the road last year. And a new study from the Insurance Institute for Highway Safety finds 
+ugly driving trends have hit one group particularly hard: pedestrians. Nearly 6,000 pedestrian died in 2016, a 46 percent jump 
+over 2009. And if robots won’t save the bipeds, who will?Your friendly carbon-based neighborhood traffic engineer can—and they don’t even 
+need artificial intelligence or $75,000 laser sensors to do it.“If there is too much emphasis on autonomous vehicles solving the 
+problem, when widespread deployability is decades in the future and not next year, I think it increases the temptation to 
+hope that the technology is going to save us,�? says Liisa Ecola, a transportation planner and senior policy analyst with 
+the Rand Corporation. “Traffic safety is a big problem now and to ignore the things we can do, I think, 
+is a disservice to the tens of thousands of people who are killed every year in crashes.�?So forget robots. Engineers 
+and the public officials who dole out their paychecks can start redesigning streets to make them safer. They can zoom 
+in on their problem areas—is there a section of road where people keep getting hurt?—and start fixing roads today.The IIHS 
+study points to the walking pain points, the issues to be solved. Between 2009 and 2016, deaths on arterials—the high-capacity, 
+wide, multilane roads that feed into freeways or highways—jumped 67 percent. Deaths at sections of roads that weren’t intersections went 
+up 50 percent. Deaths in the dark rose by more than half.The good news is that road engineers have access 
+to a suite of “traffic-calming�? measures, which would slow down cars on otherwise fast-paced roads and could prevent many crashes. 
+In fact, Scandinavian-inspired Vision Zero programs, which seek to totally eliminate road deaths and have been adopted by hundreds of 
+places in the US, lay out basic principles for preventing deaths.Let’s take a particular example of a terrible and tragic 
+road death. In March, Arizona resident Elaine Herzberg died when she was struck by a self-driving Uber on a wide, 
+multilane road in Tempe, Arizona. The crash made clear the fallibility not just of robots—we dont know why the Uber 
+didn’t hit the brakes or swerve—but of humans. The Uber employee sitting behind the wheel, charged with grabbing the wheel 
+to prevent crashes, was looking away from the road when the SUV hit Herzberg.A better robot could have saved Herzberg’s 
+life, but so might have better road design. Tempe is pretty typical for a middling-density place. Engineers built its arterials 
+to transport cars, and quickly. Their long, straight lines are easy for drivers to navigate but induce a slow, lazy 
+“zoning out,�? and a level of comfort that makes it easier to glance away from the road.Deaths like Herzeberg’s, on 
+streets like Tempe’s, might have been prevented with more frequent and shorter crosswalks. Herzberg, wheeling a bicycle weighed down with 
+plastic bags, was about 100 yards from the nearest crosswalk when she died. That’s not too far, but given how 
+many crosswalks on urban arterials are miles away from each other, it’s not hard to comprehend why a walker like 
+Herzberg might risk a run across the road.Another option is to put a street on what engineers call a “road 
+diet,�? narrowing or even eliminating lanes of traffic. Reducing the margin of error makes drivers more likely to pay attention—research 
+evaluated by the Federal Highway Administration suggests road diets can cut crashes by more than 30 percent, and pedestrian deaths 
+or injuries by more than 20.Safety-minded engineers suggest that even simply adding trees or landscaping to the sides of roads 
+adds eye-catching elements that can force drivers to focus. Things like “bulb outs,�? which jut into the street at intersections 
+and shorten distances between corners for pedestrians, work too. Any way engineers can get drivers to slow the heck down 
+is helpful. The faster a car is moving, the more likely it is to kill someone in a collision. You’re 
+as much as 5.5 times more likely to kill someone hitting them at 40 mph than 30 mph.(Oh, and drive 
+smaller cars too. The IIHS study notes a spike in deaths among those hit by the larger trucks and SUVs 
+Americans cannot stop buying.)Implementing these fixes should be far easier than teaching a robot to interpret a traffic cop’s hand 
+signals. Most transportation engineers now joining the workforce should be well-acquainted with these strategies, and ready to emphasize safety over 
+speed. And compared to the economic impact of crashes—not to mention the loss of lives—Vision Zero–type interventions cost pennies.But that’s 
+not always the way it turns out in city hall. Infrastructure funding is scarce. Drivers can get hostile when you 
+suggest slowing their commutes for the sake of, well, anything. And scientists are still struggling to pin rising pedestrian deaths 
+on any one factor. “Traffic safety is really a very multidisciplinary problem,�? says Ecola. “It’s not something we can fix 
+just with engineering solutions or just with campaigns to get people to wear their seatbelts more often. It’s all of 
+those things.�?Still, if tragic crashes don’t get politicians’ attention, what will? Hopefully not just the robo-cars that always seem a 
+horizon away.On the Road AgainUber makes peace with cities by spilling its secretsWhy traffic-choked Nashville said nope to public transitA 
+Dodger stadium gondola is just LA latest wild bid to bust traffic Related VideoTransportationSee How an Insane 7-Circle Roundabout Actually 
+WorksYour first thought upon seeing Swindons magic roundabout might be: man, the Brits have really lost the plot lately. But 
+this thing&#8212;which is actually seven roundabouts in one&#8212;has been working for 60 years. 
+
+Log DateTime: Sun May 13 23:17:53 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1413653
+URL: https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/
+https://www.wired.com/story/who-pays-the-most-and-least-in-silicon-valley/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@53b32d7
+Title: Who Pays the Most, and Least, in Silicon Valley? 
+Author: Scott Thurm 
+Category: business 
+Date: 05.10.18 
+PicInfo: https://media.wired.com/photos/5af36ac697bc147d4a0254b4/master/pass/Amazon-874679068.jpg 
+URL Links: 
+https://www.wired.com/story/elon-musk-salary/?mbid=BottomRelatedStories
+https://www.wired.com/story/how-amazon-jeff-bezos-spends-his-money/?mbid=BottomRelatedStories
+https://www.wired.com/story/raising-wages-to-help-workers-could-actually-help-robots-replace-them/?mbid=BottomRelatedStories
+
+Data: 
+	How much do workers at tech firms make?The answer varies a lot, depending on the employer. The median employee 
+at Amazon made $28,446 last year, according to new disclosures required by the Securities and Exchange Commission. At Facebook, the 
+median employee made $240,430, more than eight times as much.There are reasons for the big disparity, of course: Facebook’s 25,000 
+employees include many software engineers, which it must recruit in the expensive and competitive San Francisco Bay Area. Most of 
+Amazon’s 566,000 employees work in its distribution centers, including many overseas; in the US, Amazon says the average hourly wage 
+in its distribution centers is more than $15 an hour, which translates to slightly more than $30,000 a year, before 
+overtime.Other disparities reflect differences in companies’ businesses, and business models. As a car maker, Tesla says 26 percent of its 
+employees are production workers and 18 percent are outside the US. The company reported median employee pay of $54,816. Tesla 
+says its employees also have benefited from increases in the company’s share price. IBM, which has aggressively moved jobs overseas 
+in recent years, reported median pay of $54,491. The New York Times reported in September that IBM now has more 
+employees in India than in the US. An IBM spokesperson did not respond to requests for comment.Even within the same 
+tech sector, median pay can vary significantly based on a company’s business model. Intel, the largest US maker of semiconductors 
+by revenue, makes its own chips. Three of its six manufacturing sites are in the US, as are half of 
+its 102,000 employees. The company reported median pay of $102,100. Nvidia, whose graphics chips are used widely for machine learning 
+and artificial intelligence, reported median pay of $147,640. The company contracts out the manufacturing of its chips and has only 
+about 8,200 employees. A spokesperson says half of Nvidia’s employees are in the “highly competitive�? Silicon Valley market and that 
+its employees are “highly skilled, college educated, and have deep expertise–all of which command a premium in the market.�?The median 
+pay figures underscore that intense competition for tech talent in the Bay Area. Nationally, the average pay for software developers 
+and programmers is $102,470, according to the US Labor Department. Bay Area tech firms are paying considerably more: The median 
+pay at Workday, which makes software that helps businesses manage finances and people, is $178,903, according to its proxy statement. 
+At Salesforce, another business-software maker, it’s $155,284; and at payments processor Square, it’s $152,265.Companies are disclosing the median pay of 
+employees for the first time this year under a new SEC rule intended to shine a light on the high 
+pay of CEOs. The rule took effect for fiscal years ending December 31, 2017, or later, so companies on different 
+fiscal calendars, including Apple, Microsoft, and Oracle, won’t report their median-pay figures until later this year.Companies have to report the 
+ratio of the pay of their CEOs to the median pay of their employees. The Wall Street Journal reported that 
+Marathon Petroleum CEO Gary Heminger was paid $19.7 million last year, or 935 times the $21,034 salary of the company’s 
+median worker.The ratios are less meaningful for big tech companies because many of their CEOs are founders who own large 
+chunks of the company and receive only nominal compensation. Twitter CEO Jack Dorsey received no compensation, according to the company’s 
+proxy statement. Facebook’s Mark Zuckerberg and Google parent Alphabet’s Larry Page each were paid $1. Zuckerberg’s reported compensation also included 
+$8.8 million for company-provided security services and travel on company planes. Amazon’s Jeff Bezos was paid a salary of $81,840, 
+as he has been annually since 1998; his compensation included $1.6 million for security services paid by the company.Money, Money, 
+MoneyElon Musk $0 salary encapsulates the legend of Tesla.How Jeff Bezos spends his cash.Raising wages to help workers could actually 
+help robots replace them. Related VideoTechnologySeniors React to Amazon EchoWIRED asks a group of seniors what they think about Amazon 
+Echo. Can they stump our new favorite digital assistant, Alexa? 
+
+Log DateTime: Sun May 13 23:17:54 EDT 2018
+Data Found: 
+Created By: null
+Date Created: null
+Key: 0
+ID: 1181199
+URL: https://www.wired.com/story/tesla-elon-musk-investors-board-vote/
+https://www.wired.com/story/tesla-elon-musk-investors-board-vote/:
+Content Type: text/html; charset=utf-8
+Content Length: -1
+Last Modified: Wed Dec 31 19:00:00 EST 1969
+Expiration: 0
+Content Encoding: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1a968a59
+Title: Struggling Tesla Faces an Investor Insurrection 
+Author: Alex Davies 
+Category: transportation 
+Date: 05.09.18 
+PicInfo: https://media.wired.com/photos/5af348a341f2a64a30dd46d1/master/pass/TeslaShareholders_17210438795527.jpg 
+URL Links: 
+https://www.wired.com/tag/tesla
+https://www.wired.com/tag/elon-musk
+https://www.wired.com/story/elon-musk-tesla-model-3-earnings-call/
+https://www.wired.com/story/tesla-autopilot-safety-statistics/?mbid=BottomRelatedStories
+https://www.wired.com/story/elon-musks-ire-reveals-a-wall-street-silicon-valley-divide/?mbid=BottomRelatedStories
+https://www.wired.com/story/tesla-autopilot-investigation-ntsb-crash/?mbid=BottomRelatedStories
+
+Data: 
+	For a company working its way into an industry that specializes in annihilating newcomers, Tesla has proven remarkably persistent. 
+It has dodged bankruptcy, built an enormous fan base, and rolled out a series of terrific automobiles that made electric 
+cars cool. But the secret to the company’s endurance is that someone up there likes it—up there being top floor 
+corner offices occupied by the investors who have kept Tesla running through 15 profitless years.Now that Tesla is facing a 
+series of crises—a variety of lawsuits, interrogations over the safety of its Autopilot feature, and, most of all, lagging Model 
+3 production—some of those up on high are revealing themselves as Old Testament–style gods: displeased with what they see happening 
+on the ground, and ready to smite.This morning, an activist investor published a letter calling for Tesla shareholders to kick 
+three of its nine board members off the board and replace them with people with more relevant experience who will 
+be less likely to defer to defiant demigod CEO Elon Musk.The problem is the reality is starting to stack up, 
+and that’s a reality of accidents the cars have had, quality issues, and massive misses on Model 3 production numbers,�? 
+writes that investor, Dieter Waizenegger, executive director of the CtW investment group. “You add all that up and there’s a 
+real question about whether this company can deliver what it promises.Now that Tesla is mass producing cars, running an energy 
+business, and has some 40,000 employees, Waizenegger says it needs board members with experience in manufacturing, utilities, and management, and 
+who’ll be willing to help Musk through various hiccups. “They need to change the composition of the board to reflect 
+the evolving business strategy,�? he says. Tesla expanded its board last year, adding 21st Century Fox CEO James Murdoch and 
+Johnson Publishing Company CEO Linda Johnson Rice—hardly the expertise Waizenegger hoped for, he says. “We needed to do something more 
+dramatic.�?Musk’s refusal to answer analyst queries about Model 3 orders and capital requirements during an investor call last month (he 
+dismissed them as “boring, bonehead questions�?) didn’t assuage any concerns. “We want the company to survive,�? Waizenegger says. “It is 
+therefore concerning if you’re not able to have a serious conversation with analysts.�?So, at Tesla’s annual meeting on June 5, 
+CtW wants its fellow shareholders to vote against the reelection to the board of venture capitalist Antonio Gracias, Elon’s brother 
+Kimbal Musk, and Murdoch. (Like in the Senate, only third of Tesla board members come up for reelection at a 
+time.) It’s another way of saying: Musk should keep the top spot, but he needs more oversight. Tesla declined to 
+comment.Waizenegger has long voiced his concerns about Tesla’s board, which has hardly changed since the company went public in 2010, 
+and most of whose members have close personal ties to Musk.CtW may be right, but that doesn’t make it mighty. 
+And volubility does not mean anybody will join the cause. The firm, which runs pension funds sponsored by Change to 
+Win, a federation of unions, holds about 260,000 Tesla shares. By comparison, the automaker’s largest shareholder, Fidelity, holds more than 
+16 million. And despite Musk’s concerning performance on that investor call, Tesla seems to be headed in the right direction, 
+saying it should hit its target of building 5,000 Model 3 sedans a week in the next few months, and 
+reach profitability soon after. Just the sort of thing that should soothe anxious investors.“I’m betting almost all of these problems 
+would be fine if Model 3 production went to 5,000 plus, starting relatively soon,�? says Karl Brauer, an auto industry 
+analyst with Kelley Blue Book. “You can point to plenty of automakers that have had plenty of controversial issues crop 
+up. But if they’re overall profitable, people rightly assume they’ll get through it.�?Waizenegger maintains that experienced board members willing to 
+help Musk manage the company are crucial to Tesla’s future. The automaker is in a particularly tough spot right now, 
+fighting a series of crises as it tries to roll out the Model 3, the car that’s supposed to bring 
+electric driving to the masses and profits to investors. So the doubters may be more numerous and audible than usual. 
+But if Musk has proven anything, it’s that he can sell people on a vision and deliver—even if it takes 
+a Hail Mary.All About ElonTesla favorite Autopilot safety stat just doesnt stand upMusk ire reveals a Wall Street-Silicon Valley divideTesla 
+wild fight with the feds investigating its latest Autopilot death Related VideoTransportationTeslas Electric Model 3 Will Be a Great Everyday 
+Car ... Some DayNearly half a million people have put down a thousand dollar deposit for a Tesla Model 3 
+they may not get for years. But once the early production bugs are ironed out, the Model 3 feels like 
+its going to be a great everyday car. 
