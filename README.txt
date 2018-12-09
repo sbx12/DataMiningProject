@@ -9,4 +9,3 @@ PASSWORD: PASSWORD
 
 Data is preinstalled to quickly test the program you can make a new user using register if you want to.
 
-Big file size sorry about that.
