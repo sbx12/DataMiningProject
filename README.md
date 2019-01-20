@@ -1,5 +1,6 @@
 # LIMEWIRED
-USER MANUAL
+USER MANUAL 
+**A class project that required mining data from a website in this case wired.com**
 
 ## Table of Contents
 
