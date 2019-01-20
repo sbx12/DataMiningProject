@@ -86,7 +86,7 @@ TextFile
 
 	To add text file information you will have to add the path of the text file.
 
-<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add3.PNG'/> 
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add4.PNG'/> 
 	
 PROBLEMS:  After running the program after the final submission.  I discovered a problem in which the program detects the text file and it never enters the data into the database and stays stuck as you can see in the picture so you will have to close the program.  Sorry about this please don't try to add text file data.
 
@@ -96,7 +96,7 @@ PROBLEMS:  After running the program after the final submission.  I discovered a
 
 	To add web picture just put in the web link after typing in file 
 
-<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add4.PNG'/> 
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add5.PNG'/> 
 
 After putting in a correct link it will make you add a title and then it will enter it into the database
 
@@ -106,7 +106,7 @@ TIP: the picture is saved into the Image folder.  Other non wired picture links 
 
 	To search by Wired category,  type in add then file and then category.
 	
-<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add5.PNG'/> 
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add6.PNG'/> 
 	
 TIP: Once you choose one of the categories(Not case sensitive) then it will read off the first page of that choose category on wired.com. You will see all of the data being processed as it reads through the web page.
 
@@ -120,7 +120,7 @@ TIP: At the bottom it gives you the option to save the data into the database.
 
 	To do an advance search type in anything that is not a file path, web link or picture.  Just type something like faceboook, cat, space, ai or phone.
 	
-<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add6.PNG'/>	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/add7.PNG'/>	
 
 TIP: The bottom part tells you how many search pages you want to to search.  I recommend doing only doing 1-3 since it could take a 
 while to search through a lot of data.
@@ -151,27 +151,40 @@ REMEMBER TO TYPE SAVE TO SAVE YOUR WORK
 # FIND
 
 	Find is used to find any data that is saved in the database.
+	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/Find1.PNG'/>		
+
 
 **ID**
 
 	Every Data inputted as a special ID given to them and can be used to search for that data.  This is a more accurate way in finding the data you want. Here is an example.
+	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/Find1IDExample.PNG'/>		
+	
 After finding it will give you the option to look at the picture and if you want to output the data to a text file. Next Page has example
 
 TIP: Finding by ID is the only one with the option to look at the pictures since it works one at a time unlike the next find options which search through multiple data.
 
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/Find1IDExample2.PNG'/>	
+
 **ALL**
 
 	ALL outputs all the data in the database 
+	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/finall.PNG'/>	
 
 **Advance**
 
 	Advance will search the data filtering out the data based on the inputted data.
+	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/findadv.PNG'/>	
 		
 **SAMPLEOUTPUT**:
 
-
-
 TECH ISSUE:  The “No match.....” was used when testing and debugging the project and forgot to take it out. 
+
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/FindadvOutput.PNG'/>	
+
 NOTE: The data such as the article text is not shown because I thought it would be easier to read the searched data in this format.
 
 PROBLEM:  If you add a web link picture into the database unlike a regular weblink or advance search then the program might throw an a null exception error.  I found this out after the final submission and this is due to some of the data ending up being null when adding through a web link picture.  It is an easy fix but didn't think of that issue before.  This problem ONLY occurs in advance find.
@@ -179,19 +192,22 @@ PROBLEM:  If you add a web link picture into the database unlike a regular webli
 # DELETE
 
 	Delete removes data from the database and does it be searching for the data's ID number.
+	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/Delete1.PNG'/>	
+
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/delete2.PNG'/>	
 
 TIP:  The easiest way to find the ID is by using the find ALL or find Advance  and the copy and paste into the “Insert ID to Find Data:” section
-
-
-
-
 
 # EDIT
 
 	EDIT allows you to modify the data in the database and uses an ID number to find the data.
+	
 **INPUT**
 
 	INPUT allows you to manually change the datas title and text article data.
+
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/Edit1.PNG'/>	
 
 TECH ISSUE:  “The data has been deleted”  was going to be used for when a user wanted to edit the category a different hash number would be given to the data since the hashing works by category and date.  I did not get to add the feature but  the whole main purpose once to change the hash key but save the ID number.
 
@@ -199,6 +215,10 @@ TECH ISSUE:  “The data has been deleted”  was going to be used for when a us
 
 	Replaces the data with new information from a wired link.  Needs datas ID number in order to find and edit it.
 	
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/editURL.PNG'/>	
+
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/editURL2.PNG'/>	
+
 TECH ISSUE:  This where the “Data has been deleted”  would have shine because the whole idea was to replace everything in the data node with new information but preserve the ID number.  The thought process was if an article from wired was updated this could be used to update the new information.  The ID is lost and is an easy fix but was too late after the final submission.
 
 
@@ -207,6 +227,8 @@ TECH ISSUE:  This where the “Data has been deleted”  would have shine becaus
 -o:  Used to output the data into a text file which comes from using -i.
 
 EXAMPLE: -o [NAMEOFFILE]
+
+<img src='https://github.com/sbx12/DataMiningProject/blob/master/Documents/UsermanualPics/OcommandExample.PNG'/>	
 
 TIP: Make sure to use this flag before using the -i flag since it will output all data that is called after -o is called. 
 
